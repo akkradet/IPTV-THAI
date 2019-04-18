@@ -14,3 +14,6 @@ http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3sd.png",3 SD
 http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3fm.png",3 SD
+http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
