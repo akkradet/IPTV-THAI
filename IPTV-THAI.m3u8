@@ -29,3 +29,6 @@ http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunkl
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/one.png",ONE HD
 http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/newtv.png",New18
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
