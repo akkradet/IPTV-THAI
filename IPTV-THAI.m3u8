@@ -20,3 +20,12 @@ http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/7hd.png",7 HD
 http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/mcothd.png",MCOT HD
+http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/mcotfam.png",MCOT FAMILY
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w121661968_b2000000.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/one.png",ONE HD
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
