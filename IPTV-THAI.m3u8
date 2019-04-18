@@ -30,6 +30,9 @@ http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunkl
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/one.png",ONE HD
 http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/gmm.png",GMM 25
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w598374858_b1628000.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/newtv.png",New18
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 
