@@ -17,3 +17,6 @@ http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3fm.png",3 FAMILY
 http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/7hd.png",7 HD
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
