@@ -1,7 +1,0 @@
-
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/5hd.png",TV5HD1
-http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/nbt.png",NBT
-http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
