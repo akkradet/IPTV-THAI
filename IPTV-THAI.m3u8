@@ -10,14 +10,14 @@ http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/5hd.png",TV5HD1
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/7hd.png",7 HD
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/nbt.png",NBT
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/pic_icon_TVThai.jpg",THAI PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_1080p/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/7hd.png",7 HD
-http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/mcothd.png",MCOT HD
 http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
