@@ -26,7 +26,7 @@ http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w121661968_b2000000.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/wp.png",WORKPOINT TV
-WORKPOINT_TV_HD,http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
+http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/voice.png",VOICE TV
 http://27.254.130.64/live02/6.m3u8?p=iptv
