@@ -46,5 +46,5 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/boomerang.jpg",BOOMERANG
 http://iliketot.dyndns.tv/06c02432266f4f42b48947e075de38c5.m3u8
 
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/fam.jpg",Fox Action Movies Thai
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/fam.png",Fox Action Movies Thai
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
