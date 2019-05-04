@@ -1,4 +1,10 @@
 #EXTM3U
+
+# =======================================================
+# Playlist Name: IPTV-THAI-V2.m3u8
+# Last Update: MAY-04-2019
+# =======================================================
+
 #EXTINF:-1,3hd
 http://iliketot.dyndns.tv/a4485b656d764f308c63b14a8bf62326.m3u8
 #EXTINF:-1,TV5 HD1
