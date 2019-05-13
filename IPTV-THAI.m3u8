@@ -27,7 +27,8 @@ http://iliketot.dyndns.tv/ce9a1585f45d4379970b95308df3f879.m3u8
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/mcothd.png",MCOT HD
-http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/mcotfam.png",MCOT FAMILY
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w121661968_b2000000.m3u8
