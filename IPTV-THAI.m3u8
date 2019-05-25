@@ -57,6 +57,9 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/btv20.png",BRIGHT TV
 http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
 
+#EXTINF:-1 group-title="Digital TV" tvg-logo="",MONO29
+http://183.182.100.184/live/mono29/index.m3u8
+
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/boomerang.jpg",BOOMERANG
 http://iliketot.dyndns.tv/06c02432266f4f42b48947e075de38c5.m3u8
 
