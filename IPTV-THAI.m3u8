@@ -125,3 +125,18 @@ https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
  
 #EXTINF:-1,SKYNET SPORTHD
 https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1,PremierHD1
+https://tvrealtime.com/live/BEIN1/playlist.m3u8
+#EXTINF:-1,PremierHD2
+https://tvrealtime.com/live/BEIN2/playlist.m3u8
+#EXTINF:-1,PremierHD3
+https://tvrealtime.com/live/BEIN3/playlist.m3u8
+#EXTINF:-1,PremierHD4
+https://tvrealtime.com/live/BEIN4/playlist.m3u8
+#EXTINF:-1,FOXSPORT1
+https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
+#EXTINF:-1,FOXSPORT2
+https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
+#EXTINF:-1,FOXSPORT3
+https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
