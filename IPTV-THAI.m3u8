@@ -140,3 +140,50 @@ https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
 https://tvrealtime.com/live/FOXSPORT2/playlist.m3u8
 #EXTINF:-1,FOXSPORT3
 https://tvrealtime.com/live/FOXSPORT3/playlist.m3u8
+
+#EXTINF:-1,3HD
+https://tv.xpeer-cdn.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1,5HD
+https://tv.xpeer-cdn.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1,7HD
+https://tv.xpeer-cdn.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1,MCOT HD
+https://tv.xpeer-cdn.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1,NBT
+https://tv.xpeer-cdn.com/02_NBTSD_480p/chunklist.m3u8
+#EXTINF:-1,TPBS HD
+https://tv.xpeer-cdn.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+https://tv.xpeer-cdn.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://tv.xpeer-cdn.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1,ONE HD
+https://tv.xpeer-cdn.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1,AMARIN HD
+https://tv.xpeer-cdn.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1,TNN24
+https://tv.xpeer-cdn.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1,TRUE4U
+https://tv.xpeer-cdn.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1,VIOCE
+https://tv.xpeer-cdn.com/02_VOICE_480p/chunklist.m3u8
+#EXTINF:-1,WORKPIONT
+https://tv.xpeer-cdn.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1,GMM
+https://tv.xpeer-cdn.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1,MONO29
+https://tv.xpeer-cdn.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1,NEW
+https://tv.xpeer-cdn.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1,NATION TV
+https://tv.xpeer-cdn.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1,MCOT FAMILY
+https://tv.xpeer-cdn.com/02_MCOTFAMILY_720p/chunklist.m3u8
+#EXTINF:-1,8 HD
+https://tv.xpeer-cdn.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1,3SD
+https://tv.xpeer-cdn.com/02_CH3SD_480p/chunklist.m3u8
+#EXTINF:-1,3FAMILY
+https://tv.xpeer-cdn.com/02_CH3FAMILY_480p/chunklist.m3u8
+#EXTINF:-1,FANMUSICHD
+https://tv.xpeer-cdn.com/02_FANMUSICHD_720p/chunklist.m3u8
