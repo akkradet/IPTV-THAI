@@ -2,7 +2,7 @@
  
 # =======================================================
 # Playlist Name: IPTV-THAI.m3u8
-# Last Update: 05-10-2019
+# Last Update: 16-10-2019
 # =======================================================
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3sd.png",3 HD
@@ -36,9 +36,6 @@ http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunkl
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/wp.png",WORKPOINT TV
 http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/voice.png",VOICE TV
-http://27.254.130.64/live02/6.m3u8?p=iptv
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/one.png",ONE HD 1
 http://one31-rlbwkq.cdn.byteark.com/live/playlist.m3u8
 
@@ -60,6 +57,9 @@ http://live4.netdesignhost.com/brighttvlive/brighttvlive/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="",MONO29
 http://183.182.100.184/live/mono29/index.m3u8
 
+#EXTINF:-1,Daradaily
+http://27.254.130.64/live01/ch16.m3u8?p=st
+
 #EXTINF:-1 group-title="กีฬา" tvg-logo="",TrueSport HD1
 https://live.youlive-cdn.com/02_2sporthd1_720p/chunklist.m3u8
 
@@ -75,5 +75,53 @@ https://live.youlive-cdn.com/02_sport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="การ์ตูน" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/boomerang.jpg",BOOMERANG
 http://iliketot.dyndns.tv/06c02432266f4f42b48947e075de38c5.m3u8
 
+#EXTINF:-1 group-title="การ์ตูน",CARTOON NETWORK
+https://tv.xpeer-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/fam.png",Fox Action Movies Thai
 http://iliketot.dyndns.tv/206105b34a1c44b886c6cd3c59105803.m3u8
+
+#EXTINF:-1,WARNER TV
+https://tv.xpeer-cdn.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1,fox_action_movies_th
+https://tv.xpeer-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1,fox_action_movies
+https://tv.xpeer-cdn.com/02_FoxActionHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1,fox_movies
+https://tv.xpeer-cdn.com/02_FoxMoviesHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1,HBO Hits
+https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
+ 
+#EXTINF:-1,fox_Family_th
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+ 
+#EXTINF:-1,fox_Family
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_720p/chunklist.m3u8
+
+#EXTINF:-1,TRUE_FILM1
+https://tv.xpeer-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1,TRUE_FILM2
+https://tv.xpeer-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
+ 
+#EXTINF:-1,US: Nat Geo HD
+https://tv.xpeer-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1,history
+https://tv.xpeer-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1,history2
+https://tv.xpeer-cdn.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1,Premier league 3 Bk
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+ 
+#EXTINF:-1,Premier league 4 Bk
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+ 
+#EXTINF:-1,SKYNET SPORTHD
+https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
