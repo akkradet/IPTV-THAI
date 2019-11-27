@@ -2,8 +2,19 @@
 
 # =======================================================
 # Playlist Name: IPTV-THAI-V3.m3u8
-# Last Update: NOV-18-2019
+# Last Update: NOV-27-2019
 # =======================================================
+  
+---------------
+
+WARNING!!
+DO NOT REUPLOAD/ MIRRORING THIS PLAYLIST (WHOLE PLAYLIST/ CONTENT IN PLAYLIST) OR I WILL STOP UPDATE THIS PLAYLIST,
+IF I FOUND THIS PLAYLIST ON PUBLIC AREA, I WILL STOP UPDATE IMEDIETLLY.
+
+THANKYOU
+
+--------------
+#EXTINF:-1 group-title="#ดูฟรีเท่านั้น"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/ZalTV-IPTV-Player.jpg",#ดูฟรีเท่านั้น
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-ch3.png",3HD
 https://livedoomovie.com/02_3HD_720p/chunklist.m3u8
