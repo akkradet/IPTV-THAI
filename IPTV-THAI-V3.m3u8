@@ -33,15 +33,13 @@ https://livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 https://livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-gmmchannel.png",GMM25
 https://livedoomovie.com/02_GMM_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",MONO29
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-mono.png",MONO29
 https://livedoomovie.com/02_MONO_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",NEW
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-new.png",NEW
 https://livedoomovie.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",NATION TV
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-nation.png",NATION TV
 https://livedoomovie.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",MCOT FAMILY
-https://livedoomovie.com/02_MCOTFAMILY_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",8 HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-ch8.png",8 HD
 https://livedoomovie.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",FANMUSICHD
 https://livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
