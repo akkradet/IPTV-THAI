@@ -5,47 +5,47 @@
 # Last Update: NOV-18-2019
 # =======================================================
 
-#EXTINF:-1,3HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-ch3.png",3HD
 https://livedoomovie.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1,5HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-ch5.png",5HD
 https://livedoomovie.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1,7HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-ch7.png",7HD
 https://livedoomovie.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1,MCOT HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-mcot.png",MCOT HD
 https://livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1,NBT
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-nbt.png",NBT
 https://livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
-#EXTINF:-1,TPBS HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-tpbs.png",TPBS HD
 https://livedoomovie.com/02_THAIPBS_720p/chunklist.m3u8
-#EXTINF:-1,PPTV HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",PPTV HD
 https://livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1,THAIRATH HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",THAIRATH HD
 https://livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1,ONE HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",ONE HD
 https://livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF:-1,AMARIN HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",AMARIN HD
 https://livedoomovie.com/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1,TNN24
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",TNN24
 https://livedoomovie.com/02_TNN24_480p/chunklist.m3u8
-#EXTINF:-1,TRUE4U
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",TRUE4U
 https://livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1,VIOCE
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",VIOCE
 https://livedoomovie.com/02_VOICE_480p/chunklist.m3u8
-#EXTINF:-1,WORKPIONT
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",WORKPIONT
 https://livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1,GMM
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",GMM
 https://livedoomovie.com/02_GMM_720p/chunklist.m3u8
-#EXTINF:-1,MONO29
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",MONO29
 https://livedoomovie.com/02_MONO_720p/chunklist.m3u8
-#EXTINF:-1,NEW
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",NEW
 https://livedoomovie.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1,NATION TV
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",NATION TV
 https://livedoomovie.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:-1,MCOT FAMILY
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",MCOT FAMILY
 https://livedoomovie.com/02_MCOTFAMILY_720p/chunklist.m3u8
-#EXTINF:-1,8 HD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",8 HD
 https://livedoomovie.com/02_8HD_720p/chunklist.m3u8
-#EXTINF:-1,FANMUSICHD
+#EXTINF:-1 group-title="ทีวีดิจิตอล"tvg-logo="",FANMUSICHD
 https://livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
 #EXTINF:0, PremierHD1
 https://livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
