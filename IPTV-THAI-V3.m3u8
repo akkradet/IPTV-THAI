@@ -92,21 +92,21 @@ https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-tsport4.png", True Sport HD4
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:0, Fox Sport1
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxsports1.png", Fox Sport1
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0, Fox Sport2
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-foxsports2.png", Fox Sport2
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:0, Fox Sport3
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-foxsports3.png", Fox Sport3
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0, Tennis HD
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-tennis.png", Tennis HD
 https://livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:0, NBA HD
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-nba.png", NBA HD
 https://livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:0, NFLNetwork
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/nfl-network.png", NFLNetwork
 https://livedoomovie.com/02_NFLNetwork_720p/chunklist.m3u8
-#EXTINF:0, Golf HD
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-golf.png", Golf HD
 https://livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:0, HBO HD
+#EXTINF:0 group-title="กีฬา"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", HBO HD
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:0, HBO Hit
 https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
