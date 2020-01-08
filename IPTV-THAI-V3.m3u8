@@ -117,29 +117,29 @@ https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 https://livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
 #EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxaction.png", FoxActionHD
 https://livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxMovies_TH
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxpremium.png", FoxMovies_TH
 https://livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxMovies
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxpremium.png", FoxMovies
 https://livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxFamilyHD_TH
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxfamily.png", FoxFamilyHD_TH
 https://livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxFamilyHD
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxfamily.png", FoxFamilyHD
 https://livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxThai_TH
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-fox.png", FoxThai_TH
 https://livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxThai
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/sd-fox.png", FoxThai
 https://livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxCrimeHD_TH
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxcrime.jpg", FoxCrimeHD_TH
 https://livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FoxCrimeHD
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-foxcrime.jpg", FoxCrimeHD
 https://livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", RedbyHBO
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-screenred.jpg", RedbyHBO
 https://livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", AXN HD
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-axn.png", AXN HD
 https://livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", WarnerTV HD
 https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", FXThailand
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-fx.jpg", FXThailand
 https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
 #EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", TrueFilmHD1
 https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
