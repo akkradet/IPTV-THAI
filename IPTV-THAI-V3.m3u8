@@ -141,13 +141,13 @@ https://livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 https://livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-fx.jpg", FXThailand
 https://livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", TrueFilmHD1
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-tfilm.jpg", TrueFilmHD1
 https://livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", TrueFilmHD2
+#EXTINF:0 group-title="ภาพยนต์"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-tfilm.jpg", TrueFilmHD2
 https://livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", HISTORY HD
+#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-history.png", HISTORY HD
 https://livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", H2 HD
+#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-history2.png", H2 HD
 https://livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", DiscoveryChannel
 https://livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
@@ -167,7 +167,7 @@ https://livedoomovie.com/02_NatGeoWild_720p/chunklist.m3u8
 https://livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", Sumrujlok
 https://livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", MYSCIHD
+#EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-mysci.jpg", MYSCIHD
 https://livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
 #EXTINF:0 group-title="สารคดี"tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon2/hd-hbo.jpg", BBCEARTH
 https://livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
