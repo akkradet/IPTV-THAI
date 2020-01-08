@@ -8,11 +8,6 @@
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3sd.png",3 HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3sd.png",3 SD
-http://ch3-28.cdn.byteark.com/live/playlist_720p/index.m3u8
-
-#EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/3fm.png",3 FAMILY
-http://ch3-13.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/5hd.png",TV5HD1
 http://iliketot.dyndns.tv/1d92193b11fe490b8c67d0a88bee3fd6.m3u8
