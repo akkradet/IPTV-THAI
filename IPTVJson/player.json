@@ -1,0 +1,21 @@
+{
+    "streams": [
+        {
+            "name": "Zeroflix TV",
+            "logo": "zeroflix_tv.png",
+            "url": [                
+				"https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/videos/welcome.ts",
+				"https://zeroflixlivetv.herokuapp.com/videos/welcome.ts"
+            ]
+        },
+		{
+            "name": "UPDATE APP",
+            "logo": "zeroflix_tv.png",
+            "url": [                
+				"https://raw.githubusercontent.com/zeroflixxyz/IPTV/master/videos/Zeroflix_Update.ts",
+				"https://zeroflixlivetv.herokuapp.com/videos/Zeroflix_Update.ts"
+            ]
+        }            
+        
+    ]
+}

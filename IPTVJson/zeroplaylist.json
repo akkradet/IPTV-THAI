@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "BD LIVE TV"
+    },
+    {
+      "id": 1,
+      "name": "INDIAN TV"
+    },
+    {
+      "id": 2,
+      "name": "WORLDWIDE"
+    },
+    {
+      "id": 3,
+      "name": "Music"
+    },
+    {
+      "id": 4,
+      "name": "Child"
+    },    
+    {
+      "id": 5,
+      "name": "News"
+    }
+  ],
+  "channels": [
+    {
+      "cid": 0,
+      "name": "GAZI TV",
+	  "logo": "gtv.png",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+    },
+	
+	{
+      "cid": 0,
+      "name": "BTV WORLD",
+	  "logo": "https://i.imgur.com/2RyPRUR.png",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8"
+    },
+	{
+      "cid": 1,
+      "name": "STAR GOLD",
+	  "logo": "https://i.imgur.com/wDgOB6E.jpg",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
+    },
+	
+	{
+      "cid": 1,
+      "name": "COLORS BANGLA",
+	  "logo": "https://i.imgur.com/KJc5ens.png",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8"
+    },
+	{
+      "cid": 3,
+      "name": "SANGEET BANGLA",
+	  "logo": "https://i.imgur.com/epr6zgI.png",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8"
+    },
+	{
+      "cid": 1,
+      "name": "COLORS HD",
+	  "logo": "https://i.imgur.com/hx10DlQ.png",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "VHL",
+	  "logo": "",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/vh1/chunks.m3u8"
+    },
+	{
+      "cid": 2,
+      "name": "STAR WORLD",
+	  "logo": "",
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8"
+    },  
+
+    {
+      "cid": 5,
+      "name": "Zee Bioskop",
+	  "logo": "https://i.imgur.com/FHRHlL6.png",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
+    }
+  ]
+}
