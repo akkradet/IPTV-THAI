@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 0,
-      "name": "BD LIVE TV"
+      "name": "Digital TV"
     },
     {
       "id": 1,
@@ -28,9 +28,9 @@
   "channels": [
     {
       "cid": 0,
-      "name": "GAZI TV",
-	  "logo": "gtv.png",
-      "stream_url": "https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8"
+      "name": "TV5 HD",
+	  "logo": "https://iptvthai.my.to/logo/tv5.png",
+      "stream_url": "http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8"
     },
 	
 	{
