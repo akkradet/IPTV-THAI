@@ -1,8 +1,11 @@
 #EXTM3U url-logos="https://github.com/akkradet/IPTV-THAI/raw/master/icon/"
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH5 HD" tvg-logo="hd-ch5.png",CH5 HD
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NBT" tvg-logo="cctv1.png",NBT
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Thai PBS" tvg-logo="cctv1.png",Thai PBS
+https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NBT" tvg-logo="hd-nbt.png",NBT
+https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Thai PBS" tvg-logo="hd-tpbs.png",Thai PBS
+https://cdnlive.goprimetime.info/feed/chthaipbs/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TPTV" tvg-logo="cctv1.png",TPTV
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TNN16" tvg-logo="cctv1.png",TNN16
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NEW TV 18" tvg-logo="cctv1.png",NEW TV 18
@@ -17,7 +20,7 @@
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="MCOT HD" tvg-logo="cctv1.png",MCOT HD
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="One31 HD" tvg-logo="cctv1.png",One31 HD
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Thiarath TV" tvg-logo="hd-thairath.png",Thiarath TV
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="3 HD" tvg-logo="cctv1.png",CH3 HD
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH3 HD" tvg-logo="hd-ch3.png",CH3 HD
 https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Amarin TV" tvg-logo="cctv1.png",Amarin TV
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH7 HD" tvg-logo="cctv1.png",CH7 HD
