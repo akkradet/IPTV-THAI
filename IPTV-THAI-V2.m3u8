@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png" tvg-name="CH5 HD"  group-title="ดิจิตอลทีวี",CH5 HD
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH5 HD" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png",CH5 HD
 https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NBT" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-nbt.png",NBT
 https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
@@ -7,17 +8,17 @@ https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
 https://cdnlive.goprimetime.info/feed/chthaipbs/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TPTV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-tptv.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TNN16" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-tnn24.png",TNN16
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TNN16" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-tnn.png",TNN16
 https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NEW TV 18" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-new.png",NEW TV 18
 https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Nation TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-workpoint.png",Nation TV
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Nation TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-nation.png",Nation TV
 https://cdnlive.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Workpoint" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-workpoint.png",Workpoint
 https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="True 4U" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-24u.png",True 4U
 https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="GMM 25" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/cctv1.png",GMM 25
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="GMM 25" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/sd-gmm.png",GMM 25
 https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH8" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch8.png",CH8
 https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
