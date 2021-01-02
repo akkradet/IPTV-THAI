@@ -1,6 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH5 HD" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png",CH5 HD
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-ch5.png" tvg-name="CH5 HD"  group-title="ดิจิตอลทีวี",CH5 HD
 https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NBT" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-nbt.png",NBT
 https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
