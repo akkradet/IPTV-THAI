@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://github.com/akkradet/IPTV-THAI/raw/master/icon/"
+#EXTM3U url-logos="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/"
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH5 HD" tvg-logo="hd-ch5.png",CH5 HD
 https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
@@ -6,22 +6,35 @@ https://cdnlive.goprimetime.info/feed/ch5hd/index.m3u8
 https://cdnlive.goprimetime.info/feed/chnbt/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Thai PBS" tvg-logo="hd-tpbs.png",Thai PBS
 https://cdnlive.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TPTV" tvg-logo="cctv1.png",TPTV
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TNN16" tvg-logo="cctv1.png",TNN16
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NEW TV 18" tvg-logo="cctv1.png",NEW TV 18
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TPTV" tvg-logo="sd-tptv.png",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="TNN16" tvg-logo="sd-tnn24.png",TNN16
+https://cdnlive.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="NEW TV 18" tvg-logo="sd-new.png",NEW TV 18
+https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Nation TV" tvg-logo="hd-workpoint.png",Nation TV
-
+https://cdnlive.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Workpoint" tvg-logo="hd-workpoint.png",Workpoint
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="True 4U" tvg-logo="cctv1.png",True 4U
+https://cdnlive.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="True 4U" tvg-logo="sd-24u.png",True 4U
+https://cdnlive.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="GMM 25" tvg-logo="cctv1.png",GMM 25
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH8" tvg-logo="cctv1.png",CH8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Mono 29" tvg-logo="cctv1.png",Mono 29
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="MCOT HD" tvg-logo="cctv1.png",MCOT HD
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="One31 HD" tvg-logo="cctv1.png",One31 HD
+https://cdnlive.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH8" tvg-logo="hd-ch8.png",CH8
+https://cdnlive.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Mono 29" tvg-logo="hd-mono.png",Mono 29
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="MCOT HD" tvg-logo="hd-mcot.png",MCOT HD
+https://cdnlive.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="One31 HD" tvg-logo="hd-gmmone.png",One31 HD
+https://cdnlive.goprimetime.info/feed/chonehd/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Thiarath TV" tvg-logo="hd-thairath.png",Thiarath TV
+https://cdnlive.goprimetime.info/feed/chthairath/index.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH3 HD" tvg-logo="hd-ch3.png",CH3 HD
 https://cdnlive.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Amarin TV" tvg-logo="cctv1.png",Amarin TV
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH7 HD" tvg-logo="cctv1.png",CH7 HD
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="PPTV HD" tvg-logo="cctv1.png",PPTV HD
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="Amarin TV" tvg-logo="hd-amarin.png",Amarin TV
+https://cdnlive.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="CH7 HD" tvg-logo="hd-ch7.png",CH7 HD
+https://cdnlive.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-id="PPTV HD" tvg-logo="hd-pptv.png",PPTV HD
+https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
