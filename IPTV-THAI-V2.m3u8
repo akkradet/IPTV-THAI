@@ -61,6 +61,6 @@ https://cdnlive.goprimetime.info/feed/chpptvhd/index.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-tfilm.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="หนังและซีรีส์" tvg-id="Fox Movies" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/icon/hd-foxpremium.png",Fox Movies
-https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 
 \
