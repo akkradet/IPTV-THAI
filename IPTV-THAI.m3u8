@@ -24,7 +24,7 @@ http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
-http://183.182.100.184/live/mcothd/playlist.m3u8
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
 http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
