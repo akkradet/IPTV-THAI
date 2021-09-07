@@ -2,273 +2,238 @@
  
 # =======================================================
 # Playlist Name: IPTV-THAI.m3u8
-# Last Update: 02-01-2021
+# Last Update: 07-09-2021
 # =======================================================
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi92Al0PMZxdBJGE1ARWenjVPSX9NP6D00-Q&usqp=CAU", CH 5
-http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOz2Wf1LTkX_nf0l4stcLW8FltuAc_RpILQ&usqp=CAU",  NBT
-http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
-http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3VFvpeRC0EG8Ow3ToJlwJGdwL5vn5__C9w&usqp=CAU", TNN​ 16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
-http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
-http://160.119.77.116:8081/iptv/sd-24u.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
-http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
-http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
-http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
-http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
-http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
-http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​ 7
-http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV
-http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png", True​ Premie​ 1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png", True​ Premie​ 2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png", True​ Premie​ 3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd4.png", True​ Premie​ 4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd5.png", True​ Premie​ 5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png", True​ ​Sport​ HD
-http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png", True​ ​Sport​ HD2
-http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png", True​ ​Sport​ HD3
-http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png", True​ ​Sport​ HD4
-http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png", True​ ​Sport​2
-http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png", True​ ​Sport​5
-http://160.119.77.116:8081/iptv/sd-tsport5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png", True​ ​Sport​6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png", True​ ​Sport​7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU", BT​ SPORT​S​ 1
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y1y9xW3DmWRguard-I1R8QYBkvV5p8KGCg&usqp=CAU", BT​ SPORT​S 2
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nFv0hF0YjEtd7GkPn207jzQb9Z_Z29rqwg&usqp=CAU", BT​ SPORT​S 3
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU", BEIN​ SPORT​ 1
-http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU", BEIN​ SPORT​S​ 2
-http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxjXT7aqDFsTkK_E_UXjnD6UTYUBquYsMWw&usqp=CAU", FOX​ SPORTS​ HD
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvOgKNHvWrnhJdEgIVlaLMt7fe3mVlb1lqQw&usqp=CAU", FOX​ SPORTS​ 2
-http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703695.jpeg", FOX​ SPORTS​ 3​
-http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU", SKY​ SPORT​S PREMIER​
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYeRHLnHLPqoraTdxnmF3netklHJ83dpMdA&usqp=CAU", SKY​ SPORT​S FOOTBALL​
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp7aNvsInCqqZtk0cSP31xkSFitzNRkBrUg&usqp=CAU", PREMIER​ SPORTS​
-http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU", SPORT​S TV​1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGxAHuVlDpcyLm8zHgYIo2V_mBQf6R2MOJw&usqp=CAU", SPORT​S TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU", SPORT​S TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7ehCipQZF4eG190LxMqFjpbLet_62ZqIdg&usqp=CAU", SPORT​S TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU", SPORT​S TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtTAevi64nl-imSn6HuDEUS0Hbinu_sDroA&usqp=CAU", MUTV
-http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="กีฬา​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZU6jwmfMuvbIxUXPt6hbi-ikUuCi0sUrJw&usqp=CAU", LFCTV
-http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TrbGqa5R2KIMhpTiCy8Ilv2aYTlRmlnZ0g&usqp=CAU", FOX​ THAI
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXaiOevvY8AW2hSewrLESmlLHeT3NK_nj_g&usqp=CAU", TRUE​ FILM​
-http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jZWb5TpTiK4eRfNc2Jd_buWkPP9XpVJMeg&usqp=CAU", THAI​ FILM
-http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-QbL_KgltVL2XDbko33yhNPVvzwjQdAvZvg&usqp=CAU", TVB THAI
-https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png", มังกร​ ทีวี
-https://www.livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QLrpfzQPmyoX-LcZSxjopNi2V-YUxq-9mQ&usqp=CAU", M​ CHANNEL
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWl7VWtemFAvQXiQ6k5oAC3YMxBQ0juxRepQ&usqp=CAU", CHANNEL​ 8
-https://cdn-th.login.in.th/ch8/ch8/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlu8U4hf1WpV34k_X-K0L2rs8sPuE9X_vWw&usqp=CAU", CTB​ THAI
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGWecjOBuonbTEiJcwxERzzrmgwXltmLeyA&usqp=CAU", HBO​ HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4fJqEiBLYpJ4uKOHJA8-EIu2tlF-l75_bSA&usqp=CAU", HBO​ HITS
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlz1rT-MNkbcFm19sBYYVxCsxjkbMDPsx7bA&usqp=CAU", FOX​ MOVIE​
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQFRBgnprmgUzJsSOVrh6e2FUyufSIPAYgig&usqp=CAU", FOX​ ACTION
-http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png", BOX​ FILM
-https://cdn6.goprimetime.info/feed/LC52/index.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiml8PYs8q0L4SVluf-9JCqIFNopSN3t7qrQ&usqp=CAU", SUN
-https://cdn6.goprimetime.info/feed/LC1/index.m3u8
-
-#EXTINF:-1 group-title="ภาพยนตร์​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgToEpmOYJ6ZNlyExadUm8ftY2U3YOF1etNA&usqp=CAU", SAMURAI
-https://cdn6.goprimetime.info/feed/LC2/index.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4Zd9suho35AC6mZqG-k0UkHjcx6klmlykQ&usqp=CAU",  TOON​ CLUB
+#EXTINF:-1,5HD
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
+#EXTINF:-1,NBT
+http://61.19.242.134/feed/202105171329/chnbt/index.m3u8
+#EXTINF:-1,THAI PBS
+http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8
+#EXTINF:-1,NEWTV
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
+#EXTINF:-1,TNN
+http://61.19.242.134/feed/202105171329/chtnn/index.m3u8 
+#EXTINF:-1,NATION
+http://61.19.242.134/feed/202105171329/chnation/index.m3u8
+#EXTINF:-1,WORKPOINT
+http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8 
+#EXTINF:-1,TRUE4U
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
+#EXTINF:-1,GMM25
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8 
+#EXTINF:-1,CH8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8 
+#EXTINF:-1,MONO
+http://61.19.242.134/feed/202105171329/chmono29/index.m3u8 
+#EXTINF:-1,MCOT HD
+http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8
+#EXTINF:-1,ONE
+http://61.19.242.134/feed/202105171329/chonehd/index.m3u8 
+#EXTINF:-1,THAIRATH
+http://61.19.242.134/feed/202105171329/chthairath/index.m3u8 
+#EXTINF:-1,3HD
+http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8
+#EXTINF:-1,AMARIN
+http://61.19.242.134/feed/202105171329/chamarin/index.m3u8 
+#EXTINF:-1,7HD
+http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8
+#EXTINF:-1,PPTV
+http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8 
+#EXTINF:-1,TOPNEWS
+https://live.topnews.co.th/hls/topnews_a_480.m3u8
+#EXTINF:-1,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,BBC
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:1,BBC world's News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:1,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1,Fox News
+https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1,TOONEE
+http://61.19.242.134/feed/202105171329/LC23/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://916309128f3e.sn.mynetname.net:1935/aslive/boomerang/chunklist.m3u8
+#EXTINF:-1,CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbqBGLBqXl2_vO49gih5Wcr_p5iRGMe3eejg&usqp=CAU",  TOONEE
-https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyUt31gna-aWne7NwHXulvGl1yiJSQO1xL5g&usqp=CAU",  BOOMERANG
-https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3611161_ico.png?ts=1606365139",  SENOOK
-https://cdn6.goprimetime.info/feed/LC53/index.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1olTW0fgsoSFuUyxvU81r19yA-dPWwd7leQ&usqp=CAU",  BABY​ TV
-http://160.119.77.116:8081/iptv/sd-babytv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0joXibcnCenGYApYhTmw00u-melAx4EYKw&usqp=CAU",  CN
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="การ์ตูน​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZoRGbGOl_URL39FstW9hworWFB2Rw2dl1A&usqp=CAU",  SPARKJUMP
-http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205085_ico.png?ts=1606375389",  PSI สาระดี
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhl6nDVGG-mn9ZAjGJ-kFJvJfJe_E8Y511BQ&usqp=CAU",  สำรวจโลก
-https://cdn6.goprimetime.info/feed/LC8/index.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4491989_ico.png?ts=1606375664",  JAROEN​ TV
-https://cdn6.goprimetime.info/feed/LC32/index.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQHRy9L2qq7P7GlTBsHobj-23P2YzF52VQA&usqp=CAU",  EXP LIFE
-http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkW0botw9ePX4R-UpFjbFTuTWcMKZDy-VCSQ&usqp=CAU",  EXP SCI
-http://160.119.77.116:8081/iptv/sd-expsci.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MS_b0gLUnZkX_d3BMQYpnhBT_HNqd6KpXw&usqp=CAU",  EXP WILD
-http://160.119.77.116:8081/iptv/sd-expwild.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYkOaidBCsBrbPAit9i5IR8xD0Fw6oWE-qw&usqp=CAU",  ANIMAL
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205214_ico.png?ts=1606378179",  DISCOVERY
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205250_ico.png?ts=1606378270",  DIS ASIA
-http://160.119.77.116:8081/iptv/hd-discovery.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205316_ico.png?ts=1606378336",  HISTORY
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205292_ico.png?ts=1606378384",  H2
-http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/3205342_ico.png?ts=1606378484",  BBC​ EARTH
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoLQWTzK3LbIOE4HEvTZqeXGYgvCYGmn7nA&usqp=CAU",  NATIONAL
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6KlwBl7_a4F6cXB2X4ju6T__lXnwshjO0g&usqp=CAU",  GEOWILD
-https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrccx3hx_Gn2AG9X__LP6cVXDDKAlsN37hug&usqp=CAU",  OUTSIDE
-https://outsidetv-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rbNE8eEjbArZVXvKHsfRqRNNf01izqhYKA&usqp=CAU",  WAYPOINT
-https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJp0ETyIzblu9ckCwsEjMYcRJQ1FWyIojbkQ&usqp=CAU",  THE​ PET
-https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs7-84f0w5wah2aJKqFqy62I9o7G-Jf1KigA&usqp=CAU",  AMERICA
-https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeXyVsJTmNY_mhVCCwsZLs4Jhj57TO6aoeA&usqp=CAU",  HUNT
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-
-#EXTINF:-1 group-title="สารคดี​" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrTiJdrgba2la-hTSP0ai7sIcoPaT_7WnDA&usqp=CAU",  PURSUIT
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,ANIMAX
+http://61.19.242.134/feed/202105171329/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANIPLUS
+https://bit.ly/3s4lJJQ
+#EXTINF:-1,MIX TV
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
+#EXTINF:-1,babytv
+https://bit.ly/3BF5Ltj
+#EXTINF:-1,truesparkjump
+https://bit.ly/3mWjIyU
+#EXTINF:-1,CCM TH
+https://bit.ly/3n1xRe2
+#EXTINF:-1,ทรูไทยฟืล์ม
+https://bit.ly/3jF87Cj
+#EXTINF:-1,TRUE movie Hit
+http://tv1.chang55.com:7799/live/C15x1/playlist.m3u8
+#EXTINF:-1,FWMOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,FWSOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Universal 
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/fusolist.m3u8
+#EXTINF:-1,Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/fusolist.m3u8
+#EXTINF:-1,Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/fusolist.m3u8
+#E#EXTINF:-1,XTINF:1,,Cable Series 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/fusolist.m3u8
+#EXTINF:-1,able Series 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/fusolist.m3u8
+#EXTINF:-1,Sun Movie
+http://61.19.242.134/feed/202105171329/LC1/index.m3u8
+#EXTINF:-1,Samurai
+http://61.19.242.134/feed/202105171329/LC2/index.m3u8
+#EXTINF:-1,Box Movie
+http://61.19.242.134/feed/202105171329/LC52/index.m3u8
+#EXTINF:-1,M Channel
+http://61.19.242.134/feed/202105171329/chmchannel/index.m3u8
+#EXTINF:-1,ZEENUNG
+http://61.19.242.134/feed/202105171329/chzeenung/index.m3u8
+#EXTINF:-1,CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
+#EXTINF:-1,WHATIF EP3
+https://bit.ly/3zzz0Nr
+#EXTINF:-1,True Film Asia
+https://bit.ly/2YbZaIa
+#EXTINF:-1,TVB
+https://bit.ly/3t7mOB0
+#EXTINF:-1,trueseries
+https://bit.ly/3yI4zDs
+#EXTINF:-1,TRUEFILM HD1
+https://bit.ly/2VE6SK7
+#EXTINF:-1,TRUEFILM HD2
+https://bit.ly/37u9WLp
+#EXTINF:-1,TRUE ASIANSERIES
+https://bit.ly/3yBpvN8
+#EXTINF:-1,TRUE MOVIEHITS
+https://bit.ly/2VDY0UO
+#EXTINF:-1,TRUE SERIES
+https://bit.ly/3fNjENl
+#EXTINF:-1,STARCHINESE
+https://bit.ly/37rYvUj
+#EXTINF:-1,HITS MOVIES
+https://bit.ly/2WL9XIS
+#EXTINF:-1,HITS
+https://bit.ly/3sEwq65
+#EXTINF:-1,HI-DEF1
+https://bit.ly/3yAgZgN
+#EXTINF:-1,TVB THAI SERIES
+https://bit.ly/37xjgyg
+#EXTINF:-1,HBO HITS 
+https://bit.ly/3xyT14M
+#EXTINF:-1,HBO SIGNATURE 
+https://bit.ly/3s42i3F
+#EXTINF:-1,HBO FAMILY
+https://bit.ly/3lIgJcJ
+#EXTINF:-1,CINEMAX
+https://bit.ly/3jwyglo
+#EXTINF:-1,AXN HD
+https://bit.ly/3Aon0yk
+#EXTINF:-1,PARAMOUNT
+https://bit.ly/3sbs9XK
+#EXTINF:-1,FOX ACTION
+https://bit.ly/3fOR522
+#EXTINF:-1,FOX MOVIE
+https://bit.ly/3fLtWOi
+#EXTINF:-1,FOX FAMILY
+https://bit.ly/3yys2HW
+#EXTINF:-1,FOX LIFE
+https://bit.ly/3CtFY8x
+#EXTINF:-1,FOX THAI
+https://bit.ly/3fMmhyV
+#EXTINF:-1,BLUEANT ENTERTAINMENT
+https://bit.ly/3lJRFSI
+#EXTINF:-1,HISTORY HD
+https://bit.ly/2VEWCkT
+#EXTINF:-1,HISTORY2 HD
+https://bit.ly/3yFnVcq
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://bit.ly/3jwTJuw
+#EXTINF:-1,NATIONAL WILD
+https://bit.ly/3jFkNI8
+#EXTINF:-1,DISCOVERY CHANNAL
+https://bit.ly/3s5OSnL
+#EXTINF:-1,DISCOVERY ASIA
+https://bit.ly/3itMIeB
+#EXTINF:-1,ANIMALPLANET
+https://bit.ly/3fMrtmz
+#EXTINF:-1,EXPLORE WILD
+https://bit.ly/3lNE6li
+#EXTINF:-1,EXPLORE LIFE
+https://bit.ly/3CqFyzT
+#EXTINF:-1,EXPLORE SCI
+https://bit.ly/3yFZ7C4
+#EXTINF:-1,GEM
+https://bit.ly/2VEaJa8
+#EXTINF:-1,LIFETIME
+https://bit.ly/3CyJSNE
+#EXTINF:-1,TCL
+https://bit.ly/3xNs1yN
+#EXTINF:-1,สำรวจโลก
+http://61.19.242.134/feed/202105171329/LC8/playlist.m3u8
+#EXTINF:-1,ANIMAL
+http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist.m3u8
+#EXTINF:-1,LOVENATURE บรรยายไทย
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/lovenature/chunks.m3u8
+#EXTINF:-1,LOVENATURE บรรยายอ.
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Xplore En 1
+https://xplore-plex.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1,วัวชน ถิ่นใต้
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1,True PremierHD1
+http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD2
+http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD3
+http://178.175.132.170:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 4
+http://178.175.132.170:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True PremierHD 5
+http://178.175.132.170:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd1
+http://178.175.132.170:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd2
+http://178.175.132.170:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd3
+http://178.175.132.170:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True sporthd4
+http://178.175.132.170:8888/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,FoxSport1
+http://178.175.132.170:8888/02_FoxSport_TH_720p/chunklist.m3u8
+#EXTINF:-1,FoxSport2
+http://178.175.132.170:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,FoxSport2
+http://178.175.132.170:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,sport5
+http://178.175.132.170:8888/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,sport7
+http://178.175.132.170:8888/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,Skynetsports1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8
+#EXTINF:-1,Skynetsports2
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist.m3u8
+#EXTINF:-1,Skynetsports3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8
+#EXTINF:-1,Astro WWE Network
+https://delivery.macan.live/stream/macan_sport_15/index.m3u8?tok
