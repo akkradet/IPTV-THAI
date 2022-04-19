@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", CH5
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/1/1.mpd
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
 #EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn32k.png", NBT
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", THAI PBS
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
+#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", ALTV
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", TSPOT
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 #EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png",TNN16
@@ -77,22 +79,18 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",ดูนี่สารคดี
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
-#EXTINF:-1,4
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
-#EXTINF:-1,5
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
-#EXTINF:-1,6
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/6/6.mpd
-#EXTINF:-1,102
+#EXTINF:-1,8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/8/8.mpd
+#EXTINF:-1,9
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/9/9.mpd
+#EXTINF:-1,10
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
+#EXTINF:-1,109
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
-#EXTINF:-1,108
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/108/108.mpd
-#EXTINF:-1,110
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/110/110.mpd
-#EXTINF:-1,111
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/111/111.mpd
-#EXTINF:-1,201
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/201/201.mpd
-#EXTINF:-1,206
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
+#EXTINF:-1,112
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/112/112.mpd
+#EXTINF:-1,207
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
+#EXTINF:-1,503
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
 
