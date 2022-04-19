@@ -8,3 +8,5 @@ git.exe add .
 git.exe commit -am "auto commit and push on %d%"
 
 git.exe push origin master
+
+pause
