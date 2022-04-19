@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", CH5
+#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png", CH5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
-#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn32k.png", NBT
+#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png", NBT
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", THAI PBS
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
+#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png", THAI PBS
+http://aya-streamer2.cdn.3bbtv.com:80https://bit.ly/34rddx480/3bb/live/3/3.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", ALTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", TSPOT
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1,10
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
 #EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png",TNN16
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
 #EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint23
@@ -37,15 +39,15 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/z5rvib2torcfx87/3BBAsian.png?dl=0",3BB ASIAN
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png", HBO
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png", HBO HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO Signature
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO SIGNATURE
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png", HBO Hit
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png", HBO HITS
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO Family
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",MAX MOVIE
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",CINEMAX
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/q6mxghecyhwd9yy/IMG_20211210_165134.png?dl",MONO+
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
@@ -77,20 +79,23 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Smithsonian.png",Smithsonian
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Smithsonian.png",BBC EARTH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",ดูนี่สารคดี
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
-#EXTINF:-1,8
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/8/8.mpd
-#EXTINF:-1,9
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/9/9.mpd
-#EXTINF:-1,10
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
-#EXTINF:-1,109
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CNN.png",CNN
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/602/602.mpd
+#EXTINF:-1,22
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
+#EXTINF:-1,18
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
+
+#EXTINF:-1,404
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/404/404.mpd
 #EXTINF:-1,112
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/112/112.mpd
-#EXTINF:-1,207
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
-#EXTINF:-1,503
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
+#EXTINF:-1,522
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/522/522.mpd
+#EXTINF:-1,504
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/504/504.mpd
 
