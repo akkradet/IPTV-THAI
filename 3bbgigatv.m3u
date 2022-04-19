@@ -77,4 +77,22 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",ดูนี่สารคดี
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
+#EXTINF:-1,4
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
+#EXTINF:-1,5
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
+#EXTINF:-1,6
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/6/6.mpd
+#EXTINF:-1,102
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/102/102.mpd
+#EXTINF:-1,108
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/108/108.mpd
+#EXTINF:-1,110
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/110/110.mpd
+#EXTINF:-1,111
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/111/111.mpd
+#EXTINF:-1,201
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/201/201.mpd
+#EXTINF:-1,206
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
 
