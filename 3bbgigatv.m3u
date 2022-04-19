@@ -1,0 +1,3 @@
+#EXTM3U 
+#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
