@@ -88,7 +88,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
 #EXTINF:-1,tvg-id="CartoonClub.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",Cartoonclub
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/305/305.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang (Thai)
+#EXTINF:-1,tvg-id="Boomerang.th" tvg-logo="https://i.imgur.com/gu2KjYv.png",Boomerang (Thai)
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png",3BB Sport one
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
