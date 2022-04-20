@@ -1,4 +1,7 @@
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" refresh="3600"
+#EXTM3U url-tvg="" refresh="3600"
+
 #EXTINF:-1,tvg-id="ThaiTV5HD1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png", CH5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
 #EXTINF:-1,tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png", NBT
@@ -11,7 +14,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 #EXTINF:-1,tvg-logo="https://i.imgur.com/cpiFbex.png", TPTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
-#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png",TNN16
+#EXTINF:-1,tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/hD3wGq3.png",TNN16
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
 #EXTINF:-1,tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/0dVYX70.png",JKN 18
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
@@ -21,13 +24,13 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
 #EXTINF:-1,tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
-#EXTINF:-1,tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM
+#EXTINF:-1,tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM 25
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
-#EXTINF:-1,tvg-id="ThaiPBS3.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",ช่อง8
+#EXTINF:-1,tvg-id="ThaiChannel8.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",Thai Channel 8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
+#EXTINF:-1,tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
-#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
+#EXTINF:-1,tvg-id="Mono29.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1,tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd
@@ -47,7 +50,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/77/77.mpd
 #EXTINF:-1,tvg-logo="",High Shopping
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/88/88.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/z5rvib2torcfx87/3BBAsian.png?dl=0",3BB ASIAN
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",3BB Asian
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png", HBO HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
@@ -147,3 +150,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/605/605.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/606/606.mpd 
 #EXTINF:-1,tvg-logo="https://i.mjh.nz/.images/tv.cna.png",CNA
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/607/607.mpd
+
+
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Cinemax Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://bit.ly/392XypJ
