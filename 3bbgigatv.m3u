@@ -79,7 +79,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",BOOMERANG EN
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png",NICK JR 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
@@ -99,35 +99,35 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Smithsonian.png",BBC EARTH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
-#EXTINF:-1,tvg-logo="",DLTV1
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/504/504.mpd
-#EXTINF:-1,tvg-logo="",DLTV2
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV2
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/505/505.mpd
-#EXTINF:-1,tvg-logo="",DLTV3
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV3
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/506/506.mpd
-#EXTINF:-1,tvg-logo="",DLTV4
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV4
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/507/507.mpd
-#EXTINF:-1,tvg-logo="",DLTV5
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/508/508.mpd
-#EXTINF:-1,tvg-logo="",DLTV6
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV6
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/509/509.mpd
-#EXTINF:-1,tvg-logo="",DLTV7
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV7
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/510/510.mpd
-#EXTINF:-1,tvg-logo="",DLTV8
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png",DLTV8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/511/511.mpd
-#EXTINF:-1,tvg-logo="",DLTV9
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png",DLTV9
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/512/512.mpd
-#EXTINF:-1,tvg-logo="",DLTV10
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png",DLTV10
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/513/513.mpd
-#EXTINF:-1,tvg-logo="",DLTV11
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png",DLTV11
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/514/514.mpd
-#EXTINF:-1,tvg-logo="",DLTV12
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png",DLTV12
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/515/515.mpd
-#EXTINF:-1,tvg-logo="",DLTV13
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png",DLTV13
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/516/516.mpd
-#EXTINF:-1,tvg-logo="",DLTV14
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png",DLTV14
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/517/517.mpd
-#EXTINF:-1,tvg-logo="",DLTV15
+#EXTINF:-1,tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV15
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/518/518.mpd
 #EXTINF:-1,tvg-logo="",ETV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/519/519.mpd
@@ -141,7 +141,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/602/602.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/603/603.mpd
 #EXTINF:-1,tvg-logo="https://ui.cgtn.com/static/ng/resource/images/header_icon/cgtn2020_logo.png",CGTN
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/604/604.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CCTV1.png",CCTV 4
+#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV 4
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/605/605.mpd
 #EXTINF:-1,tvg-logo="https://i.imgur.com/sXq5pev.png",Al Jazeera English HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/606/606.mpd 
