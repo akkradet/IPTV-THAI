@@ -72,11 +72,11 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
 #EXTINF:-1,tvg-id="AlureChannel.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
+#EXTINF:-1,tvg-id="BBCLifestyle.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
 #EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",ROCK Extreme
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
-#EXTINF:-1,tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",Hunan TV HD 
+#EXTINF:-1,tvg-id="HunanTV.th"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",Hunan TV HD 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
 #EXTINF:-1, tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
@@ -96,7 +96,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
 #EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",Golf Channel Thailand
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/LoveNature4K.png",LOVENATURE 
+#EXTINF:-1,tvg-id="LOVENature4K.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/LoveNature4K.png",LOVE Nature 4K 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 #EXTINF:-1,tvg-id="GlobalTrekker.th" tvg-logo="",Global Trekker
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
@@ -134,7 +134,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/517/517.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/518/518.mpd
 #EXTINF:-1,tvg-id="ETV.th" tvg-logo="",ETV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/519/519.mpd
-#EXTINF:-1,tvg-id="DooneeTV.th" tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1", Doonee TV
+#EXTINF:-1,tvg-id="DooneeTV.th" tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",Doonee TV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
 #EXTINF:-1,tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/Iz9AQEv.png",BBC World News
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/601/601.mpd
