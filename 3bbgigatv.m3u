@@ -10,9 +10,9 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
 #EXTINF:-1,tvg-logo="https://i.imgur.com/DA8VpsN.png", ALTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", TSPOT
+#EXTINF:-1,tvg-id="TSports7.th" tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", T Sports7
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
-#EXTINF:-1,tvg-logo="https://i.imgur.com/cpiFbex.png", TPTV
+#EXTINF:-1,tvg-id="TPTV.th"tvg-logo="https://i.imgur.com/cpiFbex.png", TPTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
 #EXTINF:-1,tvg-id="TNN16.th" tvg-logo="https://i.imgur.com/hD3wGq3.png",TNN16
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
@@ -62,15 +62,15 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 #EXTINF:-1,tvg-id="Cinemax.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",CINEMAX
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/q6mxghecyhwd9yy/IMG_20211210_165134.png?dl",MONO+
+#EXTINF:-1,tvg-id="MONOPLUS.th" tvg-logo="https://dl.dropbox.com/s/q6mxghecyhwd9yy/IMG_20211210_165134.png?dl",MONO PLUS
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
-#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",Mangorn
+#EXTINF:-1,tvg-id="Mangorn.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_320.png",Mangorn
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/121/121.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/mht34t9792549p1/IMG_20211218_062837.png?dl",MONOMUSIC
+#EXTINF:-1,tvg-id="MONO29Musicstation.th" tvg-logo="https://dl.dropbox.com/s/mht34t9792549p1/IMG_20211218_062837.png?dl",MONO 29 Music station
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/RushStories.png",RUSH Stories
+#EXTINF:-1,tvg-id="RUSHStories.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/RushStories.png",RUSH Stories
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
+#EXTINF:-1,tvg-id="AlureChannel.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
 #EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
@@ -80,19 +80,19 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
 #EXTINF:-1, tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",BOOMERANG EN
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang(Asian)
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd
 #EXTINF:-1,tvg-id="NickelodeonAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
 #EXTINF:-1,tvg-id="NickJrAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png",NICK JR 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",Cartoonclub
+#EXTINF:-1,tvg-id="CartoonClub.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",Cartoonclub
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/305/305.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",BOOMERANG
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang (Thai)
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png",3BB Sport one
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE
+#EXTINF:-1,tvg-id="EDGESport.th" tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE Sport
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
 #EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",Golf Channel Thailand
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
