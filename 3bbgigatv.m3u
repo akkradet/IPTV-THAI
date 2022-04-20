@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" refresh="3600"
 #EXTINF:-1,tvg-id="ThaiTV5HD1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png", CH5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
-#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png", NBT
+#EXTINF:-1,tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png", NBT
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
-#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png", THAI PBS
+#EXTINF:-1,tvg-id="ThaiPBS3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png", THAI PBS
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/b90iwhlh5qt6oaq/PicsArt_01-08-10.16.35.png?dl=0", ALTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
@@ -17,13 +17,13 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
 #EXTINF:-1,NATION
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint23
+#EXTINF:-1,tvg-id="Workpoint23.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-workpoint.png",Workpoint 23
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True4U
+#EXTINF:-1,tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-24u.png",True 4U
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM
+#EXTINF:-1,tvg-id="GMM25.th" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",GMM
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",ช่อง8
+#EXTINF:-1,tvg-id="ThaiPBS3.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch8.png",ช่อง8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
 #EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
@@ -31,17 +31,17 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1,MCOT HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE31 HD
+#EXTINF:-1,tvg-id="True4U.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE31 HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",ไทยรัฐ
+#EXTINF:-1,tvg-id="ThairathTV32.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-thairath.png",Thairath TV 32
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/32/32.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3
+#EXTINF:-1,tvg-id="Channel3.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch3.png",CH3
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",อมรินทร์
+#EXTINF:-1,tvg-id="Amarin34HD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-amarin.png",Amarin 34 HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7HD
+#EXTINF:-1,tvg-id="BBTVChannel7.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-ch7.png",CH7HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
-#EXTINF:-1,tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV
+#EXTINF:-1,tvg-id="PPTVHD36.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD 36
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
 #EXTINF:-1,tvg-logo="",Top news
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/77/77.mpd
