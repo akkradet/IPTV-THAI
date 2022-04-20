@@ -1,6 +1,7 @@
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" refresh="3600"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml" tvg-shift=0 m3uautoload=1
+
 
 #EXTINF:-1,tvg-id="ThaiTV5HD1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png", CH5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
