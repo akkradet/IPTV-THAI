@@ -90,7 +90,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/305/305.mpd
 #EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",BOOMERANG
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
-#EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/r3w2y88645rdvup/3bbsportsone.png?dl=0",3BB Sport 1
+#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png",3BB Sport one
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
@@ -150,8 +150,3 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/605/605.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/606/606.mpd 
 #EXTINF:-1,tvg-logo="https://i.mjh.nz/.images/tv.cna.png",CNA
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/607/607.mpd
-
-
-#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Cinemax Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://bit.ly/392XypJ
