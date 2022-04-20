@@ -1,6 +1,6 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml" refresh="3600"
-#EXTM3U url-tvg="" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml" refresh="3600"
 
 #EXTINF:-1,tvg-id="ThaiTV5HD1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png", CH5
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
@@ -50,17 +50,17 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/77/77.mpd
 #EXTINF:-1,tvg-logo="",High Shopping
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/88/88.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",3BB Asian
+#EXTINF:-1,tvg-id="3BBAsian.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",3BB Asian
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png", HBO HD
+#EXTINF:-1,tvg-id="HBO.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/logohbo.png", HBO HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO SIGNATURE
+#EXTINF:-1,tvg-id="HBOSingnature.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/HBOSignature.png", HBO SIGNATURE
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png", HBO HITS
+#EXTINF:-1,tvg-id="HBOHits.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/hbohit.png", HBO HITS
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
+#EXTINF:-1,tvg-id="HBOFamily.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/family.png", HBO FAMILY
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",CINEMAX
+#EXTINF:-1,tvg-id="Cinemax.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cinemax.png",CINEMAX
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
 #EXTINF:-1,tvg-logo="https://dl.dropbox.com/s/q6mxghecyhwd9yy/IMG_20211210_165134.png?dl",MONO+
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
