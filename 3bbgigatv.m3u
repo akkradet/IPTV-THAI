@@ -44,9 +44,9 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
 #EXTINF:-1,tvg-id="PPTVHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-pptv.png",PPTV HD 36
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
-#EXTINF:-1,tvg-id="TopNews.th" tvg-logo="http://thaiip.tv/tvlogo2/top.png",tvg-logo="",Top news
+#EXTINF:-1,tvg-id="TopNews.th" tvg-logo="http://thaiip.tv/tvlogo2/top.png",Top news
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/77/77.mpd
-#EXTINF:-1,tvg-logo="",High Shopping
+#EXTINF:-1,tvg-id="HighShopping.th" tvg-logo="https://i.imgur.com/Ub6kcsn.png",High Shopping
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/88/88.mpd
 #EXTINF:-1,tvg-id="3BBAsian.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBAsian.png",3BB Asian
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
@@ -72,17 +72,15 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
 #EXTINF:-1,tvg-id="BBCLifestyle.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
-#EXTINF:-1,tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",ROCK Extreme
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
 #EXTINF:-1,tvg-id="HunanTV.th"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",Hunan TV HD 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
-#EXTINF:-1, tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
+#EXTINF:-1, tvg-id="CartoonNetwork.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/301/301.mpd
-#EXTINF:-1,tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang(Asian)
+#EXTINF:-1,tvg-id="Boomerang.sg"tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Boomerang.png",Boomerang(Asian)
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/302/302.mpd
-#EXTINF:-1,tvg-id="NickelodeonAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
+#EXTINF:-1,tvg-id="Nickelodeon.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nickelodeon.png",Nickelodeon
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/303/303.mpd
-#EXTINF:-1,tvg-id="NickJrAsia.sg" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png",NICK JR 
+#EXTINF:-1,tvg-id="NickJr.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Nick-Jr.png",NICK JR 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
 #EXTINF:-1,tvg-id="CartoonClub.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/CartoonClub.png",Cartoonclub
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/305/305.mpd
@@ -98,7 +96,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 #EXTINF:-1,tvg-id="GlobalTrekker.th" tvg-logo="",Global Trekker
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
-#EXTINF:-1,tvg-id="BBCEarthAsia.uk" tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
+#EXTINF:-1,tvg-id="BBCEarth.th" tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
 #EXTINF:-1,tvg-id="DLTV1.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/504/504.mpd
@@ -130,7 +128,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/516/516.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/517/517.mpd
 #EXTINF:-1,tvg-id="DLTV15.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png",DLTV15
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/518/518.mpd
-#EXTINF:-1,tvg-id="ETV.th" tvg-logo="",ETV
+#EXTINF:-1,tvg-id="ETV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png",ETV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/519/519.mpd
 #EXTINF:-1,tvg-id="DooneeTV.th" tvg-logo="https://dl.dropbox.com/s/w7au9cc75xevsm5/IMG_20211216_042712.png?dl=1",Doonee TV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/521/521.mpd
