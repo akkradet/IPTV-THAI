@@ -196,6 +196,10 @@
     <display-name lang="en">CGTN</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
+  <channel id="CCTV4Asia.cn">
+    <display-name lang="en">CCTV 4</display-name>
+    <url>http://www.gigatv.3bb.co.th</url>
+  </channel>
   <channel id="AlJazeeraEnglish.qa">
     <display-name lang="en">Al Jazeera English</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
@@ -5772,291 +5776,291 @@
   </programme>
   <programme start="20220422004500 +0700" stop="20220422010000 +0700" channel="True4U.th">
     <title lang="en">หัวใจนักสู้ 2022</title>
-    <desc lang="en">หัวใจนักสู้ 2022.(n)</desc>
+    <desc lang="en">หัวใจนักสู้ 2022.</desc>
   </programme>
   <programme start="20220422010000 +0700" stop="20220422020000 +0700" channel="True4U.th">
     <title lang="en">TNN ประเด็นใหญ่</title>
-    <desc lang="en">TNN ประเด็นใหญ่.(n)</desc>
+    <desc lang="en">TNN ประเด็นใหญ่.</desc>
   </programme>
   <programme start="20220422020000 +0700" stop="20220422040000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวค่ำ</title>
-    <desc lang="en">TNN ข่าวค่ำ.(n)</desc>
+    <desc lang="en">TNN ข่าวค่ำ.</desc>
   </programme>
   <programme start="20220422040000 +0700" stop="20220422050000 +0700" channel="True4U.th">
     <title lang="en">สามเณรปลูกปัญญาธรรม</title>
-    <desc lang="en">สามเณรปลูกปัญญาธรรม.(n)</desc>
+    <desc lang="en">สามเณรปลูกปัญญาธรรม.</desc>
   </programme>
   <programme start="20220422050000 +0700" stop="20220422053000 +0700" channel="True4U.th">
     <title lang="en">ดาวค้างฟ้า STAR ODYSSEY</title>
-    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.(n)</desc>
+    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.</desc>
   </programme>
   <programme start="20220422053000 +0700" stop="20220422060000 +0700" channel="True4U.th">
     <title lang="en">ติดเกาะ</title>
-    <desc lang="en">ติดเกาะ.(n)</desc>
+    <desc lang="en">ติดเกาะ.</desc>
   </programme>
   <programme start="20220422060000 +0700" stop="20220422080000 +0700" channel="True4U.th">
     <title lang="en">ภ.ฟอร์มาลินแมน รักเธอเท่าฟ้า</title>
-    <desc lang="en">ภ.ฟอร์มาลินแมน รักเธอเท่าฟ้า.(n)</desc>
+    <desc lang="en">ภ.ฟอร์มาลินแมน รักเธอเท่าฟ้า.</desc>
   </programme>
   <programme start="20220422080000 +0700" stop="20220422080100 +0700" channel="True4U.th">
     <title lang="en">เพลงชาติไทย</title>
-    <desc lang="en">เพลงชาติไทย.(n)</desc>
+    <desc lang="en">เพลงชาติไทย.</desc>
   </programme>
   <programme start="20220422080100 +0700" stop="20220422083000 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220422083000 +0700" stop="20220422103000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ฟัดจังโตะ</title>
-    <desc lang="en">ภาพยนตร์ ฟัดจังโตะ.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ฟัดจังโตะ.</desc>
   </programme>
   <programme start="20220422103000 +0700" stop="20220422110000 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220422110000 +0700" stop="20220422112000 +0700" channel="True4U.th">
     <title lang="en">ข่าวติดปาก 2022</title>
-    <desc lang="en">ข่าวติดปาก 2022.(n)</desc>
+    <desc lang="en">ข่าวติดปาก 2022.</desc>
   </programme>
   <programme start="20220422112000 +0700" stop="20220422113000 +0700" channel="True4U.th">
     <title lang="en">ลุยตามหนัง</title>
-    <desc lang="en">ลุยตามหนัง.(n)</desc>
+    <desc lang="en">ลุยตามหนัง.</desc>
   </programme>
   <programme start="20220422113000 +0700" stop="20220422123000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวเที่ยง</title>
-    <desc lang="en">TNN ข่าวเที่ยง.(n)</desc>
+    <desc lang="en">TNN ข่าวเที่ยง.</desc>
   </programme>
   <programme start="20220422123000 +0700" stop="20220422142500 +0700" channel="True4U.th">
     <title lang="en">ภ.หน่วยพิฆาต ระห่ำกู้โลก</title>
-    <desc lang="en">ภ.หน่วยพิฆาต ระห่ำกู้โลก.(n)</desc>
+    <desc lang="en">ภ.หน่วยพิฆาต ระห่ำกู้โลก.</desc>
   </programme>
   <programme start="20220422142500 +0700" stop="20220422143500 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220422143500 +0700" stop="20220422163000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ พยัคฆ์ร้ายกิโยติน</title>
-    <desc lang="en">ภาพยนตร์ พยัคฆ์ร้ายกิโยติน.(n)</desc>
+    <desc lang="en">ภาพยนตร์ พยัคฆ์ร้ายกิโยติน.</desc>
   </programme>
   <programme start="20220422163000 +0700" stop="20220422180000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ฝัง</title>
-    <desc lang="en">ภาพยนตร์ ฝัง.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ฝัง.</desc>
   </programme>
   <programme start="20220422180000 +0700" stop="20220422180100 +0700" channel="True4U.th">
     <title lang="en">เพลงชาติไทย</title>
-    <desc lang="en">เพลงชาติไทย.(n)</desc>
+    <desc lang="en">เพลงชาติไทย.</desc>
   </programme>
   <programme start="20220422180100 +0700" stop="20220422201000 +0700" channel="True4U.th">
     <title lang="en">มวยมันส์วันศุกร์ 2022</title>
-    <desc lang="en">มวยมันส์วันศุกร์ 2022.(n)</desc>
+    <desc lang="en">มวยมันส์วันศุกร์ 2022.</desc>
   </programme>
   <programme start="20220422201000 +0700" stop="20220422204000 +0700" channel="True4U.th">
     <title lang="en">ข่าวในพระราชสำนัก</title>
-    <desc lang="en">ข่าวในพระราชสำนัก.(n)</desc>
+    <desc lang="en">ข่าวในพระราชสำนัก.</desc>
   </programme>
   <programme start="20220422204000 +0700" stop="20220422224500 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ใหม่กะหม่ำ โดนกะโดน</title>
-    <desc lang="en">ภาพยนตร์ ใหม่กะหม่ำ โดนกะโดน.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ใหม่กะหม่ำ โดนกะโดน.</desc>
   </programme>
   <programme start="20220422224500 +0700" stop="20220422230000 +0700" channel="True4U.th">
     <title lang="en">หัวใจนักสู้ 2022</title>
-    <desc lang="en">หัวใจนักสู้ 2022.(n)</desc>
+    <desc lang="en">หัวใจนักสู้ 2022.</desc>
   </programme>
   <programme start="20220422230000 +0700" stop="20220423000000 +0700" channel="True4U.th">
     <title lang="en">Before the Game</title>
-    <desc lang="en">Before the Game.(n)</desc>
+    <desc lang="en">Before the Game.</desc>
   </programme>
   <programme start="20220423000000 +0700" stop="20220423003000 +0700" channel="True4U.th">
     <title lang="en">True BUFC TV</title>
-    <desc lang="en">True BUFC TV.(n)</desc>
+    <desc lang="en">True BUFC TV.</desc>
   </programme>
   <programme start="20220423003000 +0700" stop="20220423010000 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220423010000 +0700" stop="20220423020000 +0700" channel="True4U.th">
     <title lang="en">TNN ประเด็นใหญ่</title>
-    <desc lang="en">TNN ประเด็นใหญ่.(n)</desc>
+    <desc lang="en">TNN ประเด็นใหญ่.</desc>
   </programme>
   <programme start="20220423020000 +0700" stop="20220423040000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวค่ำ</title>
-    <desc lang="en">TNN ข่าวค่ำ.(n)</desc>
+    <desc lang="en">TNN ข่าวค่ำ.</desc>
   </programme>
   <programme start="20220423040000 +0700" stop="20220423050000 +0700" channel="True4U.th">
     <title lang="en">สามเณรปลูกปัญญาธรรม</title>
-    <desc lang="en">สามเณรปลูกปัญญาธรรม.(n)</desc>
+    <desc lang="en">สามเณรปลูกปัญญาธรรม.</desc>
   </programme>
   <programme start="20220423050000 +0700" stop="20220423053000 +0700" channel="True4U.th">
     <title lang="en">ดาวค้างฟ้า STAR ODYSSEY</title>
-    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.(n)</desc>
+    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.</desc>
   </programme>
   <programme start="20220423053000 +0700" stop="20220423060000 +0700" channel="True4U.th">
     <title lang="en">ติดเกาะ</title>
-    <desc lang="en">ติดเกาะ.(n)</desc>
+    <desc lang="en">ติดเกาะ.</desc>
   </programme>
   <programme start="20220423060000 +0700" stop="20220423080000 +0700" channel="True4U.th">
     <title lang="en">ซีพีโชว์ : สวนสัตว์ มหาสนุก</title>
-    <desc lang="en">ซีพีโชว์ : สวนสัตว์ มหาสนุก.(n)</desc>
+    <desc lang="en">ซีพีโชว์ : สวนสัตว์ มหาสนุก.</desc>
   </programme>
   <programme start="20220423080000 +0700" stop="20220423085500 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ เจ้าหญิงมหาสมุทร</title>
-    <desc lang="en">ภาพยนตร์ เจ้าหญิงมหาสมุทร.(n)</desc>
+    <desc lang="en">ภาพยนตร์ เจ้าหญิงมหาสมุทร.</desc>
   </programme>
   <programme start="20220423085500 +0700" stop="20220423090000 +0700" channel="True4U.th">
     <title lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
-    <desc lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย.(n)</desc>
+    <desc lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย.</desc>
   </programme>
   <programme start="20220423090000 +0700" stop="20220423093000 +0700" channel="True4U.th">
     <title lang="en">Cine' Pop</title>
-    <desc lang="en">Cine' Pop.(n)</desc>
+    <desc lang="en">Cine' Pop.</desc>
   </programme>
   <programme start="20220423093000 +0700" stop="20220423100000 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220423100000 +0700" stop="20220423101500 +0700" channel="True4U.th">
     <title lang="en">หัวใจนักสู้ 2022</title>
-    <desc lang="en">หัวใจนักสู้ 2022.(n)</desc>
+    <desc lang="en">หัวใจนักสู้ 2022.</desc>
   </programme>
   <programme start="20220423101500 +0700" stop="20220423103000 +0700" channel="True4U.th">
     <title lang="en">หัวใจนักสู้ 2022</title>
-    <desc lang="en">หัวใจนักสู้ 2022.(n)</desc>
+    <desc lang="en">หัวใจนักสู้ 2022.</desc>
   </programme>
   <programme start="20220423103000 +0700" stop="20220423110000 +0700" channel="True4U.th">
     <title lang="en">True BUFC TV</title>
-    <desc lang="en">True BUFC TV.(n)</desc>
+    <desc lang="en">True BUFC TV.</desc>
   </programme>
   <programme start="20220423110000 +0700" stop="20220423113000 +0700" channel="True4U.th">
     <title lang="en">Coming Soon</title>
-    <desc lang="en">Coming Soon.(n)</desc>
+    <desc lang="en">Coming Soon.</desc>
   </programme>
   <programme start="20220423113000 +0700" stop="20220423123000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวเที่ยง</title>
-    <desc lang="en">TNN ข่าวเที่ยง.(n)</desc>
+    <desc lang="en">TNN ข่าวเที่ยง.</desc>
   </programme>
   <programme start="20220423123000 +0700" stop="20220423142500 +0700" channel="True4U.th">
     <title lang="en">ภ.นายอำเภอ คนพันธุ์เหล็ก</title>
-    <desc lang="en">ภ.นายอำเภอ คนพันธุ์เหล็ก.(n)</desc>
+    <desc lang="en">ภ.นายอำเภอ คนพันธุ์เหล็ก.</desc>
   </programme>
   <programme start="20220423142500 +0700" stop="20220423145500 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220423145500 +0700" stop="20220423165000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ สามก๊ก เทพเจ้ากวนอู</title>
-    <desc lang="en">ภาพยนตร์ สามก๊ก เทพเจ้ากวนอู.(n)</desc>
+    <desc lang="en">ภาพยนตร์ สามก๊ก เทพเจ้ากวนอู.</desc>
   </programme>
   <programme start="20220423165000 +0700" stop="20220423184000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ สายล่อฟ้า</title>
-    <desc lang="en">ภาพยนตร์ สายล่อฟ้า.(n)</desc>
+    <desc lang="en">ภาพยนตร์ สายล่อฟ้า.</desc>
   </programme>
   <programme start="20220423184000 +0700" stop="20220423200000 +0700" channel="True4U.th">
     <title lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561</title>
-    <desc lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561.(n)</desc>
+    <desc lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561.</desc>
   </programme>
   <programme start="20220423200000 +0700" stop="20220423203000 +0700" channel="True4U.th">
     <title lang="en">ข่าวในพระราชสำนัก</title>
-    <desc lang="en">ข่าวในพระราชสำนัก.(n)</desc>
+    <desc lang="en">ข่าวในพระราชสำนัก.</desc>
   </programme>
   <programme start="20220423203000 +0700" stop="20220423210000 +0700" channel="True4U.th">
     <title lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561</title>
-    <desc lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561.(n)</desc>
+    <desc lang="en">ผู้บ่าวไทบ้าน 3 หมานแอนด์เดอะคำผาน (2561.</desc>
   </programme>
   <programme start="20220423210000 +0700" stop="20220423230000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ลองของ</title>
-    <desc lang="en">ภาพยนตร์ ลองของ.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ลองของ.</desc>
   </programme>
   <programme start="20220423230000 +0700" stop="20220424010000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ลองของ 2</title>
-    <desc lang="en">ภาพยนตร์ ลองของ 2.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ลองของ 2.</desc>
   </programme>
   <programme start="20220424010000 +0700" stop="20220424013000 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220424013000 +0700" stop="20220424020000 +0700" channel="True4U.th">
     <title lang="en">เชฟข้างถนน</title>
-    <desc lang="en">เชฟข้างถนน.(n)</desc>
+    <desc lang="en">เชฟข้างถนน.</desc>
   </programme>
   <programme start="20220424020000 +0700" stop="20220424040000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวค่ำ</title>
-    <desc lang="en">TNN ข่าวค่ำ.(n)</desc>
+    <desc lang="en">TNN ข่าวค่ำ.</desc>
   </programme>
   <programme start="20220424040000 +0700" stop="20220424050000 +0700" channel="True4U.th">
     <title lang="en">สามเณรปลูกปัญญาธรรม</title>
-    <desc lang="en">สามเณรปลูกปัญญาธรรม.(n)</desc>
+    <desc lang="en">สามเณรปลูกปัญญาธรรม.</desc>
   </programme>
   <programme start="20220424050000 +0700" stop="20220424053000 +0700" channel="True4U.th">
     <title lang="en">ดาวค้างฟ้า STAR ODYSSEY</title>
-    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.(n)</desc>
+    <desc lang="en">ดาวค้างฟ้า STAR ODYSSEY.</desc>
   </programme>
   <programme start="20220424053000 +0700" stop="20220424060000 +0700" channel="True4U.th">
     <title lang="en">ติดเกาะ</title>
-    <desc lang="en">ติดเกาะ.(n)</desc>
+    <desc lang="en">ติดเกาะ.</desc>
   </programme>
   <programme start="20220424060000 +0700" stop="20220424063000 +0700" channel="True4U.th">
     <title lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์</title>
-    <desc lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์.(n)</desc>
+    <desc lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์.</desc>
   </programme>
   <programme start="20220424063000 +0700" stop="20220424070000 +0700" channel="True4U.th">
     <title lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์</title>
-    <desc lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์.(n)</desc>
+    <desc lang="en">ขบวนการเทพสวรรค์ โกเซอร์เจอร์.</desc>
   </programme>
   <programme start="20220424070000 +0700" stop="20220424085500 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ ฮานะ &amp; อลิซ ปริศนาโรงเรียนหลอน</title>
-    <desc lang="en">ภาพยนตร์ ฮานะ &amp; อลิซ ปริศนาโรงเรียนหลอน.(n)</desc>
+    <desc lang="en">ภาพยนตร์ ฮานะ &amp; อลิซ ปริศนาโรงเรียนหลอน.</desc>
   </programme>
   <programme start="20220424085500 +0700" stop="20220424090000 +0700" channel="True4U.th">
     <title lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย</title>
-    <desc lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย.(n)</desc>
+    <desc lang="en">เดอะไดอารี่ บันทึกประวัติศาสตร์ชาติไทย.</desc>
   </programme>
   <programme start="20220424090000 +0700" stop="20220424110000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ แผลเก่า</title>
-    <desc lang="en">ภาพยนตร์ แผลเก่า.(n)</desc>
+    <desc lang="en">ภาพยนตร์ แผลเก่า.</desc>
   </programme>
   <programme start="20220424110000 +0700" stop="20220424113000 +0700" channel="True4U.th">
     <title lang="en">เซลลูลอยด์</title>
-    <desc lang="en">เซลลูลอยด์.(n)</desc>
+    <desc lang="en">เซลลูลอยด์.</desc>
   </programme>
   <programme start="20220424113000 +0700" stop="20220424123000 +0700" channel="True4U.th">
     <title lang="en">TNN ข่าวเที่ยง</title>
-    <desc lang="en">TNN ข่าวเที่ยง.(n)</desc>
+    <desc lang="en">TNN ข่าวเที่ยง.</desc>
   </programme>
   <programme start="20220424123000 +0700" stop="20220424142500 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ คนเหล็กล่านรก</title>
-    <desc lang="en">ภาพยนตร์ คนเหล็กล่านรก.(n)</desc>
+    <desc lang="en">ภาพยนตร์ คนเหล็กล่านรก.</desc>
   </programme>
   <programme start="20220424142500 +0700" stop="20220424145500 +0700" channel="True4U.th">
     <title lang="en">ทรูช้อปปิ้ง</title>
-    <desc lang="en">ทรูช้อปปิ้ง.(n)</desc>
+    <desc lang="en">ทรูช้อปปิ้ง.</desc>
   </programme>
   <programme start="20220424145500 +0700" stop="20220424165000 +0700" channel="True4U.th">
     <title lang="en">ภ.นักฆ่าเทวดา แขนเดียว</title>
-    <desc lang="en">ภ.นักฆ่าเทวดา แขนเดียว.(n)</desc>
+    <desc lang="en">ภ.นักฆ่าเทวดา แขนเดียว.</desc>
   </programme>
   <programme start="20220424165000 +0700" stop="20220424184000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ พี่มาก...พระโขนง</title>
-    <desc lang="en">ภาพยนตร์ พี่มาก...พระโขนง.(n)</desc>
+    <desc lang="en">ภาพยนตร์ พี่มาก...พระโขนง.</desc>
   </programme>
   <programme start="20220424184000 +0700" stop="20220424200000 +0700" channel="True4U.th">
     <title lang="en">คุณชายใหญ่</title>
-    <desc lang="en">คุณชายใหญ่.(n)</desc>
+    <desc lang="en">คุณชายใหญ่.</desc>
   </programme>
   <programme start="20220424200000 +0700" stop="20220424203000 +0700" channel="True4U.th">
     <title lang="en">ข่าวในพระราชสำนัก</title>
-    <desc lang="en">ข่าวในพระราชสำนัก.(n)</desc>
+    <desc lang="en">ข่าวในพระราชสำนัก.</desc>
   </programme>
   <programme start="20220424203000 +0700" stop="20220424210000 +0700" channel="True4U.th">
     <title lang="en">คุณชายใหญ่</title>
-    <desc lang="en">คุณชายใหญ่.(n)</desc>
+    <desc lang="en">คุณชายใหญ่.</desc>
   </programme>
   <programme start="20220424210000 +0700" stop="20220424230000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ สี่แพร่ง</title>
-    <desc lang="en">ภาพยนตร์ สี่แพร่ง.(n)</desc>
+    <desc lang="en">ภาพยนตร์ สี่แพร่ง.</desc>
   </programme>
   <programme start="20220424230000 +0700" stop="20220425010000 +0700" channel="True4U.th">
     <title lang="en">ภาพยนตร์ 5 แพร่ง</title>
-    <desc lang="en">ภาพยนตร์ 5 แพร่ง.(n)</desc>
+    <desc lang="en">ภาพยนตร์ 5 แพร่ง.</desc>
   </programme>
   <programme start="20220422000000 +0700" stop="20220422002000 +0700" channel="GMM25.th">
     <title lang="th">O SHOPPING</title>
@@ -22960,523 +22964,523 @@
   </programme>
   <programme start="20220422000000 +0700" stop="20220422010000 +0700" channel="Boomerang.th">
     <title lang="en">Tom &amp; Jerry kids Show</title>
-    <desc lang="en">Tom &amp; Jerry kids Show.(n)</desc>
+    <desc lang="en">Tom &amp; Jerry kids Show.</desc>
   </programme>
   <programme start="20220422010000 +0700" stop="20220422020000 +0700" channel="Boomerang.th">
     <title lang="en">Talking Tom Heroes</title>
-    <desc lang="en">Talking Tom Heroes.(n)</desc>
+    <desc lang="en">Talking Tom Heroes.</desc>
   </programme>
   <programme start="20220422020000 +0700" stop="20220422030000 +0700" channel="Boomerang.th">
     <title lang="en">Codename Kids Next Door</title>
-    <desc lang="en">Codename Kids Next Door.(n)</desc>
+    <desc lang="en">Codename Kids Next Door.</desc>
   </programme>
   <programme start="20220422030000 +0700" stop="20220422040000 +0700" channel="Boomerang.th">
     <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Baby Looney Tunes.(n)</desc>
+    <desc lang="en">Baby Looney Tunes.</desc>
   </programme>
   <programme start="20220422040000 +0700" stop="20220422050000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220422050000 +0700" stop="20220422051000 +0700" channel="Boomerang.th">
     <title lang="en">DIY BY BOOM (R) 38</title>
-    <desc lang="en">DIY BY BOOM (R) 38.(n)</desc>
+    <desc lang="en">DIY BY BOOM (R) 38.</desc>
   </programme>
   <programme start="20220422051000 +0700" stop="20220422053000 +0700" channel="Boomerang.th">
     <title lang="en">Taffy</title>
-    <desc lang="en">Taffy.(n)</desc>
+    <desc lang="en">Taffy.</desc>
   </programme>
   <programme start="20220422053000 +0700" stop="20220422060000 +0700" channel="Boomerang.th">
     <title lang="en">Talking Tom Heroes</title>
-    <desc lang="en">Talking Tom Heroes.(n)</desc>
+    <desc lang="en">Talking Tom Heroes.</desc>
   </programme>
   <programme start="20220422060000 +0700" stop="20220422063000 +0700" channel="Boomerang.th">
     <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Baby Looney Tunes.(n)</desc>
+    <desc lang="en">Baby Looney Tunes.</desc>
   </programme>
   <programme start="20220422063000 +0700" stop="20220422070000 +0700" channel="Boomerang.th">
     <title lang="en">Tom &amp; Jerry kids Show</title>
-    <desc lang="en">Tom &amp; Jerry kids Show.(n)</desc>
+    <desc lang="en">Tom &amp; Jerry kids Show.</desc>
   </programme>
   <programme start="20220422070000 +0700" stop="20220422073000 +0700" channel="Boomerang.th">
     <title lang="en">My Little Pony :Friendship is Magic S8</title>
-    <desc lang="en">My Little Pony :Friendship is Magic S8.(n)</desc>
+    <desc lang="en">My Little Pony :Friendship is Magic S8.</desc>
   </programme>
   <programme start="20220422073000 +0700" stop="20220422080000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220422080000 +0700" stop="20220422083000 +0700" channel="Boomerang.th">
     <title lang="en">Chowder</title>
-    <desc lang="en">Chowder.(n)</desc>
+    <desc lang="en">Chowder.</desc>
   </programme>
   <programme start="20220422083000 +0700" stop="20220422090000 +0700" channel="Boomerang.th">
     <title lang="en">Sylvester &amp; Tweetly Mysteries</title>
-    <desc lang="en">Sylvester &amp; Tweetly Mysteries.(n)</desc>
+    <desc lang="en">Sylvester &amp; Tweetly Mysteries.</desc>
   </programme>
   <programme start="20220422090000 +0700" stop="20220422093000 +0700" channel="Boomerang.th">
     <title lang="en">Krypto The Superdog</title>
-    <desc lang="en">Krypto The Superdog.(n)</desc>
+    <desc lang="en">Krypto The Superdog.</desc>
   </programme>
   <programme start="20220422093000 +0700" stop="20220422100000 +0700" channel="Boomerang.th">
     <title lang="en">Scooby Doo Mystery lncorporated</title>
-    <desc lang="en">Scooby Doo Mystery lncorporated.(n)</desc>
+    <desc lang="en">Scooby Doo Mystery lncorporated.</desc>
   </programme>
   <programme start="20220422100000 +0700" stop="20220422103000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220422103000 +0700" stop="20220422110000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220422110000 +0700" stop="20220422113000 +0700" channel="Boomerang.th">
     <title lang="en">My Little Pony : Life S1</title>
-    <desc lang="en">My Little Pony : Life S1.(n)</desc>
+    <desc lang="en">My Little Pony : Life S1.</desc>
   </programme>
   <programme start="20220422113000 +0700" stop="20220422120000 +0700" channel="Boomerang.th">
     <title lang="en">Taffy</title>
-    <desc lang="en">Taffy.(n)</desc>
+    <desc lang="en">Taffy.</desc>
   </programme>
   <programme start="20220422120000 +0700" stop="20220422123000 +0700" channel="Boomerang.th">
     <title lang="en">Talking Tom Heroes</title>
-    <desc lang="en">Talking Tom Heroes.(n)</desc>
+    <desc lang="en">Talking Tom Heroes.</desc>
   </programme>
   <programme start="20220422123000 +0700" stop="20220422130000 +0700" channel="Boomerang.th">
     <title lang="en">Robocar Poli S1</title>
-    <desc lang="en">Robocar Poli S1.(n)</desc>
+    <desc lang="en">Robocar Poli S1.</desc>
   </programme>
   <programme start="20220422130000 +0700" stop="20220422133000 +0700" channel="Boomerang.th">
     <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Baby Looney Tunes.(n)</desc>
+    <desc lang="en">Baby Looney Tunes.</desc>
   </programme>
   <programme start="20220422133000 +0700" stop="20220422140000 +0700" channel="Boomerang.th">
     <title lang="en">Tom &amp; Jerry kids Show</title>
-    <desc lang="en">Tom &amp; Jerry kids Show.(n)</desc>
+    <desc lang="en">Tom &amp; Jerry kids Show.</desc>
   </programme>
   <programme start="20220422140000 +0700" stop="20220422143000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220422143000 +0700" stop="20220422150000 +0700" channel="Boomerang.th">
     <title lang="en">Sylvester &amp; Tweetly Mysteries</title>
-    <desc lang="en">Sylvester &amp; Tweetly Mysteries.(n)</desc>
+    <desc lang="en">Sylvester &amp; Tweetly Mysteries.</desc>
   </programme>
   <programme start="20220422150000 +0700" stop="20220422153000 +0700" channel="Boomerang.th">
     <title lang="en">Codename Kids Next Door</title>
-    <desc lang="en">Codename Kids Next Door.(n)</desc>
+    <desc lang="en">Codename Kids Next Door.</desc>
   </programme>
   <programme start="20220422153000 +0700" stop="20220422160000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220422160000 +0700" stop="20220422163000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220422163000 +0700" stop="20220422170000 +0700" channel="Boomerang.th">
     <title lang="en">Robocar Poli S1</title>
-    <desc lang="en">Robocar Poli S1.(n)</desc>
+    <desc lang="en">Robocar Poli S1.</desc>
   </programme>
   <programme start="20220422170000 +0700" stop="20220422173000 +0700" channel="Boomerang.th">
     <title lang="en">Sylvester &amp; Tweetly Mysteries</title>
-    <desc lang="en">Sylvester &amp; Tweetly Mysteries.(n)</desc>
+    <desc lang="en">Sylvester &amp; Tweetly Mysteries.</desc>
   </programme>
   <programme start="20220422173000 +0700" stop="20220422180000 +0700" channel="Boomerang.th">
     <title lang="en">Krypto The Superdog</title>
-    <desc lang="en">Krypto The Superdog.(n)</desc>
+    <desc lang="en">Krypto The Superdog.</desc>
   </programme>
   <programme start="20220422180000 +0700" stop="20220422183000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220422183000 +0700" stop="20220422190000 +0700" channel="Boomerang.th">
     <title lang="en">Kingdom Force</title>
-    <desc lang="en">Kingdom Force.(n)</desc>
+    <desc lang="en">Kingdom Force.</desc>
   </programme>
   <programme start="20220422190000 +0700" stop="20220422193000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220422193000 +0700" stop="20220422200000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220422200000 +0700" stop="20220422203000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220422203000 +0700" stop="20220422210000 +0700" channel="Boomerang.th">
     <title lang="en">Robocar Poli S1</title>
-    <desc lang="en">Robocar Poli S1.(n)</desc>
+    <desc lang="en">Robocar Poli S1.</desc>
   </programme>
   <programme start="20220422210000 +0700" stop="20220422213000 +0700" channel="Boomerang.th">
     <title lang="en">Krypto The Superdog</title>
-    <desc lang="en">Krypto The Superdog.(n)</desc>
+    <desc lang="en">Krypto The Superdog.</desc>
   </programme>
   <programme start="20220422213000 +0700" stop="20220422220000 +0700" channel="Boomerang.th">
     <title lang="en">Sylvester &amp; Tweetly Mysteries</title>
-    <desc lang="en">Sylvester &amp; Tweetly Mysteries.(n)</desc>
+    <desc lang="en">Sylvester &amp; Tweetly Mysteries.</desc>
   </programme>
   <programme start="20220422220000 +0700" stop="20220422223000 +0700" channel="Boomerang.th">
     <title lang="en">Codename Kids Next Door</title>
-    <desc lang="en">Codename Kids Next Door.(n)</desc>
+    <desc lang="en">Codename Kids Next Door.</desc>
   </programme>
   <programme start="20220422223000 +0700" stop="20220422230000 +0700" channel="Boomerang.th">
     <title lang="en">Kingdom Force</title>
-    <desc lang="en">Kingdom Force.(n)</desc>
+    <desc lang="en">Kingdom Force.</desc>
   </programme>
   <programme start="20220422230000 +0700" stop="20220422233000 +0700" channel="Boomerang.th">
     <title lang="en">Taffy</title>
-    <desc lang="en">Taffy.(n)</desc>
+    <desc lang="en">Taffy.</desc>
   </programme>
   <programme start="20220422233000 +0700" stop="20220423000000 +0700" channel="Boomerang.th">
     <title lang="en">Baby Looney Tunes</title>
-    <desc lang="en">Baby Looney Tunes.(n)</desc>
+    <desc lang="en">Baby Looney Tunes.</desc>
   </programme>
   <programme start="20220423000000 +0700" stop="20220423010000 +0700" channel="Boomerang.th">
     <title lang="en">Codename Kids Next Door</title>
-    <desc lang="en">Codename Kids Next Door.(n)</desc>
+    <desc lang="en">Codename Kids Next Door.</desc>
   </programme>
   <programme start="20220423010000 +0700" stop="20220423020000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220423020000 +0700" stop="20220423030000 +0700" channel="Boomerang.th">
     <title lang="en">Taffy</title>
-    <desc lang="en">Taffy.(n)</desc>
+    <desc lang="en">Taffy.</desc>
   </programme>
   <programme start="20220423030000 +0700" stop="20220423040000 +0700" channel="Boomerang.th">
     <title lang="en">Kingdom Force</title>
-    <desc lang="en">Kingdom Force.(n)</desc>
+    <desc lang="en">Kingdom Force.</desc>
   </programme>
   <programme start="20220423040000 +0700" stop="20220423050000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220423050000 +0700" stop="20220423053000 +0700" channel="Boomerang.th">
     <title lang="en">Thomas and Friend S22</title>
-    <desc lang="en">Thomas and Friend S22.(n)</desc>
+    <desc lang="en">Thomas and Friend S22.</desc>
   </programme>
   <programme start="20220423053000 +0700" stop="20220423060000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220423060000 +0700" stop="20220423063000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220423063000 +0700" stop="20220423070000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220423070000 +0700" stop="20220423073000 +0700" channel="Boomerang.th">
     <title lang="en">The Tom &amp; Jerry Show</title>
-    <desc lang="en">The Tom &amp; Jerry Show.(n)</desc>
+    <desc lang="en">The Tom &amp; Jerry Show.</desc>
   </programme>
   <programme start="20220423073000 +0700" stop="20220423080000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220423080000 +0700" stop="20220423083000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220423083000 +0700" stop="20220423090000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220423090000 +0700" stop="20220423093000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220423093000 +0700" stop="20220423100000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220423100000 +0700" stop="20220423103000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220423103000 +0700" stop="20220423110000 +0700" channel="Boomerang.th">
     <title lang="en">DC Super Hero Girls</title>
-    <desc lang="en">DC Super Hero Girls.(n)</desc>
+    <desc lang="en">DC Super Hero Girls.</desc>
   </programme>
   <programme start="20220423110000 +0700" stop="20220423113000 +0700" channel="Boomerang.th">
     <title lang="en">The Amazing World Gumball</title>
-    <desc lang="en">The Amazing World Gumball.(n)</desc>
+    <desc lang="en">The Amazing World Gumball.</desc>
   </programme>
   <programme start="20220423113000 +0700" stop="20220423120000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220423120000 +0700" stop="20220423123000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220423123000 +0700" stop="20220423130000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220423130000 +0700" stop="20220423133000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220423133000 +0700" stop="20220423140000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220423140000 +0700" stop="20220423143000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220423143000 +0700" stop="20220423150000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220423150000 +0700" stop="20220423153000 +0700" channel="Boomerang.th">
     <title lang="en">DC Super Hero Girls</title>
-    <desc lang="en">DC Super Hero Girls.(n)</desc>
+    <desc lang="en">DC Super Hero Girls.</desc>
   </programme>
   <programme start="20220423153000 +0700" stop="20220423160000 +0700" channel="Boomerang.th">
     <title lang="en">Batman The Brave&amp;The Bold</title>
-    <desc lang="en">Batman The Brave&amp;The Bold.(n)</desc>
+    <desc lang="en">Batman The Brave&amp;The Bold.</desc>
   </programme>
   <programme start="20220423160000 +0700" stop="20220423163000 +0700" channel="Boomerang.th">
     <title lang="en">The Amazing World Gumball</title>
-    <desc lang="en">The Amazing World Gumball.(n)</desc>
+    <desc lang="en">The Amazing World Gumball.</desc>
   </programme>
   <programme start="20220423163000 +0700" stop="20220423170000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220423170000 +0700" stop="20220423173000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220423173000 +0700" stop="20220423180000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220423180000 +0700" stop="20220423183000 +0700" channel="Boomerang.th">
     <title lang="en">Talking Tom Heroes</title>
-    <desc lang="en">Talking Tom Heroes.(n)</desc>
+    <desc lang="en">Talking Tom Heroes.</desc>
   </programme>
   <programme start="20220423183000 +0700" stop="20220423190000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220423190000 +0700" stop="20220423193000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220423193000 +0700" stop="20220423200000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220423200000 +0700" stop="20220423203000 +0700" channel="Boomerang.th">
     <title lang="en">Teen Titans Go</title>
-    <desc lang="en">Teen Titans Go.(n)</desc>
+    <desc lang="en">Teen Titans Go.</desc>
   </programme>
   <programme start="20220423203000 +0700" stop="20220423210000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220423210000 +0700" stop="20220423213000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220423213000 +0700" stop="20220423220000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220423220000 +0700" stop="20220423223000 +0700" channel="Boomerang.th">
     <title lang="en">Scooby Doo Mystery lncorporated</title>
-    <desc lang="en">Scooby Doo Mystery lncorporated.(n)</desc>
+    <desc lang="en">Scooby Doo Mystery lncorporated.</desc>
   </programme>
   <programme start="20220423223000 +0700" stop="20220423230000 +0700" channel="Boomerang.th">
     <title lang="en">Batman The Brave&amp;The Bold</title>
-    <desc lang="en">Batman The Brave&amp;The Bold.(n)</desc>
+    <desc lang="en">Batman The Brave&amp;The Bold.</desc>
   </programme>
   <programme start="20220423230000 +0700" stop="20220423233000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220423233000 +0700" stop="20220424000000 +0700" channel="Boomerang.th">
     <title lang="en">we Bare Bears</title>
-    <desc lang="en">we Bare Bears.(n)</desc>
+    <desc lang="en">we Bare Bears.</desc>
   </programme>
   <programme start="20220424000000 +0700" stop="20220424010000 +0700" channel="Boomerang.th">
     <title lang="en">Codename Kids Next Door</title>
-    <desc lang="en">Codename Kids Next Door.(n)</desc>
+    <desc lang="en">Codename Kids Next Door.</desc>
   </programme>
   <programme start="20220424010000 +0700" stop="20220424020000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220424020000 +0700" stop="20220424030000 +0700" channel="Boomerang.th">
     <title lang="en">Taffy</title>
-    <desc lang="en">Taffy.(n)</desc>
+    <desc lang="en">Taffy.</desc>
   </programme>
   <programme start="20220424030000 +0700" stop="20220424040000 +0700" channel="Boomerang.th">
     <title lang="en">Kingdom Force</title>
-    <desc lang="en">Kingdom Force.(n)</desc>
+    <desc lang="en">Kingdom Force.</desc>
   </programme>
   <programme start="20220424040000 +0700" stop="20220424050000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220424050000 +0700" stop="20220424053000 +0700" channel="Boomerang.th">
     <title lang="en">Thomas and Friend S22</title>
-    <desc lang="en">Thomas and Friend S22.(n)</desc>
+    <desc lang="en">Thomas and Friend S22.</desc>
   </programme>
   <programme start="20220424053000 +0700" stop="20220424060000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220424060000 +0700" stop="20220424063000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220424063000 +0700" stop="20220424070000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220424070000 +0700" stop="20220424073000 +0700" channel="Boomerang.th">
     <title lang="en">The Tom &amp; Jerry Show</title>
-    <desc lang="en">The Tom &amp; Jerry Show.(n)</desc>
+    <desc lang="en">The Tom &amp; Jerry Show.</desc>
   </programme>
   <programme start="20220424073000 +0700" stop="20220424080000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220424080000 +0700" stop="20220424083000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220424083000 +0700" stop="20220424090000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220424090000 +0700" stop="20220424093000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220424093000 +0700" stop="20220424100000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220424100000 +0700" stop="20220424103000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220424103000 +0700" stop="20220424110000 +0700" channel="Boomerang.th">
     <title lang="en">DC Super Hero Girls</title>
-    <desc lang="en">DC Super Hero Girls.(n)</desc>
+    <desc lang="en">DC Super Hero Girls.</desc>
   </programme>
   <programme start="20220424110000 +0700" stop="20220424113000 +0700" channel="Boomerang.th">
     <title lang="en">The Amazing World Gumball</title>
-    <desc lang="en">The Amazing World Gumball.(n)</desc>
+    <desc lang="en">The Amazing World Gumball.</desc>
   </programme>
   <programme start="20220424113000 +0700" stop="20220424120000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220424120000 +0700" stop="20220424123000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220424123000 +0700" stop="20220424130000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220424130000 +0700" stop="20220424133000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220424133000 +0700" stop="20220424140000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220424140000 +0700" stop="20220424143000 +0700" channel="Boomerang.th">
     <title lang="en">The Powerpuff Girls (Classic)</title>
-    <desc lang="en">The Powerpuff Girls (Classic).(n)</desc>
+    <desc lang="en">The Powerpuff Girls (Classic).</desc>
   </programme>
   <programme start="20220424143000 +0700" stop="20220424150000 +0700" channel="Boomerang.th">
     <title lang="en">Ben 10 (Classic)</title>
-    <desc lang="en">Ben 10 (Classic).(n)</desc>
+    <desc lang="en">Ben 10 (Classic).</desc>
   </programme>
   <programme start="20220424150000 +0700" stop="20220424153000 +0700" channel="Boomerang.th">
     <title lang="en">DC Super Hero Girls</title>
-    <desc lang="en">DC Super Hero Girls.(n)</desc>
+    <desc lang="en">DC Super Hero Girls.</desc>
   </programme>
   <programme start="20220424153000 +0700" stop="20220424160000 +0700" channel="Boomerang.th">
     <title lang="en">Batman The Brave&amp;The Bold</title>
-    <desc lang="en">Batman The Brave&amp;The Bold.(n)</desc>
+    <desc lang="en">Batman The Brave&amp;The Bold.</desc>
   </programme>
   <programme start="20220424160000 +0700" stop="20220424163000 +0700" channel="Boomerang.th">
     <title lang="en">The Amazing World Gumball</title>
-    <desc lang="en">The Amazing World Gumball.(n)</desc>
+    <desc lang="en">The Amazing World Gumball.</desc>
   </programme>
   <programme start="20220424163000 +0700" stop="20220424170000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220424170000 +0700" stop="20220424173000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220424173000 +0700" stop="20220424180000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220424180000 +0700" stop="20220424183000 +0700" channel="Boomerang.th">
     <title lang="en">Talking Tom Heroes</title>
-    <desc lang="en">Talking Tom Heroes.(n)</desc>
+    <desc lang="en">Talking Tom Heroes.</desc>
   </programme>
   <programme start="20220424183000 +0700" stop="20220424190000 +0700" channel="Boomerang.th">
     <title lang="en">New Looney Tunes</title>
-    <desc lang="en">New Looney Tunes.(n)</desc>
+    <desc lang="en">New Looney Tunes.</desc>
   </programme>
   <programme start="20220424190000 +0700" stop="20220424193000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220424193000 +0700" stop="20220424200000 +0700" channel="Boomerang.th">
     <title lang="en">Be Cool Scooby-Doo!</title>
-    <desc lang="en">Be Cool Scooby-Doo!(n)</desc>
+    <desc lang="en">Be Cool Scooby-Doo!</desc>
   </programme>
   <programme start="20220424200000 +0700" stop="20220424203000 +0700" channel="Boomerang.th">
     <title lang="en">Teen Titans Go</title>
-    <desc lang="en">Teen Titans Go.(n)</desc>
+    <desc lang="en">Teen Titans Go.</desc>
   </programme>
   <programme start="20220424203000 +0700" stop="20220424210000 +0700" channel="Boomerang.th">
     <title lang="en">Adventure Time</title>
-    <desc lang="en">Adventure Time.(n)</desc>
+    <desc lang="en">Adventure Time.</desc>
   </programme>
   <programme start="20220424210000 +0700" stop="20220424213000 +0700" channel="Boomerang.th">
     <title lang="en">Yabba Dabba Dinosaurs</title>
-    <desc lang="en">Yabba Dabba Dinosaurs.(n)</desc>
+    <desc lang="en">Yabba Dabba Dinosaurs.</desc>
   </programme>
   <programme start="20220424213000 +0700" stop="20220424220000 +0700" channel="Boomerang.th">
     <title lang="en">chowder</title>
-    <desc lang="en">chowder.(n)</desc>
+    <desc lang="en">chowder.</desc>
   </programme>
   <programme start="20220424220000 +0700" stop="20220424223000 +0700" channel="Boomerang.th">
     <title lang="en">Scooby Doo Mystery lncorporated</title>
-    <desc lang="en">Scooby Doo Mystery lncorporated.(n)</desc>
+    <desc lang="en">Scooby Doo Mystery lncorporated.</desc>
   </programme>
   <programme start="20220424223000 +0700" stop="20220424230000 +0700" channel="Boomerang.th">
     <title lang="en">Batman The Brave&amp;The Bold</title>
-    <desc lang="en">Batman The Brave&amp;The Bold.(n)</desc>
+    <desc lang="en">Batman The Brave&amp;The Bold.</desc>
   </programme>
   <programme start="20220424230000 +0700" stop="20220424233000 +0700" channel="Boomerang.th">
     <title lang="en">Pat the Dog</title>
-    <desc lang="en">Pat the Dog.(n)</desc>
+    <desc lang="en">Pat the Dog.</desc>
   </programme>
   <programme start="20220424233000 +0700" stop="20220425000000 +0700" channel="Boomerang.th">
     <title lang="en">We Bare Bears</title>
-    <desc lang="en">We Bare Bears.(n)</desc>
+    <desc lang="en">We Bare Bears.</desc>
   </programme>
   <programme start="20220422000000 +0700" stop="20220422010000 +0700" channel="3BBSportone.th">
     <title lang="th">FIS WORLD CUP SERIES ยอดแชมป์สกีหิมะ</title>
@@ -28018,6 +28022,855 @@
   </programme>
   <programme start="20220428231500 +0700" stop="20220429000000 +0700" channel="CGTN">
     <title lang="th">China 24</title>
+  </programme>
+  <programme start="20220422004500 +0700" stop="20220422005500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220422005500 +0700" stop="20220422010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220422010000 +0700" stop="20220422013000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220422013000 +0700" stop="20220422020000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220422020000 +0700" stop="20220422021000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422021000 +0700" stop="20220422030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220422030000 +0700" stop="20220422033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422033000 +0700" stop="20220422040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220422040000 +0700" stop="20220422043000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220422043000 +0700" stop="20220422050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220422050000 +0700" stop="20220422053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220422053000 +0700" stop="20220422060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220422060000 +0700" stop="20220422063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422063000 +0700" stop="20220422070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220422070000 +0700" stop="20220422080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220422080000 +0700" stop="20220422083000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220422083000 +0700" stop="20220422090000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220422090000 +0700" stop="20220422091200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422091200 +0700" stop="20220422100000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220422100000 +0700" stop="20220422103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220422103000 +0700" stop="20220422110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220422110000 +0700" stop="20220422120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422120200 +0700" stop="20220422123000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220422123000 +0700" stop="20220422131400 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220422131400 +0700" stop="20220422140000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220422140000 +0700" stop="20220422153200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">News Conference</title>
+  </programme>
+  <programme start="20220422153200 +0700" stop="20220422161500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220422161500 +0700" stop="20220422170000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220422170000 +0700" stop="20220422173000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422173000 +0700" stop="20220422180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220422180000 +0700" stop="20220422183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422183000 +0700" stop="20220422190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220422190000 +0700" stop="20220422193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220422193000 +0700" stop="20220422200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220422200000 +0700" stop="20220422203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220422203000 +0700" stop="20220422210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220422210000 +0700" stop="20220422213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">TALK WITH LUJIAN</title>
+  </programme>
+  <programme start="20220422213000 +0700" stop="20220422220000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220422220000 +0700" stop="20220422223300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220422223300 +0700" stop="20220422231600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220422231600 +0700" stop="20220422235900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220422235900 +0700" stop="20220423004200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423004200 +0700" stop="20220423004900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423004900 +0700" stop="20220423010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423010000 +0700" stop="20220423013000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220423013000 +0700" stop="20220423020000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">TALK WITH LUJIAN</title>
+  </programme>
+  <programme start="20220423020000 +0700" stop="20220423021000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423021000 +0700" stop="20220423030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220423030000 +0700" stop="20220423033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423033000 +0700" stop="20220423040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220423040000 +0700" stop="20220423043000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220423043000 +0700" stop="20220423050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">TALK WITH LUJIAN</title>
+  </programme>
+  <programme start="20220423050000 +0700" stop="20220423053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220423053000 +0700" stop="20220423060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220423060000 +0700" stop="20220423063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423063000 +0700" stop="20220423070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220423070000 +0700" stop="20220423080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220423080000 +0700" stop="20220423083200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423083200 +0700" stop="20220423093200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423093200 +0700" stop="20220423103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423103000 +0700" stop="20220423110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220423110000 +0700" stop="20220423120000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423120000 +0700" stop="20220423123200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Chinese Story</title>
+  </programme>
+  <programme start="20220423123200 +0700" stop="20220423130000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423130000 +0700" stop="20220423134500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423134500 +0700" stop="20220423142800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423142800 +0700" stop="20220423151300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423151300 +0700" stop="20220423155800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423155800 +0700" stop="20220423164500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423164500 +0700" stop="20220423170000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423170000 +0700" stop="20220423180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423180000 +0700" stop="20220423183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423183000 +0700" stop="20220423190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220423190000 +0700" stop="20220423193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">IN-DEPTH WORLD</title>
+  </programme>
+  <programme start="20220423193000 +0700" stop="20220423200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220423200000 +0700" stop="20220423203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220423203000 +0700" stop="20220423210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220423210000 +0700" stop="20220423213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423213000 +0700" stop="20220423220900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220423220900 +0700" stop="20220423224200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220423224200 +0700" stop="20220423232300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220423232300 +0700" stop="20220424000400 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424000400 +0700" stop="20220424005000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424005000 +0700" stop="20220424010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424010000 +0700" stop="20220424014000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220424014000 +0700" stop="20220424015500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424015500 +0700" stop="20220424022500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424022500 +0700" stop="20220424030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">IN-DEPTH WORLD</title>
+  </programme>
+  <programme start="20220424030000 +0700" stop="20220424033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220424033000 +0700" stop="20220424040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220424040000 +0700" stop="20220424050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220424050000 +0700" stop="20220424053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220424053000 +0700" stop="20220424060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220424060000 +0700" stop="20220424063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220424063000 +0700" stop="20220424070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220424070000 +0700" stop="20220424080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220424080000 +0700" stop="20220424083500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424083500 +0700" stop="20220424090200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220424090200 +0700" stop="20220424093100 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220424093100 +0700" stop="20220424100000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220424100000 +0700" stop="20220424103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220424103000 +0700" stop="20220424110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220424110000 +0700" stop="20220424120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220424120200 +0700" stop="20220424122900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">IN-DEPTH WORLD</title>
+  </programme>
+  <programme start="20220424122900 +0700" stop="20220424125900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424125900 +0700" stop="20220424134300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424134300 +0700" stop="20220424142600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424142600 +0700" stop="20220424151100 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424151100 +0700" stop="20220424155700 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424155700 +0700" stop="20220424164500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424164500 +0700" stop="20220424170000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424170000 +0700" stop="20220424180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Universal Show</title>
+  </programme>
+  <programme start="20220424180000 +0700" stop="20220424183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220424183000 +0700" stop="20220424193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China's Public Opinion Field</title>
+  </programme>
+  <programme start="20220424193000 +0700" stop="20220424200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220424200000 +0700" stop="20220424203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220424203000 +0700" stop="20220424210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220424210000 +0700" stop="20220424213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220424213000 +0700" stop="20220424220300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220424220300 +0700" stop="20220424224400 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424224400 +0700" stop="20220424232900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220424232900 +0700" stop="20220425001700 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425001700 +0700" stop="20220425004500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425004500 +0700" stop="20220425010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425010000 +0700" stop="20220425013000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220425013000 +0700" stop="20220425014500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425014500 +0700" stop="20220425024500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220425024500 +0700" stop="20220425030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425030000 +0700" stop="20220425033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220425033000 +0700" stop="20220425040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220425040000 +0700" stop="20220425050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Universal Show</title>
+  </programme>
+  <programme start="20220425050000 +0700" stop="20220425053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220425053000 +0700" stop="20220425060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">IN-DEPTH WORLD</title>
+  </programme>
+  <programme start="20220425060000 +0700" stop="20220425063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220425063000 +0700" stop="20220425070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220425070000 +0700" stop="20220425080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220425080000 +0700" stop="20220425090000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China's Public Opinion Field</title>
+  </programme>
+  <programme start="20220425090000 +0700" stop="20220425103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">News Conference</title>
+  </programme>
+  <programme start="20220425103000 +0700" stop="20220425110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220425110000 +0700" stop="20220425120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220425120200 +0700" stop="20220425123300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">TALK WITH LUJIAN</title>
+  </programme>
+  <programme start="20220425123300 +0700" stop="20220425131600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425131600 +0700" stop="20220425135800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425135800 +0700" stop="20220425144300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425144300 +0700" stop="20220425152800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425152800 +0700" stop="20220425161500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425161500 +0700" stop="20220425170500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220425170500 +0700" stop="20220425173000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425173000 +0700" stop="20220425180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220425180000 +0700" stop="20220425183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220425183000 +0700" stop="20220425190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220425190000 +0700" stop="20220425193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220425193000 +0700" stop="20220425200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220425200000 +0700" stop="20220425203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220425203000 +0700" stop="20220425210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220425210000 +0700" stop="20220425213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220425213000 +0700" stop="20220425220300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220425220300 +0700" stop="20220425224600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425224600 +0700" stop="20220425232900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220425232900 +0700" stop="20220426001500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426001500 +0700" stop="20220426004500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220426004500 +0700" stop="20220426010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220426010000 +0700" stop="20220426013000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220426013000 +0700" stop="20220426020000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220426020000 +0700" stop="20220426021000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426021000 +0700" stop="20220426030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220426030000 +0700" stop="20220426033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426033000 +0700" stop="20220426040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220426040000 +0700" stop="20220426043000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220426043000 +0700" stop="20220426050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220426050000 +0700" stop="20220426053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220426053000 +0700" stop="20220426060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220426060000 +0700" stop="20220426063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426063000 +0700" stop="20220426070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220426070000 +0700" stop="20220426080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220426080000 +0700" stop="20220426082800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220426082800 +0700" stop="20220426090000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220426090000 +0700" stop="20220426103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">News Conference</title>
+  </programme>
+  <programme start="20220426103000 +0700" stop="20220426110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220426110000 +0700" stop="20220426120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426120200 +0700" stop="20220426123000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220426123000 +0700" stop="20220426131500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426131500 +0700" stop="20220426135800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426135800 +0700" stop="20220426144300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426144300 +0700" stop="20220426152800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426152800 +0700" stop="20220426161500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426161500 +0700" stop="20220426170500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220426170500 +0700" stop="20220426173000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220426173000 +0700" stop="20220426180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220426180000 +0700" stop="20220426183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426183000 +0700" stop="20220426190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220426190000 +0700" stop="20220426193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220426193000 +0700" stop="20220426200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220426200000 +0700" stop="20220426203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220426203000 +0700" stop="20220426210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220426210000 +0700" stop="20220426213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220426213000 +0700" stop="20220426220300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220426220300 +0700" stop="20220426224600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426224600 +0700" stop="20220426232900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220426232900 +0700" stop="20220427001500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427001500 +0700" stop="20220427004500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220427004500 +0700" stop="20220427010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220427010000 +0700" stop="20220427013000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220427013000 +0700" stop="20220427020000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220427020000 +0700" stop="20220427021000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427021000 +0700" stop="20220427030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220427030000 +0700" stop="20220427033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427033000 +0700" stop="20220427040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220427040000 +0700" stop="20220427043000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220427043000 +0700" stop="20220427050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220427050000 +0700" stop="20220427053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220427053000 +0700" stop="20220427060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220427060000 +0700" stop="20220427063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427063000 +0700" stop="20220427070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220427070000 +0700" stop="20220427080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220427080000 +0700" stop="20220427083000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220427083000 +0700" stop="20220427090000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">China Showbiz</title>
+  </programme>
+  <programme start="20220427090000 +0700" stop="20220427091200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427091200 +0700" stop="20220427100000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220427100000 +0700" stop="20220427103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220427103000 +0700" stop="20220427110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220427110000 +0700" stop="20220427120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427120200 +0700" stop="20220427123000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220427123000 +0700" stop="20220427131400 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427131400 +0700" stop="20220427135700 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427135700 +0700" stop="20220427144200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427144200 +0700" stop="20220427152800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427152800 +0700" stop="20220427161500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427161500 +0700" stop="20220427170500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220427170500 +0700" stop="20220427173000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220427173000 +0700" stop="20220427180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220427180000 +0700" stop="20220427183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427183000 +0700" stop="20220427190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220427190000 +0700" stop="20220427193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220427193000 +0700" stop="20220427200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220427200000 +0700" stop="20220427203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220427203000 +0700" stop="20220427210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220427210000 +0700" stop="20220427213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220427213000 +0700" stop="20220427221300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220427221300 +0700" stop="20220427224600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220427224600 +0700" stop="20220427232900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220427232900 +0700" stop="20220428001200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428001200 +0700" stop="20220428010000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428010000 +0700" stop="20220428014300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220428014300 +0700" stop="20220428015300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428015300 +0700" stop="20220428020000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428020000 +0700" stop="20220428021000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428021000 +0700" stop="20220428030000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220428030000 +0700" stop="20220428033000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428033000 +0700" stop="20220428040000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220428040000 +0700" stop="20220428043000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220428043000 +0700" stop="20220428050000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220428050000 +0700" stop="20220428053000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220428053000 +0700" stop="20220428060000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220428060000 +0700" stop="20220428063000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428063000 +0700" stop="20220428070000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220428070000 +0700" stop="20220428080000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Global Today</title>
+  </programme>
+  <programme start="20220428080000 +0700" stop="20220428083000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220428083000 +0700" stop="20220428090000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428090000 +0700" stop="20220428103000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">News Conference</title>
+  </programme>
+  <programme start="20220428103000 +0700" stop="20220428110000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220428110000 +0700" stop="20220428120200 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428120200 +0700" stop="20220428123000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220428123000 +0700" stop="20220428131500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428131500 +0700" stop="20220428135800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428135800 +0700" stop="20220428144300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428144300 +0700" stop="20220428152800 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428152800 +0700" stop="20220428161500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428161500 +0700" stop="20220428170500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">HOMELAND DREAMLAND</title>
+  </programme>
+  <programme start="20220428170500 +0700" stop="20220428173000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428173000 +0700" stop="20220428180000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428180000 +0700" stop="20220428183000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428183000 +0700" stop="20220428190000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">ASIA TODAY</title>
+  </programme>
+  <programme start="20220428190000 +0700" stop="20220428193000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">National Memory</title>
+  </programme>
+  <programme start="20220428193000 +0700" stop="20220428200000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Across the Strait</title>
+  </programme>
+  <programme start="20220428200000 +0700" stop="20220428203000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CHINA NEWS</title>
+  </programme>
+  <programme start="20220428203000 +0700" stop="20220428210000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">FOCUS TODAY</title>
+  </programme>
+  <programme start="20220428210000 +0700" stop="20220428213000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Tasty China</title>
+  </programme>
+  <programme start="20220428213000 +0700" stop="20220428220000 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">CCTV News</title>
+  </programme>
+  <programme start="20220428220000 +0700" stop="20220428223300 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Documentary</title>
+  </programme>
+  <programme start="20220428223300 +0700" stop="20220428231600 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428231600 +0700" stop="20220428235900 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
+  </programme>
+  <programme start="20220428235900 +0700" stop="20220429004500 +0700" channel="CCTV4Asia.cn">
+    <title lang="th">Drama</title>
   </programme>
   <programme start="20220422000000 +0700" stop="20220422003000 +0700" channel="AlJazeeraEnglish.qa">
     <title lang="th">News Live</title>
