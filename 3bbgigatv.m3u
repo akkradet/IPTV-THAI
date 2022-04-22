@@ -1,10 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml" refresh="3600"
 
+# =======================================================
+# Last Update: 22-04-2022
+# =======================================================
+
 #EXTINF:-1,tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
 #EXTINF:-1,tvg-id="ThaiPBS3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/08/e341b740-c0e5-11ea-90d9-278915d663f4_320.png",Thai PBS HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
-#EXTINF:-1,tvg-logo="https://i.imgur.com/DA8VpsN.png", ALTV
+#EXTINF:-1,tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/DA8VpsN.png", ALTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
 #EXTINF:-1,tvg-id="TV5HD.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/05/14/4c865391-192b-46a0-a31a-4f4d500b4e07_320.png",TV5 HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
@@ -90,8 +94,6 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1,tvg-id="EDGESport.th" tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE Sport
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
-#EXTINF:-1,tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png",Golf Channel Thailand
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
 #EXTINF:-1,tvg-id="LOVENature4K.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/LoveNature4K.png",LOVE Nature 4K 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 #EXTINF:-1,tvg-id="GlobalTrekker.th" tvg-logo="https://i.imgur.com/PFuZtwD.jpg",Global Trekker Channel
