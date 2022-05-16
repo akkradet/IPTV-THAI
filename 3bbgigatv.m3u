@@ -74,8 +74,10 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="AlureChannel.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/AlureChannel.png",A'lure Channel
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-#EXTINF:-1 group-title="Entertainment" tvg-id="BBCLifestyle.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBCLifestyle.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
+#EXTINF:-1 group-title="Entertainment" tvg-id="ROCKExtreme.th" tvg-logo="https://i.imgur.com/OLPtSvA.png",ROCK Extreme
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="HunanTV.th"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",Hunan TV HD 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
 #EXTINF:-1 group-title="Kid"  tvg-id="CartoonNetwork.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
@@ -94,22 +96,22 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="EDGESport.th" tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE Sport
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
-#EXTINF:-1 group-title="Documentary" tvg-id="LOVENature4K.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/LoveNature4K.png",LOVE Nature 4K 
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
+#EXTINF:-1 group-title="Sport" tvg-id="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png" tvg-logo="GolfPlus.th",Golf Channel Thailand HD Plus
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/golf2/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="GlobalTrekker.th" tvg-logo="https://i.imgur.com/PFuZtwD.jpg",Global Trekker Channel
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
 #EXTINF:-1 group-title="Documentary" tvg-id="BBCEarth.th" tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
 #EXTINF:-1 group-title="Education" tvg-id="DLTV1.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png",DLTV1
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/504/504.mpd
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-id="DLTV2.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png",DLTV2
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/505/505.mpd
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-id="DLTV3.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png",DLTV3
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/506/506.mpd
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-id="DLTV4.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png",DLTV4
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/507/507.mpd
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-id="DLTV5.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png",DLTV5
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/508/508.mpd
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
 #EXTINF:-1 group-title="Education" tvg-id="DLTV6.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png",DLTV6
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/509/509.mpd
 #EXTINF:-1 group-title="Education" tvg-id="DLTV7.th" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png",DLTV7
