@@ -77,7 +77,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBCLifestyle.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="RockExtreme.sg" tvg-logo="https://i.imgur.com/OLPtSvA.png",Rock Extreme
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/blue-ext/playlist.m3u8
+https://mediasv.online/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjIgNjowMzowMSBQTSZoYXNoX3ZhbHVlPUVkSEJkRUxqKzROVEVzRE80WEdzRnc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjgmaWQ9Y2hfNjM5MTE=
 #EXTINF:-1 group-title="Entertainment" tvg-id="HunanTV.th"tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",Hunan TV HD 
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/207/207.mpd
 #EXTINF:-1 group-title="Kid"  tvg-id="CartoonNetwork.th" tvg-logo="https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/Cartoonnetwork.png",Cartoon Network
@@ -96,8 +96,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="Sport" tvg-id="EDGESport.th" tvg-logo="https://dl.dropbox.com/s/u3ro4vsdr0g3s2n/picsart_01-08-10.37.51.png",EDGE Sport
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
-#EXTINF:-1 group-title="Sport" tvg-id="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png" tvg-logo="GolfChannelThailandHDPlus.th",Golf Channel Thailand HD Plus
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/golf2/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-idhttps://i.imgur.com/wVenKVZ.png" tvg-logo="GolfChannelThailandHDPlus.th",Golf Channel Thailand HD Plus
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/115698.ts
 #EXTINF:-1 group-title="Documentary" tvg-id="GlobalTrekker.th" tvg-logo="https://i.imgur.com/PFuZtwD.jpg",Global Trekker Channel
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/502/502.mpd
 #EXTINF:-1 group-title="Documentary" tvg-id="BBCEarth.th" tvg-logo="https://i.imgur.com/lTu4BSR.png",BBC EARTH
