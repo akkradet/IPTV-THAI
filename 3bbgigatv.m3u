@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml" refresh="3600"
 
 # =======================================================
-# Last Update: 22-04-2022
+# Last Update: 23-05-2022
 # =======================================================
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="NBT2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2020/08/19/1ff76c00-e1f4-11ea-a0b4-232d08119930_320.png",NBT HD
