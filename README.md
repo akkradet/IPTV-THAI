@@ -4,3 +4,16 @@
 ไม่มีการทำซ้ำหรือเปลี่ยนแปลงใดๆที่ส่งผลกับช่องทีวีนั้นๆ การกระทำนี้มิได้มีวัตถุประสงค์เป็นการแสวงหาประโยชน์หรือสนับสนุนการกระทำผิดต่อกฎหมายใดทั้งสิ้น
 
 @2022
+
+## Playlists
+
+- https://github.com/akkradet/IPTV-THAI/blob/master/3bbgigatv.m3u
+
+## EPG
+
+- https://github.com/akkradet/IPTV-THAI/blob/master/guide.xml
+- https://github.com/akkradet/IPTV-THAI/blob/master/guide.xml.gz
+
+## SS
+
+![SS](./photo_2022-05-27_16-58-52.jpg)
