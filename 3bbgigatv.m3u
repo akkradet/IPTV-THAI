@@ -33,7 +33,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-id="Mono29.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-mono.png",Mono29
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-id="Mono29.th" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png",Mono29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/KQu4dTf.png",MCOT HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd
 #EXTINF:-1 group-title="Digital TV" tvg-id="OneHD.th" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-gmmone.png",ONE HD
