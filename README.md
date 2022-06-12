@@ -7,13 +7,9 @@
 
 ## Playlists
 
-- https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/3bbgigatv.m3u
+- 🚫DMCA🚫
 
 ## EPG
 
 - https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml
 - https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml.gz
-
-## SS
-
-![SS](./photo_2022-05-27_16-58-52.jpg)
