@@ -13,3 +13,9 @@
 
 - https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml
 - https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml.gz
+
+## Discussion and Support 
+[![homepage][1]][2]
+
+[1]:  images/telegram.png
+[2]:  https://T.me/iptv_th
