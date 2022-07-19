@@ -8,6 +8,7 @@
 ## Playlists
 
 - 🚫DMCA🚫
+- https://github.com/akkradet/IPTV-THAI/raw/master/FREETV.m3u
 
 ## EPG
 
@@ -19,3 +20,5 @@
 
 [1]:  images/telegram.png
 [2]:  https://T.me/iptv_th
+
+## For Educational Purposes Only

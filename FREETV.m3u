@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,NBT
+https://iptv-thai.herokuapp.com/tv.php?channel=2599
+#EXTINF:-1,THAI PBS
+https://iptv-thai.herokuapp.com/tv.php?channel=2598
+#EXTINF:-1,ALTV4
+https://iptv-thai.herokuapp.com/tv.php?channel=2597
+#EXTINF:-1,TV5 HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2602
+#EXTINF:-1,T-Sports
+https://iptv-thai.herokuapp.com/tv.php?channel=2564
+#EXTINF:-1,TPTV
+https://iptv-thai.herokuapp.com/tv.php?channel=2596
+#EXTINF:-1,TNN 16
+https://iptv-thai.herokuapp.com/tv.php?channel=2595
+#EXTINF:-1,JKN 18
+https://iptv-thai.herokuapp.com/tv.php?channel=2594
+#EXTINF:-1,Nation TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2593
+#EXTINF:-1,Workpoint 23
+https://iptv-thai.herokuapp.com/tv.php?channel=2592
+#EXTINF:-1,True 4U
+https://iptv-thai.herokuapp.com/tv.php?channel=2591
+#EXTINF:-1,GMM 25
+https://iptv-thai.herokuapp.com/tv.php?channel=2590
+#EXTINF:-1,CH 8
+https://iptv-thai.herokuapp.com/tv.php?channel=2600
+#EXTINF:-1,Mono29
+https://iptv-thai.herokuapp.com/tv.php?channel=2589
+#EXTINF:-1,MCOT HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2588
+#EXTINF:-1,ONE HD
+https://iptv-thai.herokuapp.com/tv.php?channel=3418
+#EXTINF:-1,Thairath TV
+https://iptv-thai.herokuapp.com/tv.php?channel=2587
+#EXTINF:-1,CH3 HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2603
+#EXTINF:-1,AMARIN TV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2594
+#EXTINF:-1,BBTV CH 7
+https://iptv-thai.herokuapp.com/tv.php?channel=2601
+#EXTINF:-1,PPTV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2585
