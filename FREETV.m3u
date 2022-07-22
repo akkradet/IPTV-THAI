@@ -36,29 +36,26 @@ https://iptv-thai.herokuapp.com/tv.php?channel=2587
 #EXTINF:-1,CH3 HD
 https://iptv-thai.herokuapp.com/tv.php?channel=2603
 #EXTINF:-1,AMARIN TV HD
-https://iptv-thai.herokuapp.com/tv.php?channel=2594
+https://iptv-thai.herokuapp.com/tv.php?channel=2586
 #EXTINF:-1,BBTV CH 7
 https://iptv-thai.herokuapp.com/tv.php?channel=2601
 #EXTINF:-1,PPTV HD
+https://iptv-thai.herokuapp.com/tv.php?channel=2585
 #EXTINF:-1,Video to Home 9
 https://iptv-thai.herokuapp.com/tv.php?channel=2584
-#EXTINF:-1,M channel
-https://iptv-thai.herokuapp.com/tv.php?channel=2583
-#EXTINF:-1,Zeenung
+#EXTINF:-1,VIP TV
 https://iptv-thai.herokuapp.com/tv.php?channel=2582
 #EXTINF:-1,Mangkorn
 https://iptv-thai.herokuapp.com/tv.php?channel=2581
 #EXTINF:-1,Cool Channel
 https://iptv-thai.herokuapp.com/tv.php?channel=2580
-#EXTINF:-1,JKN
-https://iptv-thai.herokuapp.com/tv.php?channel=2578
 #EXTINF:-1,TV5 MONDE
 https://iptv-thai.herokuapp.com/tv.php?channel=2576
 #EXTINF:-1,LunthungTV
 https://iptv-thai.herokuapp.com/tv.php?channel=2575
 #EXTINF:-1,MVTV
 https://iptv-thai.herokuapp.com/tv.php?channel=2574
-#EXTINF:-1,TCCTV
+#EXTINF:-1,MEDIA TV
 https://iptv-thai.herokuapp.com/tv.php?channel=2573
 #EXTINF:-1,ATTV
 https://iptv-thai.herokuapp.com/tv.php?channel=2572
@@ -150,14 +147,8 @@ https://iptv-thai.herokuapp.com/tv.php?channel=2527
 https://iptv-thai.herokuapp.com/tv.php?channel=2526
 #EXTINF:-1,TrueSelect
 https://iptv-thai.herokuapp.com/tv.php?channel=2525
-#EXTINF:-1,Thailand Championship 2020
+#EXTINF:-1,Thai LPGA Championship
 https://iptv-thai.herokuapp.com/tv.php?channel=2523
-#EXTINF:-1,B0006
-https://iptv-thai.herokuapp.com/tv.php?channel=2522
-#EXTINF:-1,V0008
-https://iptv-thai.herokuapp.com/tv.php?channel=2517
-#EXTINF:-1,V0022
-https://iptv-thai.herokuapp.com/tv.php?channel=2516
 #EXTINF:-1,NEWTM
 https://iptv-thai.herokuapp.com/tv.php?channel=2515
 #EXTINF:-1,NHK
@@ -166,7 +157,6 @@ https://iptv-thai.herokuapp.com/tv.php?channel=2514
 https://iptv-thai.herokuapp.com/tv.php?channel=2513
 #EXTINF:-1,Food Network
 https://iptv-thai.herokuapp.com/tv.php?channel=2510
-https://iptv-thai.herokuapp.com/tv.php?channel=2585
 #EXTINF:-1,ASSP1(d) Astro Supersports Premier League 1
 https://iptv-thai.herokuapp.com/tv.php?channel=656
 #EXTINF:-1,ASSP2(d) Astro Supersports Premier League 2
