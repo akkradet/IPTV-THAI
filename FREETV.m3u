@@ -192,7 +192,7 @@ https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="FIght Sport" tvg-name="https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8" tvg-logo="https://i.imgur.com/e51mUq9.png" group-title="Sports",https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="FIght Sport" tvg-name="FIght Sport" tvg-logo="https://i.imgur.com/e51mUq9.png" group-title="Sports",FIght Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
@@ -227,6 +227,18 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/dwyuLEo.png" group-title="Sports",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=9660
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports",SporTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://limetv.me:80/live/4719wil/452540/90328.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="Sports",SporTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://limetv.me:80/live/4719wil/452540/90320.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="Sports",SporTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://limetv.me:80/live/4719wil/452540/90324.m3u8
 
 #EXTINF:-1 tvg-id="ABU DHABI SPORT 1 HD" tvg-name="ABU DHABI SPORT 1 HD" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png" group-title="Sports",ABU DHABI SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -271,6 +283,22 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 #EXTINF:-1 tvg-id="redbulltv.us" tvg-name="REDBULL TV" tvg-logo="https://i.imgur.com/OaiWDnU.png" group-title="Sports",REDBULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="InWild.nl" tvg-name="IN Wild" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Discovery",IN Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/94KsRnD.png" group-title="Discovery",Wild Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Discovery",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/2tClwY5.png" group-title="Discovery",SMITHSONIAN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoiceTV.th" tvg-name="Voice TV HD" tvg-logo="https://i.imgur.com/YJG3Z35.png" group-title="News",Voice TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
