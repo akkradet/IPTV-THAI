@@ -88,13 +88,17 @@ http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=28
 
-#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr Asia" tvg-logo="https://i.imgur.com/No3FoJe.jpg" group-title="Kids",Nick Jr Asia
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr Asia" tvg-logo="https://i.imgur.com/Zxl4exf.png" group-title="Kids",Nick Jr Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=27
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://i.imgur.com/5vAC8xF.png" group-title="Kids",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115632
+
+#EXTINF:-1 tvg-id="FW TOON" tvg-name="FW TOON" tvg-logo="https://img.inwiptv.net/postor/20200512162950fw%20teletoon(1).jpg" group-title="Kids",FW TOON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/msimG9G.png" group-title="Movies&Series",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -106,7 +110,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 
 #EXTINF:-1 tvg-id="AXN.hk" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Movies&Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-sniper.herokuapp.com/localtv.php?channel=62
+https://iptv-thai.herokuapp.com/tv.php?channel=115619
 
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies&Series",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -115,6 +119,14 @@ http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies" tvg-logo="https://i.imgur.com/nSSSRCU.png" group-title="Movies&Series",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115720
+
+#EXTINF:-1 tvg-id="FW MOV" tvg-name="FW MOV" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" group-title="Movies&Series",FW MOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="FW SOV" tvg-name="FW SOV" tvg-logo="https://img.inwiptv.net/postor/20200512165346fwsov.jpg" group-title="Movies&Series",FW SOV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/ZdXxK3X.png" group-title="Entertainment",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -127,6 +139,10 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 #EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="Arirang World" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="Entertainment",Arirang World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Food Network Asia" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="Entertainment",Food Network Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115672
 
 #EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="Entertainment",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
