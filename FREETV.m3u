@@ -112,6 +112,22 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/chunks.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SUN.th" tvg-name="SUN" tvg-logo="https://i.imgur.com/NWuip1G.png" group-title="Movies&Series",SUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC1/index.m3u8
+
+#EXTINF:-1 tvg-id="SAMURAI.th" tvg-name="SAMURAI" tvg-logo="https://i.imgur.com/SYOqA7z.png" group-title="Movies&Series",SAMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC2/index.m3u8
+
+#EXTINF:-1 tvg-id="BOXFILM.th" tvg-name="BOX FILM" tvg-logo="https://i.imgur.com/9lsXfc0.png" group-title="Movies&Series",BOX FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
+
+#EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/2QbShex.png" group-title="Movies&Series",MOVIES WORLD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8
+
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/msimG9G.png" group-title="Movies&Series",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=21
