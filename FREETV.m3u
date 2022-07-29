@@ -284,19 +284,31 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="InWild.nl" tvg-name="IN Wild" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Discovery",IN Wild
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-name="Insight TV" tvg-logo="https://i.imgur.com/GfVO9De.png" group-title="Documentary",Insight TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://insighttv-samsungindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" tvg-logo="https://i.imgur.com/BDAKQ8T.png" group-title="Documentary",InTrouble
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWild.nl" tvg-name="InWild" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Documentary",InWild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/94KsRnD.png" group-title="Discovery",Wild Earth
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://i.imgur.com/BG2SW0a.png" group-title="Documentary",InWonder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://inwonder-samsungindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/94KsRnD.png" group-title="Documentary",Wild Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wildearth-roku.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Discovery",LOVE NATURE
+#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Documentary",LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/2tClwY5.png" group-title="Discovery",SMITHSONIAN CHANNEL
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/2tClwY5.png" group-title="Documentary",SMITHSONIAN CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -327,6 +339,10 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.imgur.com/1B4XjYf.png" group-title="News",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXNewsNow.us" tvg-name="FOX News Now" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuroNews.us" tvg-name="Euronews" tvg-logo="https://i.imgur.com/ZdbWLVT.png" group-title="News",Euronews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
