@@ -160,13 +160,21 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
-#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://i.imgur.com/Y6ZnSx3.png" group-title="Movies&Series",CCM
+#EXTINF:-1 tvg-id="FILM 1" tvg-name="FILM 1" tvg-logo="https://i.imgur.com/evyLHta.png" group-title="Movies&Series",FILM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115802
+https://iptv-thai.herokuapp.com/tv.php?channel=115667
+
+#EXTINF:-1 tvg-id="FILM 2" tvg-name="FILM 2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="Movies&Series",FILM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115415
 
 #EXTINF:-1 tvg-id="FILMASIA" tvg-name="FILMASIA" tvg-logo="https://i.imgur.com/AGpfYsR.png" group-title="Movies&Series",FILMASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115665
+
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://i.imgur.com/Y6ZnSx3.png" group-title="Movies&Series",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115802
 
 #EXTINF:-1 tvg-id="AXN.hk" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Movies&Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -232,7 +240,7 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115446
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115698
 
-#EXTINF:-1 tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png" group-title="Sports",ONE GOLF
+#EXTINF:-1 tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/AOkqHR5.jpg" group-title="Sports",ONE GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
