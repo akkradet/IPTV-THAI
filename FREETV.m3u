@@ -122,7 +122,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZooMoo.th" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/olzqUL2.jpg" group-title="Kids",ZooMoo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC38/index.m3u8
 
 #EXTINF:-1 tvg-id="SUN.th" tvg-name="SUN" tvg-logo="https://i.imgur.com/NWuip1G.png" group-title="Movies&Series",SUN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -155,6 +155,18 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=21
 #EXTINF:-1 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/Jyp89ry.png" group-title="Movies&Series",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
+
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://i.imgur.com/aywyy1W.jpg" group-title="Movies&Series",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
+
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://i.imgur.com/Y6ZnSx3.png" group-title="Movies&Series",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115802
+
+#EXTINF:-1 tvg-id="FILMASIA" tvg-name="FILMASIA" tvg-logo="https://i.imgur.com/AGpfYsR.png" group-title="Movies&Series",FILMASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115665
 
 #EXTINF:-1 tvg-id="AXN.hk" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Movies&Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -203,6 +215,10 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115672
 #EXTINF:-1 tvg-id="Asian Food Network" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="Entertainment",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/2OLSViz.png" group-title="Entertainment",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115403
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="Entertainment",Abu Dhabi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
