@@ -84,6 +84,10 @@ https://cdn6.goprimetime.info/feed/202105171329/ch7hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/chpptvhd/index.m3u8
 
+#EXTINF:-1 tvg-id="Aniplus.th" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/4dzIz6q.png" group-title="Kids",Aniplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=31049
+
 #EXTINF:-1 tvg-id="TOONEE.th" tvg-name="Toonee" tvg-logo="https://i.imgur.com/4dzIz6q.png" group-title="Kids",Toonee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://49.0.87.24:1936/HDToonee/Toonee/playlist.m3u8
@@ -360,6 +364,22 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Documentary",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115610
+
+#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Documentary",LOVE NATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE4K" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Documentary",LOVE NATURE4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/2tClwY5.png" group-title="Documentary",SMITHSONIAN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-name="Insight TV" tvg-logo="https://i.imgur.com/GfVO9De.png" group-title="Documentary",Insight TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://insighttv-samsungindia.amagi.tv/playlist.m3u8
@@ -379,14 +399,6 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/94KsRnD.png" group-title="Documentary",Wild Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wildearth-roku.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature.uk" tvg-name="LOVE NATURE" tvg-logo="https://i.imgur.com/pqwDoKY.png" group-title="Documentary",LOVE NATURE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://i.imgur.com/2tClwY5.png" group-title="Documentary",SMITHSONIAN CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoiceTV.th" tvg-name="Voice TV HD" tvg-logo="https://i.imgur.com/YJG3Z35.png" group-title="News",Voice TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -527,4 +539,3 @@ https://cdn-live.dltv.ac.th/dltv15_720p/index.m3u8
 #EXTINF:-1 tvg-id="ETV.th" tvg-name="ETV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0087.png" group-title="Education",ETV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://150.95.66.20:1935/live/livestream/chunklist.m3u8
-
