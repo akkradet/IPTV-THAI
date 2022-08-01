@@ -112,9 +112,13 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/chboomberang/index.m3u8
 
-#EXTINF:-1 tvg-id="CARTOONCLUB.rh" tvg-name="CARTOON CLUB" tvg-logo="https://i.imgur.com/82UoSmm.png" group-title="Kids",CARTOON CLUB
+#EXTINF:-1 tvg-id="CARTOONCLUB.th" tvg-name="CARTOON CLUB" tvg-logo="https://i.imgur.com/82UoSmm.png" group-title="Kids",CARTOON CLUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.imgur.com/fR07k9R.png" group-title="Kids",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/7959
 
 #EXTINF:-1 tvg-id="TOONEE.th" tvg-name="Toonee" tvg-logo="https://i.imgur.com/4dzIz6q.png" group-title="Kids",Toonee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
