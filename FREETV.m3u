@@ -1,4 +1,10 @@
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
+
+# Join Telegram Group: https://t.me/iptvth
+# =======================================================
+# Playlist Name: My Playlist by Akkradet
+# Last Update: 2022-08-01 16:37:21 UTC+7 ICT
+# =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
