@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-02 10:26:13 UTC+7 ICT
+# Last Update: 2022-08-02 13:49:02 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -238,13 +238,25 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Movies&Series",Zee TV HD
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Movies&Series",Zee TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sony Max HD" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Movies&Series",Sony Max HD
+#EXTINF:-1 tvg-id="ZEE ANMOL" tvg-name="ZEE ANMOL" tvg-logo="https://i.imgur.com/RHHmZre.png" group-title="Movies&Series",ZEE ANMOL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD HD" tvg-name="ZEE BOLLYWOOD HD" tvg-logo="https://i.imgur.com/RHHmZre.png" group-title="Movies&Series",ZEE BOLLYWOOD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movies&Series",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png" group-title="Movies&Series",Action Hollywood Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FW MOV" tvg-name="FW MOV" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" group-title="Movies&Series",FW MOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -261,6 +273,10 @@ https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png" group-title="Entertainment",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMTV" tvg-name="KMTV" tvg-logo="https://i.imgur.com/G5A1D6X.png" group-title="Entertainment",KMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNAsia.hk" tvg-name="tvN" tvg-logo="https://i.imgur.com/MStuY5w.png" group-title="Entertainment",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -388,7 +404,7 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115302
 
 #EXTINF:-1 tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://i.imgur.com/uasPtYv.png" group-title="Sports",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423893
+http://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Маtch Futbol 1" tvg-name="Маtch Futbol 1" tvg-logo="https://i.imgur.com/FQIPmGe.png" group-title="Sports",Маtch Futbol 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
