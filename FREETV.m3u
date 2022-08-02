@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-01 17:33:11 UTC+7 ICT
+# Last Update: 2022-08-02 10:26:13 UTC+7 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -146,6 +146,10 @@ https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="TOMANDJERRY" tvg-name="TOM & JERRY" tvg-logo="https://i.imgur.com/Iga79tm.png" group-title="Kids",TOM & JERRY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://pstrem.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+
 #EXTINF:-1 tvg-id="Moonbug Kids" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/SbK0REx.png" group-title="Kids",Moonbug Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -225,6 +229,22 @@ http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies" tvg-logo="https://i.imgur.com/nSSSRCU.png" group-title="Movies&Series",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115720
+
+#EXTINF:-1 tvg-id="starmovies" tvg-name="STAR MOVIES HD" tvg-logo="https://i.imgur.com/fSLaQQs.png" group-title="Movies&Series",STAR MOVIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Entertainment HD" tvg-name="Sony Entertainment HD" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Movies&Series",Sony Entertainment HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-name="Zee TV HD" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Movies&Series",Zee TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-name="Sony Max HD" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Movies&Series",Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FW MOV" tvg-name="FW MOV" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" group-title="Movies&Series",FW MOV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -370,6 +390,18 @@ https://iptv-thai.herokuapp.com/tv.php?channel=115302
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423893
 
+#EXTINF:-1 tvg-id="Маtch Futbol 1" tvg-name="Маtch Futbol 1" tvg-logo="https://i.imgur.com/FQIPmGe.png" group-title="Sports",Маtch Futbol 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.183.43.237:8080/258/index.m3u8
+
+#EXTINF:-1 tvg-id="Маtch Futbol 2" tvg-name="Маtch Futbol 2" tvg-logo="https://i.imgur.com/C1wQGMK.png" group-title="Sports",Маtch Futbol 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.183.43.237:8080/259/index.m3u8
+
+#EXTINF:-1 tvg-id="Маtch Futbol 3" tvg-name="Маtch Futbol 3" tvg-logo="https://i.imgur.com/9K0Ybcg.png" group-title="Sports",Маtch Futbol 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.183.43.237:8080/260/index.m3u8
+
 #EXTINF:-1 tvg-id="ABU DHABI SPORT 1 HD" tvg-name="ABU DHABI SPORT 1 HD" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png" group-title="Sports",ABU DHABI SPORT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -422,6 +454,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35/uq2663/h/h22/index.m3u8
 
+#EXTINF:-1 tvg-id="MAVTV" tvg-name="MAVTV" tvg-logo="https://i.imgur.com/I2uyZt2.png" group-title="Sports",MAVTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115610
@@ -470,7 +506,7 @@ https://insighttv-samsungindia.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InWild.nl" tvg-name="InWild" tvg-logo="https://i.imgur.com/VSiG39E.png" group-title="Documentary",InWild
+#EXTINF:-1 tvg-id="InWild.nl" tvg-name="InWild" tvg-logo="https://i.imgur.com/qjWVJPN.png" group-title="Documentary",InWild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://inwild-samsungau.amagi.tv/playlist.m3u8
 
@@ -481,6 +517,10 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-name="Wild Earth" tvg-logo="https://i.imgur.com/94KsRnD.png" group-title="Documentary",Wild Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wildearth-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="Xplore" tvg-name="Xplore" tvg-logo="https://i.imgur.com/JcNIBDZ.png" group-title="Documentary",Xplore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://xplore-roku.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 tvg-id="Outside Tv" tvg-name="Outside Tv" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Documentary",Outside Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -508,7 +548,7 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/oHXDurA.png" group-title="News",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW" tvg-logo="https://i.imgur.com/1B4XjYf.png" group-title="News",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
