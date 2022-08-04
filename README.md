@@ -15,6 +15,9 @@
 - https://akkradet.github.io/IPTV-THAI/guide.xml
 - https://akkradet.github.io/IPTV-THAI/guide.xml.gz
 
+## Recommended Apps
+[Televizo - IPTV player](https://play.google.com/store/apps/details?id=com.ottplay.ottplay)
+
 ## Discussion and Support 
 [![homepage][1]][2]
 
