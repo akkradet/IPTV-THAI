@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-15 09:20:47 UTC+07 ICT
+# Last Update: 2022-08-15 10:40:25 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -350,17 +350,29 @@ https://srv.vhls.ru.com/cdn/premium125/playlist.m3u8|referer=https://player.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://srv.vhls.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-logo="https://i.imgur.com/LC70maf.png" group-title="Sports",Golf Channel Thailand HD
+#EXTINF:-1 tvg-id="Supersport EPL" tvg-name="Supersport EPL" tvg-logo="https://i.imgur.com/zIgy3ZQ.png" group-title="Sports",Supersport EPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115446
+https://srv.vhls.ru.com/cdn/premium414/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport1
+#EXTINF:-1 tvg-id="Supersport LaLiga" tvg-name="Supersport LaLiga" tvg-logo="https://i.imgur.com/1ZRB8V2.png" group-title="Sports",Supersport LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+https://srv.vhls.ru.com/cdn/premium415/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport2
+#EXTINF:-1 tvg-id="Supersport EPL" tvg-name="Supersport EPL" tvg-logo="https://i.imgur.com/zIgy3ZQ.png" group-title="Sports",Supersport EPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+https://srv.vhls.ru.com/cdn/premium414/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium31/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium32/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium33/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="BEIN Sports 1" tvg-name="BEIN Sports 1" tvg-logo="https://i.imgur.com/cPRsf28.png" group-title="Sports",BEIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -377,6 +389,22 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1 tvg-id="BEIN Sports 4" tvg-name="BEIN Sports 4" tvg-logo="https://i.imgur.com/Pswp6AE.png" group-title="Sports",BEIN Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium130/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-logo="https://i.imgur.com/LC70maf.png" group-title="Sports",Golf Channel Thailand HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://iptv-thai.herokuapp.com/tv.php?channel=115446
 
 #EXTINF:-1 tvg-id="GolfChannelThailandHDPlus.th" tvg-name="Golf Channel Thailand HD Plus" tvg-logo="https://i.imgur.com/wVenKVZ.png" group-title="Sports",Golf Channel Thailand HD Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
