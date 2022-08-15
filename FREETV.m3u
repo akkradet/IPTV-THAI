@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-10 13:29:50 UTC+07 ICT
+# Last Update: 2022-08-15 09:20:47 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -334,9 +334,49 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AstroSupersport.my" tvg-name="Astro Supersport 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Supersport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium123/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="AstroSupersport2.my" tvg-name="Astro Supersport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium124/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="AstroSupersport3.my" tvg-name="Astro Supersport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium125/playlist.m3u8|referer=https://player.licenses4.me/
+
+#EXTINF:-1 tvg-id="AstroSupersport4.my" tvg-name="Astro Supersport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.licenses4.me/
+
 #EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-logo="https://i.imgur.com/LC70maf.png" group-title="Sports",Golf Channel Thailand HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115446
+
+#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
+
+#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-name="BEIN Sports 1" tvg-logo="https://i.imgur.com/cPRsf28.png" group-title="Sports",BEIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1 tvg-id="BEIN Sports 2" tvg-name="BEIN Sports 2" tvg-logo="https://i.imgur.com/Df7gSFQ.png" group-title="Sports",BEIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-name="BEIN Sports 3" tvg-logo="https://i.imgur.com/4I3ePkw.png" group-title="Sports",BEIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+
+#EXTINF:-1 tvg-id="BEIN Sports 4" tvg-name="BEIN Sports 4" tvg-logo="https://i.imgur.com/Pswp6AE.png" group-title="Sports",BEIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelThailandHDPlus.th" tvg-name="Golf Channel Thailand HD Plus" tvg-logo="https://i.imgur.com/wVenKVZ.png" group-title="Sports",Golf Channel Thailand HD Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -365,30 +405,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="FIght Sport" tvg-name="FIght Sport" tvg-logo="https://i.imgur.com/e51mUq9.png" group-title="Sports",FIght Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnua06.hls.tv/476/hls/cma6nrk9e8z7ygfsl5xtj3ohb014vpw2/216/stream.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport2" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-name="BEIN Sports 1" tvg-logo="https://i.imgur.com/cPRsf28.png" group-title="Sports",BEIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 2" tvg-name="BEIN Sports 2" tvg-logo="https://i.imgur.com/Df7gSFQ.png" group-title="Sports",BEIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-name="BEIN Sports 3" tvg-logo="https://i.imgur.com/4I3ePkw.png" group-title="Sports",BEIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-
-#EXTINF:-1 tvg-id="BEIN Sports 4" tvg-name="BEIN Sports 4" tvg-logo="https://i.imgur.com/Pswp6AE.png" group-title="Sports",BEIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MU TV" tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sports",MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -504,7 +520,7 @@ http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/423895
 
 #EXTINF:-1 tvg-id="redbulltv.us" tvg-name="RED BULL TV" tvg-logo="https://i.imgur.com/OaiWDnU.png" group-title="Sports",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 tvg-id="eGGNetwork.my" tvg-name="eGG Network" tvg-logo="https://i.imgur.com/zk8yiaB.png" group-title="Sports",eGG Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
