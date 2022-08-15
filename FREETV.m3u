@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-15 10:40:25 UTC+07 ICT
+# Last Update: 2022-08-15 10:49:03 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -354,13 +354,13 @@ https://srv.vhls.ru.com/cdn/premium126/playlist.m3u8|referer=https://player.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://srv.vhls.ru.com/cdn/premium414/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF:-1 tvg-id="Supersport LaLiga" tvg-name="Supersport LaLiga" tvg-logo="https://i.imgur.com/1ZRB8V2.png" group-title="Sports",Supersport LaLiga
+#EXTINF:-1 tvg-id="Supersport Football" tvg-name="Supersport Football" tvg-logo="https://i.imgur.com/VBubInn.png" group-title="Sports",Supersport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://srv.vhls.ru.com/cdn/premium415/playlist.m3u8|referer=https://player.licenses4.me/
 
-#EXTINF:-1 tvg-id="Supersport EPL" tvg-name="Supersport EPL" tvg-logo="https://i.imgur.com/zIgy3ZQ.png" group-title="Sports",Supersport EPL
+#EXTINF:-1 tvg-id="Supersport LaLiga" tvg-name="Supersport LaLiga" tvg-logo="https://i.imgur.com/1ZRB8V2.png" group-title="Sports",Supersport LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium414/playlist.m3u8|referer=https://player.licenses4.me/
+https://srv.vhls.ru.com/cdn/premium416/playlist.m3u8|referer=https://player.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
