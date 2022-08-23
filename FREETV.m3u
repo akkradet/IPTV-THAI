@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-23 10:36:58 UTC+07 ICT
+# Last Update: 2022-08-23 13:15:43 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -204,7 +204,7 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.sg" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/Jyp89ry.png" group-title="Movies&Series",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-sniper.herokuapp.com/localtv.php?channel=59
+http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.imgur.com/7M6WYVm.png" group-title="Movies&Series",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -286,6 +286,38 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MVTV Series" tvg-name="MVTV Series" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2021/02/mvmall_serie.png" group-title="Movies&Series",MVTV Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mvseries_mp2/mvseries_mp2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="สยาม Channel" tvg-name="สยาม Channel" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-channel-12.jpg" group-title="Movies&Series",สยาม Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h12/v2h12.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ลิโด้ channel" tvg-name="ลิโด้ channel" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%94%E0%B9%89-channel-13.jpg" group-title="Movies&Series",ลิโด้ channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h13/v2h13.stream//playlist.m3u8
+
+#EXTINF:-1 tvg-id="สกาล่า channel" tvg-name="สกาล่า channel" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B9%88%E0%B8%B2-channel-14.jpg" group-title="Movies&Series",สกาล่า channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h14/v2h14.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ราม่า channel" tvg-name="ราม่า channel" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%B2-channel-15.jpg" group-title="Movies&Series",ราม่า channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/v2h15/v2h15.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MVLAO TV" tvg-name="MVLAO TV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg" group-title="Movies&Series",MVLAO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream//playlist.m3u8
+
+#EXTINF:-1 tvg-id="MVM" tvg-name="MVM" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/07-mvm.png" group-title="Movies&Series",MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/08/tv3-channel-%E0%B8%82%E0%B8%B2%E0%B8%A7.jpg" group-title="Movies&Series",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/512px-KBS_World_(2009).svg.png" group-title="Entertainment",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
@@ -301,6 +333,10 @@ https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="TVNAsia.hk" tvg-name="tvN" tvg-logo="https://i.imgur.com/MStuY5w.png" group-title="Entertainment",tvN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=85
+
+#EXTINF:-1 tvg-id="MVTV" tvg-name="MVTV" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/02/mvchannel-2020.png" group-title="Entertainment",MVTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/ZdXxK3X.png" group-title="Entertainment",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -482,6 +518,10 @@ http://limetv.me:80/live/4719wil/452540/90320.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://limetv.me:80/live/4719wil/452540/90324.m3u8
 
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/8E3DNtw.jpg" group-title="Sports",T SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://i.imgur.com/hl9UZAk.png" group-title="Sports",NFL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-thai.herokuapp.com/tv.php?channel=115742
@@ -589,6 +629,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelHongKong.hk" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/t6iJj37.png" group-title="Documentary",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://iptv-sniper.herokuapp.com/localtv.php?channel=45
+
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/OFVbyQW.png" group-title="Documentary",Discovery World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://222.255.117.230/discoveryworldar/mpegts
 
 #EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="National Geographic Channel" tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="Documentary",National Geographic Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
