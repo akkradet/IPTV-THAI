@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-15 10:57:09 UTC+07 ICT
+# Last Update: 2022-08-23 10:36:58 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -177,6 +177,10 @@ https://cdn6.goprimetime.info/feed/202105171329/LC52/index.m3u8
 #EXTINF:-1 tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" tvg-logo="https://i.imgur.com/2QbShex.png" group-title="Movies&Series",MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202105171329/LC11/index.m3u8
+
+#EXTINF:-1 tvg-id="A Film" tvg-name="A Film" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a_film_th.png" group-title="Movies&Series",A Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://116.204.181.238:9981/stream/service/a6af3b5e6f801d66adef49da4e69ad11?ticket=6FC9BAB537E100512D508A92161443105F07A3D9
 
 #EXTINF:-1 tvg-id="Mangorn" tvg-name="Mangorn" tvg-logo="https://i.imgur.com/vMWjnIm.png" group-title="Movies&Series",Mangorn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
