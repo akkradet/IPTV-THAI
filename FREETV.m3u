@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-23 13:15:43 UTC+07 ICT
+# Last Update: 2022-08-29 14:31:00 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -282,6 +282,22 @@ https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="NK TV" tvg-name="NK TV" tvg-logo="https://i.imgur.com/ScG7fD1.jpg" group-title="Movies&Series",NK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="@TV" tvg-name="@TV" tvg-logo="https://i.imgur.com/3acLnOw.jpg" group-title="Movies&Series",@TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHANNEL 8" tvg-name="CHANNEL 8" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png" group-title="Movies&Series",CHANNEL 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTB" tvg-name="CTB" tvg-logo="https://i.imgur.com/5H98pLK.jpg" group-title="Movies&Series",CTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVB Thai" tvg-name="TVB Thai" tvg-logo="https://i.imgur.com/R9ZBaeS.png" group-title="Movies&Series",TVB Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
@@ -488,19 +504,19 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #EXTINF:-1 tvg-id="CHAMPIONS TV 1" tvg-name="CHAMPIONS TV 1" tvg-logo="https://i.imgur.com/EaRVaEX.png" group-title="Sports",CHAMPIONS TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv1
+http://tvn.x10.mx/vidio/master-7.m3u8
 
 #EXTINF:-1 tvg-id="CHAMPIONS TV 2" tvg-name="CHAMPIONS TV 2" tvg-logo="https://i.imgur.com/IgGVlgI.png" group-title="Sports",CHAMPIONS TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv2
+http://tvn.x10.mx/vidio/master-8.m3u8
 
 #EXTINF:-1 tvg-id="CHAMPIONS TV 3" tvg-name="CHAMPIONS TV 3" tvg-logo="https://i.imgur.com/1MBBBBN.png" group-title="Sports",CHAMPIONS TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
+http://tvn.x10.mx/vidio/master-9.m3u8
 
 #EXTINF:-1 tvg-id="CHAMPIONS TV GOAL" tvg-name="CHAMPIONS TV GOAL" tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="Sports",CHAMPIONS TV GOAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ott-navigator.my.id/000143-356212-986581/vidionline330/vidio_master.m3u8?channel=championstv3
+http://tvn.x10.mx/vidio/master-10.m3u8
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/dwyuLEo.png" group-title="Sports",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
