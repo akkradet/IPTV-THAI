@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-29 14:31:00 UTC+07 ICT
+# Last Update: 2022-08-30 08:46:05 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -420,31 +420,75 @@ https://srv.vhls.ru.com/cdn/premium415/playlist.m3u8|referer=https://player.lice
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium31/playlist.m3u8|referer=https://player.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium31/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium32/playlist.m3u8|referer=https://player.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium32/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium33/playlist.m3u8|referer=https://player.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium33/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-name="BEIN Sports 1" tvg-logo="https://i.imgur.com/cPRsf28.png" group-title="Sports",BEIN Sports 1
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="Sports",BT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+https://ad2017.vhls.ru.com/cdn/premium33/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="BEIN Sports 2" tvg-name="BEIN Sports 2" tvg-logo="https://i.imgur.com/Df7gSFQ.png" group-title="Sports",BEIN Sports 2
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
+https://ad2017.vhls.ru.com/cdn/premium91/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-name="BEIN Sports 3" tvg-logo="https://i.imgur.com/4I3ePkw.png" group-title="Sports",BEIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-name="beIN Sports 2" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="Sports",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
+https://ad2017.vhls.ru.com/cdn/premium92/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="BEIN Sports 4" tvg-name="BEIN Sports 4" tvg-logo="https://i.imgur.com/Pswp6AE.png" group-title="Sports",BEIN Sports 4
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="Sports",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
+https://ad2017.vhls.ru.com/cdn/premium93/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="Sports",beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium94/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="Sports",beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium95/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 6" tvg-name="beIN Sports 6" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="Sports",beIN Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium96/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 7" tvg-name="beIN Sports 7" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="Sports",beIN Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium97/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports English 1" tvg-name="beIN Sports English 1" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="Sports",beIN Sports English 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium90/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports English 2" tvg-name="beIN Sports English 2" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="Sports",beIN Sports English 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://31.172.87.52:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|user-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="beIN Sports English 3" tvg-name="beIN Sports English 3" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="Sports",beIN Sports English 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium46/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 1 HD France" tvg-name="beIN Sports 1 HD France" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="Sports",beIN Sports 1 HD France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium116/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 1 HD France" tvg-name="beIN Sports 1 HD France" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",beIN Sports 1 HD France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium116/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 2 HD France" tvg-name="beIN Sports 2 HD France" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="Sports",beIN Sports 2 HD France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium117/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports 3 HD France" tvg-name="beIN Sports 3 HD France" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="Sports",beIN Sports 3 HD France
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium118/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -480,7 +524,7 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fightsport" tvg-name="Fightsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU" group-title="Sports",Fightsport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
 #EXTINF:-1 tvg-id="Tennis" tvg-name="Tennis" tvg-logo="https://i.imgur.com/IdAB2wR.jpg" group-title="Sports",Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
