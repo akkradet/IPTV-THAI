@@ -3,7 +3,7 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-30 08:46:05 UTC+07 ICT
+# Last Update: 2022-08-30 10:57:45 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -434,6 +434,18 @@ https://ad2017.vhls.ru.com/cdn/premium33/mono.m3u8|referer=https://eplayer.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ad2017.vhls.ru.com/cdn/premium33/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="beIN Sports Premium 1" tvg-name="beIN Sports Premium 1" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="Sports",beIN Sports Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium98/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports Premium 2" tvg-name="beIN Sports Premium 2" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="Sports",beIN Sports Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium99/mono.m3u8|referer=https://eplayer.click/
+
+#EXTINF:-1 tvg-id="beIN Sports Premium 3" tvg-name="beIN Sports Premium 3" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="Sports",beIN Sports Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ad2017.vhls.ru.com/cdn/premium100/mono.m3u8|referer=https://eplayer.click/
+
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-name="beIN Sports 1" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ad2017.vhls.ru.com/cdn/premium91/mono.m3u8|referer=https://eplayer.click/
@@ -474,7 +486,7 @@ http://31.172.87.52:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ad2017.vhls.ru.com/cdn/premium46/mono.m3u8|referer=https://eplayer.click/
 
-#EXTINF:-1 tvg-id="beIN Sports 1 HD France" tvg-name="beIN Sports 1 HD France" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="Sports",beIN Sports 1 HD France
+#EXTINF:-1 tvg-id="beIN Sports 1 HD France" tvg-name="beIN Sports 1 HD France" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="Sports",beIN Sports 1 HD France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ad2017.vhls.ru.com/cdn/premium116/mono.m3u8|referer=https://eplayer.click/
 
@@ -490,9 +502,33 @@ https://ad2017.vhls.ru.com/cdn/premium117/mono.m3u8|referer=https://eplayer.clic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ad2017.vhls.ru.com/cdn/premium118/mono.m3u8|referer=https://eplayer.click/
 
+#EXTINF:-1 tvg-id="polsatsport" tvg-name="Polsat Sport" tvg-logo="https://i.imgur.com/wPlWOK9.png" group-title="Sports",Polsat Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.211.250.58:8080/POLSAT_SPORT/mpegts
+
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="Polsat Sport News" tvg-logo="https://i.imgur.com/881qW2A.png" group-title="Sports",Polsat Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://103.49.40.100:33009/POLSATSPORTNEWSHD
+
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 1" tvg-name="POLSAT SPORT PREMIUM 1" tvg-logo="https://i.imgur.com/qSDkEsI.png" group-title="Sports",POLSAT SPORT PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.211.250.58/POLSAT_SPORT_PREMIUM_!/mpegts
+
+#EXTINF:-1 tvg-id="POLSAT SPORT PREMIUM 2" tvg-name="POLSAT SPORT PREMIUM 2" tvg-logo="https://i.imgur.com/WvVcTZX.png" group-title="Sports",POLSAT SPORT PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.211.250.58:8080/POLSAT_SPORT_PREMIUM_2/mpegts
+
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="TVP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="Sports",TVP Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://95.211.250.58/TVP_SPORT/mpegts
+
+#EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://i.imgur.com/piLphVz.png" group-title="Sports",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://92.119.88.58:8080/271/mpegts
+
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",Sky Sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://srv.vhls.ru.com/cdn/premium130/playlist.m3u8|referer=https://player.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium130/mono.m3u8|referer=https://eplayer.click/
 
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport1" tvg-logo="https://i.imgur.com/qzebaLa.png" group-title="Sports",Eurosport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -538,6 +574,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-name="LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="Sports",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://tvn.x10.mx/vidio/master-31.m3u8 
+
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-name="SPOTV" tvg-logo="https://i.imgur.com/GeaXWbl.png" group-title="Sports",SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
@@ -564,7 +604,7 @@ http://tvn.x10.mx/vidio/master-10.m3u8
 
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/dwyuLEo.png" group-title="Sports",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=9660
+http://144.178.85.9:8080/ESPN1/mpegts
 
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="Sports",SporTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
