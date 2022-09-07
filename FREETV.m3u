@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
-# Join Telegram Group: https://t.me/iptvth
+# Join Telegram Group: https://t.me/iptv_th
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-08-30 10:57:45 UTC+07 ICT
+# Last Update: 2022-09-07 10:01:52 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
@@ -100,11 +100,11 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus.th" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/0X10nqk.png" group-title="Kids",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=31049
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/31049
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://i.imgur.com/5vAC8xF.png" group-title="Kids",Cartoon Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115632
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115632
 
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/TmbKg45.png" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -212,31 +212,35 @@ https://cdn6.goprimetime.info/feed/202105171329/LC26/index.m3u8
 
 #EXTINF:-1 tvg-id="FILM 1" tvg-name="FILM 1" tvg-logo="https://i.imgur.com/evyLHta.png" group-title="Movies&Series",FILM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115667
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115667
 
 #EXTINF:-1 tvg-id="FILM 2" tvg-name="FILM 2" tvg-logo="https://i.imgur.com/QaVqmK1.png" group-title="Movies&Series",FILM 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115415
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115415
+
+#EXTINF:-1 tvg-id="Asian Series" tvg-name="Asian Series" tvg-logo="https://i.imgur.com/evyLHta.png" group-title="Movies&Series",Asian Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115612
 
 #EXTINF:-1 tvg-id="Movie Hits" tvg-name="Movie Hits" tvg-logo="https://i.imgur.com/ANmrwNg.png" group-title="Movies&Series",Movie Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115729
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115729
 
 #EXTINF:-1 tvg-id="Korean More" tvg-name="Korean More" tvg-logo="https://i.imgur.com/rl4HrNv.png" group-title="Movies&Series",Korean More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115422
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115422
 
 #EXTINF:-1 tvg-id="FILMASIA" tvg-name="FILMASIA" tvg-logo="https://i.imgur.com/AGpfYsR.png" group-title="Movies&Series",FILMASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115665
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115665
 
 #EXTINF:-1 tvg-id="CCM" tvg-name="Celestial Classic Movies" tvg-logo="https://i.imgur.com/Y6ZnSx3.png" group-title="Movies&Series",Celestial Classic Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115802
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115802
 
 #EXTINF:-1 tvg-id="AXN.hk" tvg-name="AXN" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="Movies&Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115619
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115619
 
 #EXTINF:-1 tvg-id="Hits.sg" tvg-name="Hits" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies&Series",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -244,7 +248,7 @@ http://210.210.155.35/session/1204b13c-a86a-11ec-baed-ab3e95131f5a/dr9445/h/h37/
 
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies" tvg-logo="https://i.imgur.com/nSSSRCU.png" group-title="Movies&Series",Hits Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115720
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115720
 
 #EXTINF:-1 tvg-id="starmovies" tvg-name="STAR MOVIES HD" tvg-logo="https://i.imgur.com/fSLaQQs.png" group-title="Movies&Series",STAR MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -368,7 +372,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 
 #EXTINF:-1 tvg-id="Food Network Asia" tvg-name="Food Network Asia" tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="Entertainment",Food Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115672
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115672
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="Entertainment",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -376,7 +380,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=63
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/2OLSViz.png" group-title="Entertainment",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115403
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115403
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.ae" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="Entertainment",Abu Dhabi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -540,11 +544,11 @@ http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
 
 #EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-logo="https://i.imgur.com/LC70maf.png" group-title="Sports",Golf Channel Thailand HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115446
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115446
 
 #EXTINF:-1 tvg-id="GolfChannelThailandHDPlus.th" tvg-name="Golf Channel Thailand HD Plus" tvg-logo="https://i.imgur.com/wVenKVZ.png" group-title="Sports",Golf Channel Thailand HD Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115698
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115698
 
 #EXTINF:-1 tvg-id="ONE GOLF" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/AOkqHR5.jpg" group-title="Sports",ONE GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -624,11 +628,11 @@ https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-logo="https://i.imgur.com/hl9UZAk.png" group-title="Sports",NFL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115742
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115742
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/Qs70nvO.png" group-title="Sports",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115302
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115302
 
 #EXTINF:-1 tvg-id="TRACE SPORT STARS" tvg-name="TRACE SPORT STARS" tvg-logo="https://i.imgur.com/uasPtYv.png" group-title="Sports",TRACE SPORT STARS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -704,15 +708,15 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115610
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115610
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/fjTrG9N.png" group-title="Documentary",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115715
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115715
 
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-logo="https://i.imgur.com/kxPcCcA.png" group-title="Documentary",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115713
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115713
 
 #EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/kDWAhy1.png" group-title="Documentary",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -832,7 +836,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 
 #EXTINF:-1 tvg-id="ABCAustraliaAsia.au" tvg-name="ABC Australia Asia" tvg-logo="https://i.imgur.com/IEncbNb.png" group-title="News",ABC Australia Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://iptv-thai.herokuapp.com/tv.php?channel=115605
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/115605
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://i.imgur.com/SMXfPx4.jpg" group-title="News",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
