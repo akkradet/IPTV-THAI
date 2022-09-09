@@ -3,8 +3,12 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2022-09-07 10:01:52 UTC+07 ICT
+# Last Update: 2022-09-09 15:08:14 UTC+07 ICT
 # =======================================================
+
+#EXTINF:-1 tvg-id="IPTV-THAI" tvg-name="IPTV-THAI-https://t.me/iptvth" tvg-logo="http://images.zaltv.club/logo/travel_guide.png" group-title="Digital TV",IPTV-THAI-https://t.me/iptvth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="Digital TV",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
