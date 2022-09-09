@@ -6,7 +6,7 @@
 @2022
 
 ## Playlists
-
+- https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u
 - 🚫DMCA🚫
 
 ## EPG
