@@ -48,7 +48,7 @@
     <display-name lang="en">GMM 25</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
-  <channel id="CH8.th">
+  <channel id="ThaiChannel8.th">
     <display-name lang="en">CH8</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
@@ -2894,6 +2894,114 @@
   <programme start="20220921230000 +0700" stop="20220922000000 +0700" channel="JKN18.th">
     <title lang="th">ครบข่าวค่ำ JKN 18</title>
   </programme>
+  <programme start="20220922000000 +0700" stop="20220922002500 +0700" channel="JKN18.th">
+    <title lang="th">ครบข่าวค่ำ JKN 18</title>
+  </programme>
+  <programme start="20220922002500 +0700" stop="20220922005000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922005000 +0700" stop="20220922014000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย รักซ้อน ซ่อนรัก</title>
+  </programme>
+  <programme start="20220922014000 +0700" stop="20220922030000 +0700" channel="JKN18.th">
+    <title lang="th">SQUAWK BOX - ล็อคหุ้นรวย</title>
+  </programme>
+  <programme start="20220922030000 +0700" stop="20220922031000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922031000 +0700" stop="20220922040000 +0700" channel="JKN18.th">
+    <title lang="th">POWER LUNCH รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220922040000 +0700" stop="20220922041000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922041000 +0700" stop="20220922050000 +0700" channel="JKN18.th">
+    <title lang="th">STREET SIGNS จับทิศลงทุน</title>
+  </programme>
+  <programme start="20220922050000 +0700" stop="20220922055000 +0700" channel="JKN18.th">
+    <title lang="th">JKN-CNBC Worldwide Exchange</title>
+  </programme>
+  <programme start="20220922055000 +0700" stop="20220922060000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922060000 +0700" stop="20220922075000 +0700" channel="JKN18.th">
+    <title lang="th">ข่าวเช้า JKN 18</title>
+  </programme>
+  <programme start="20220922075000 +0700" stop="20220922080000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922080000 +0700" stop="20220922080200 +0700" channel="JKN18.th">
+    <title lang="th">เคารพธงชาติ</title>
+  </programme>
+  <programme start="20220922080200 +0700" stop="20220922085000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย ทางแยกสิเน่หา</title>
+  </programme>
+  <programme start="20220922085000 +0700" stop="20220922091500 +0700" channel="JKN18.th">
+    <title lang="th">JKN HI Shopping</title>
+  </programme>
+  <programme start="20220922091500 +0700" stop="20220922100500 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย ภาวี เจ้าสาวสั่งจอง</title>
+  </programme>
+  <programme start="20220922100500 +0700" stop="20220922103000 +0700" channel="JKN18.th">
+    <title lang="th">JKN HI Shopping</title>
+  </programme>
+  <programme start="20220922103000 +0700" stop="20220922112000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย มายา ปมรักปมสังหาร</title>
+  </programme>
+  <programme start="20220922112000 +0700" stop="20220922113000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922113000 +0700" stop="20220922122000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย ลิขิตแค้นแสนรัก</title>
+  </programme>
+  <programme start="20220922122000 +0700" stop="20220922131000 +0700" channel="JKN18.th">
+    <title lang="th">JKN HI Shopping</title>
+  </programme>
+  <programme start="20220922131000 +0700" stop="20220922140000 +0700" channel="JKN18.th">
+    <title lang="th">ข่าวร้อนรายวัน</title>
+  </programme>
+  <programme start="20220922140000 +0700" stop="20220922150000 +0700" channel="JKN18.th">
+    <title lang="th">อัศจรรย์บันลือโลก</title>
+  </programme>
+  <programme start="20220922150000 +0700" stop="20220922151000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922151000 +0700" stop="20220922160000 +0700" channel="JKN18.th">
+    <title lang="th">อัศจรรย์บันลือโลก</title>
+  </programme>
+  <programme start="20220922160000 +0700" stop="20220922170000 +0700" channel="JKN18.th">
+    <title lang="th">ตีข่าวเล่าใหญ่</title>
+  </programme>
+  <programme start="20220922170000 +0700" stop="20220922172500 +0700" channel="JKN18.th">
+    <title lang="th">JKN HI Shopping</title>
+  </programme>
+  <programme start="20220922172500 +0700" stop="20220922180000 +0700" channel="JKN18.th">
+    <title lang="th">ส่องชีวิตสัตว์โลก</title>
+  </programme>
+  <programme start="20220922180000 +0700" stop="20220922180200 +0700" channel="JKN18.th">
+    <title lang="th">เคารพธงชาติ</title>
+  </programme>
+  <programme start="20220922180200 +0700" stop="20220922181500 +0700" channel="JKN18.th">
+    <title lang="th">ส่องชีวิตสัตว์โลก</title>
+  </programme>
+  <programme start="20220922181500 +0700" stop="20220922201500 +0700" channel="JKN18.th">
+    <title lang="th">มวยไทย FIGHTER X</title>
+  </programme>
+  <programme start="20220922201500 +0700" stop="20220922203500 +0700" channel="JKN18.th">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220922203500 +0700" stop="20220922220000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย พิฆเนศ มหาเทพไอยรา</title>
+  </programme>
+  <programme start="20220922220000 +0700" stop="20220922221000 +0700" channel="JKN18.th">
+    <title lang="th">ชีวิตดี</title>
+  </programme>
+  <programme start="20220922221000 +0700" stop="20220922230000 +0700" channel="JKN18.th">
+    <title lang="th">ละครอินเดีย สุริยันจันทรา ตราบนั้นฉันรักเธอ</title>
+  </programme>
+  <programme start="20220922230000 +0700" stop="20220923000000 +0700" channel="JKN18.th">
+    <title lang="th">ครบข่าวค่ำ JKN 18</title>
+  </programme>
   <programme start="20220920000000 +0700" stop="20220920002000 +0700" channel="NationTV.th">
     <title lang="th">เนชั่นกรองข่าว [R]</title>
   </programme>
@@ -4282,106 +4390,310 @@
   <programme start="20220922230000 +0700" stop="20220923000000 +0700" channel="GMM25.th">
     <title lang="th">ซีรีส์ บรรยากาศรัก เดอะซีรีส์ Love in The Air</title>
   </programme>
-  <programme start="20220920000000 +0700" stop="20220920003000 +0700" channel="CH8.th">
+  <programme start="20220920000000 +0700" stop="20220920003000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
   </programme>
-  <programme start="20220920003000 +0700" stop="20220920004000 +0700" channel="CH8.th">
+  <programme start="20220920003000 +0700" stop="20220920004000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920004000 +0700" stop="20220920014000 +0700" channel="CH8.th">
+  <programme start="20220920004000 +0700" stop="20220920014000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ละคร ศีรษะมาร</title>
   </programme>
-  <programme start="20220920014000 +0700" stop="20220920022500 +0700" channel="CH8.th">
+  <programme start="20220920014000 +0700" stop="20220920022500 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
   </programme>
-  <programme start="20220920022500 +0700" stop="20220920031000 +0700" channel="CH8.th">
+  <programme start="20220920022500 +0700" stop="20220920031000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
   </programme>
-  <programme start="20220920031000 +0700" stop="20220920032000 +0700" channel="CH8.th">
+  <programme start="20220920031000 +0700" stop="20220920032000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920032000 +0700" stop="20220920042000 +0700" channel="CH8.th">
+  <programme start="20220920032000 +0700" stop="20220920042000 +0700" channel="ThaiChannel8.th">
     <title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title>
   </programme>
-  <programme start="20220920042000 +0700" stop="20220920043000 +0700" channel="CH8.th">
+  <programme start="20220920042000 +0700" stop="20220920043000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920043000 +0700" stop="20220920050000 +0700" channel="CH8.th">
+  <programme start="20220920043000 +0700" stop="20220920050000 +0700" channel="ThaiChannel8.th">
     <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
   </programme>
-  <programme start="20220920050000 +0700" stop="20220920053000 +0700" channel="CH8.th">
+  <programme start="20220920050000 +0700" stop="20220920053000 +0700" channel="ThaiChannel8.th">
     <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
   </programme>
-  <programme start="20220920053000 +0700" stop="20220920054000 +0700" channel="CH8.th">
+  <programme start="20220920053000 +0700" stop="20220920054000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920054000 +0700" stop="20220920083000 +0700" channel="CH8.th">
+  <programme start="20220920054000 +0700" stop="20220920083000 +0700" channel="ThaiChannel8.th">
     <title lang="th">คุยข่าวเช้าช่อง 8</title>
   </programme>
-  <programme start="20220920083000 +0700" stop="20220920090000 +0700" channel="CH8.th">
+  <programme start="20220920083000 +0700" stop="20220920090000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ปากท้องต้องรู้</title>
   </programme>
-  <programme start="20220920090000 +0700" stop="20220920091000 +0700" channel="CH8.th">
+  <programme start="20220920090000 +0700" stop="20220920091000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920091000 +0700" stop="20220920094000 +0700" channel="CH8.th">
+  <programme start="20220920091000 +0700" stop="20220920094000 +0700" channel="ThaiChannel8.th">
     <title lang="th">อึ้งทึ่งเสียว</title>
   </programme>
-  <programme start="20220920094000 +0700" stop="20220920104000 +0700" channel="CH8.th">
+  <programme start="20220920094000 +0700" stop="20220920104000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title>
   </programme>
-  <programme start="20220920104000 +0700" stop="20220920105000 +0700" channel="CH8.th">
+  <programme start="20220920104000 +0700" stop="20220920105000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920105000 +0700" stop="20220920112500 +0700" channel="CH8.th">
+  <programme start="20220920105000 +0700" stop="20220920112500 +0700" channel="ThaiChannel8.th">
     <title lang="th">เรื่องว้าวเล่าโลก</title>
   </programme>
-  <programme start="20220920112500 +0700" stop="20220920122000 +0700" channel="CH8.th">
+  <programme start="20220920112500 +0700" stop="20220920122000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ข่าวใหญ่ช่อง 8</title>
   </programme>
-  <programme start="20220920122000 +0700" stop="20220920123000 +0700" channel="CH8.th">
+  <programme start="20220920122000 +0700" stop="20220920123000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920123000 +0700" stop="20220920133000 +0700" channel="CH8.th">
+  <programme start="20220920123000 +0700" stop="20220920133000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
   </programme>
-  <programme start="20220920133000 +0700" stop="20220920134000 +0700" channel="CH8.th">
+  <programme start="20220920133000 +0700" stop="20220920134000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920134000 +0700" stop="20220920144000 +0700" channel="CH8.th">
+  <programme start="20220920134000 +0700" stop="20220920144000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
   </programme>
-  <programme start="20220920144000 +0700" stop="20220920145000 +0700" channel="CH8.th">
+  <programme start="20220920144000 +0700" stop="20220920145000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920145000 +0700" stop="20220920155000 +0700" channel="CH8.th">
+  <programme start="20220920145000 +0700" stop="20220920155000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
   </programme>
-  <programme start="20220920155000 +0700" stop="20220920160000 +0700" channel="CH8.th">
+  <programme start="20220920155000 +0700" stop="20220920160000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ชีวิตดี สาระดี</title>
   </programme>
-  <programme start="20220920160000 +0700" stop="20220920190000 +0700" channel="CH8.th">
+  <programme start="20220920160000 +0700" stop="20220920190000 +0700" channel="ThaiChannel8.th">
     <title lang="th">คุยข่าวเย็นช่อง 8</title>
   </programme>
-  <programme start="20220920190000 +0700" stop="20220920200000 +0700" channel="CH8.th">
+  <programme start="20220920190000 +0700" stop="20220920200000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ละคร เสน่ห์นางครวญ</title>
   </programme>
-  <programme start="20220920200000 +0700" stop="20220920202000 +0700" channel="CH8.th">
+  <programme start="20220920200000 +0700" stop="20220920202000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme start="20220920202000 +0700" stop="20220920203000 +0700" channel="CH8.th">
+  <programme start="20220920202000 +0700" stop="20220920203000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ข่าว 8 BREAKING NEWS</title>
   </programme>
-  <programme start="20220920203000 +0700" stop="20220920213000 +0700" channel="CH8.th">
+  <programme start="20220920203000 +0700" stop="20220920213000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ละคร ศีรษะมาร</title>
   </programme>
-  <programme start="20220920213000 +0700" stop="20220920230000 +0700" channel="CH8.th">
+  <programme start="20220920213000 +0700" stop="20220920230000 +0700" channel="ThaiChannel8.th">
     <title lang="th">เกาะติดข่าว 8</title>
   </programme>
-  <programme start="20220920230000 +0700" stop="20220920234000 +0700" channel="CH8.th">
+  <programme start="20220920230000 +0700" stop="20220920234000 +0700" channel="ThaiChannel8.th">
     <title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title>
   </programme>
-  <programme start="20220920234000 +0700" stop="20220921000000 +0700" channel="CH8.th">
+  <programme start="20220920234000 +0700" stop="20220921000000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220921000000 +0700" stop="20220921003000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220921003000 +0700" stop="20220921004000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921004000 +0700" stop="20220921014000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร ศีรษะมาร</title>
+  </programme>
+  <programme start="20220921014000 +0700" stop="20220921022500 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
+  </programme>
+  <programme start="20220921022500 +0700" stop="20220921031000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
+  </programme>
+  <programme start="20220921031000 +0700" stop="20220921032000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921032000 +0700" stop="20220921042000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title>
+  </programme>
+  <programme start="20220921042000 +0700" stop="20220921043000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921043000 +0700" stop="20220921050000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
+  </programme>
+  <programme start="20220921050000 +0700" stop="20220921053000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
+  </programme>
+  <programme start="20220921053000 +0700" stop="20220921054000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921054000 +0700" stop="20220921083000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้าช่อง 8</title>
+  </programme>
+  <programme start="20220921083000 +0700" stop="20220921090000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ปากท้องต้องรู้</title>
+  </programme>
+  <programme start="20220921090000 +0700" stop="20220921091000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921091000 +0700" stop="20220921094000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">อึ้งทึ่งเสียว</title>
+  </programme>
+  <programme start="20220921094000 +0700" stop="20220921104000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title>
+  </programme>
+  <programme start="20220921104000 +0700" stop="20220921105000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921105000 +0700" stop="20220921112500 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เรื่องว้าวเล่าโลก</title>
+  </programme>
+  <programme start="20220921112500 +0700" stop="20220921122000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าวใหญ่ช่อง 8</title>
+  </programme>
+  <programme start="20220921122000 +0700" stop="20220921123000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921123000 +0700" stop="20220921133000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220921133000 +0700" stop="20220921134000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921134000 +0700" stop="20220921144000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
+  </programme>
+  <programme start="20220921144000 +0700" stop="20220921145000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921145000 +0700" stop="20220921155000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
+  </programme>
+  <programme start="20220921155000 +0700" stop="20220921160000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220921160000 +0700" stop="20220921190000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเย็นช่อง 8</title>
+  </programme>
+  <programme start="20220921190000 +0700" stop="20220921200000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร เสน่ห์นางครวญ</title>
+  </programme>
+  <programme start="20220921200000 +0700" stop="20220921202000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220921202000 +0700" stop="20220921203000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าว 8 BREAKING NEWS</title>
+  </programme>
+  <programme start="20220921203000 +0700" stop="20220921213000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร ศีรษะมาร</title>
+  </programme>
+  <programme start="20220921213000 +0700" stop="20220921230000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เกาะติดข่าว 8</title>
+  </programme>
+  <programme start="20220921230000 +0700" stop="20220921234000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title>
+  </programme>
+  <programme start="20220921234000 +0700" stop="20220922000000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220922000000 +0700" stop="20220922003000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220922003000 +0700" stop="20220922004000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922004000 +0700" stop="20220922014000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร ศีรษะมาร</title>
+  </programme>
+  <programme start="20220922014000 +0700" stop="20220922022500 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
+  </programme>
+  <programme start="20220922022500 +0700" stop="20220922031000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
+  </programme>
+  <programme start="20220922031000 +0700" stop="20220922032000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922032000 +0700" stop="20220922042000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เรื่องว้าวเล่าโลก (ADCC)</title>
+  </programme>
+  <programme start="20220922042000 +0700" stop="20220922043000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922043000 +0700" stop="20220922050000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
+  </programme>
+  <programme start="20220922050000 +0700" stop="20220922053000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้ารุ่งอรุณช่อง 8</title>
+  </programme>
+  <programme start="20220922053000 +0700" stop="20220922054000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922054000 +0700" stop="20220922083000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเช้าช่อง 8</title>
+  </programme>
+  <programme start="20220922083000 +0700" stop="20220922090000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ปากท้องต้องรู้</title>
+  </programme>
+  <programme start="20220922090000 +0700" stop="20220922091000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922091000 +0700" stop="20220922094000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">อึ้งทึ่งเสียว</title>
+  </programme>
+  <programme start="20220922094000 +0700" stop="20220922104000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์จีน ลิขิตแห่งจันทรา</title>
+  </programme>
+  <programme start="20220922104000 +0700" stop="20220922105000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922105000 +0700" stop="20220922112500 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เรื่องว้าวเล่าโลก</title>
+  </programme>
+  <programme start="20220922112500 +0700" stop="20220922122000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าวใหญ่ช่อง 8</title>
+  </programme>
+  <programme start="20220922122000 +0700" stop="20220922123000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922123000 +0700" stop="20220922133000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
+  </programme>
+  <programme start="20220922133000 +0700" stop="20220922134000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922134000 +0700" stop="20220922144000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย มหากาลี เทพสตรีพิชิตมาร</title>
+  </programme>
+  <programme start="20220922144000 +0700" stop="20220922145000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922145000 +0700" stop="20220922155000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ซีรี่ส์อินเดีย สีดา มหารานีแห่งแผ่นดิน</title>
+  </programme>
+  <programme start="20220922155000 +0700" stop="20220922160000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ชีวิตดี สาระดี</title>
+  </programme>
+  <programme start="20220922160000 +0700" stop="20220922190000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">คุยข่าวเย็นช่อง 8</title>
+  </programme>
+  <programme start="20220922190000 +0700" stop="20220922200000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร เสน่ห์นางครวญ</title>
+  </programme>
+  <programme start="20220922200000 +0700" stop="20220922202000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220922202000 +0700" stop="20220922203000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ข่าว 8 BREAKING NEWS</title>
+  </programme>
+  <programme start="20220922203000 +0700" stop="20220922213000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">ละคร ศีรษะมาร</title>
+  </programme>
+  <programme start="20220922213000 +0700" stop="20220922230000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">เกาะติดข่าว 8</title>
+  </programme>
+  <programme start="20220922230000 +0700" stop="20220922234000 +0700" channel="ThaiChannel8.th">
+    <title lang="th">CH8 FIGHT NIGHT ศึกมวยพันธุ์เดือด</title>
+  </programme>
+  <programme start="20220922234000 +0700" stop="20220923000000 +0700" channel="ThaiChannel8.th">
     <title lang="th">ซีรีส์จีน ร้อยรักปักดวงใจ</title>
   </programme>
   <programme start="20220920001000 +0700" stop="20220920015500 +0700" channel="Mono29.th">
@@ -6216,6 +6528,186 @@
   </programme>
   <programme start="20220920231500 +0700" stop="20220921000000 +0700" channel="BBTVChannel7.th">
     <title lang="th">ดวลเพลงดัง (Rerun)</title>
+  </programme>
+  <programme start="20220921000000 +0700" stop="20220921001000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สดๆ บทไม่มี (Rerun)</title>
+  </programme>
+  <programme start="20220921001000 +0700" stop="20220921011000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สาวน้อยร้อยไมค์ (Rerun)</title>
+  </programme>
+  <programme start="20220921011000 +0700" stop="20220921024000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ชุมทางฮอตโชว์</title>
+  </programme>
+  <programme start="20220921024000 +0700" stop="20220921034000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ผักบุ้งกับกุ้งนาง (Rerun)</title>
+  </programme>
+  <programme start="20220921034000 +0700" stop="20220921043000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ใจดีสู้ฝัน</title>
+  </programme>
+  <programme start="20220921043000 +0700" stop="20220921060000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เช้า-ข่าว 7 สี</title>
+  </programme>
+  <programme start="20220921060000 +0700" stop="20220921073000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  </programme>
+  <programme start="20220921073000 +0700" stop="20220921090500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สนามข่าว 7 สี</title>
+  </programme>
+  <programme start="20220921090500 +0700" stop="20220921091500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เงินทองของจริง</title>
+  </programme>
+  <programme start="20220921091500 +0700" stop="20220921092000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ฆ่าโง่</title>
+  </programme>
+  <programme start="20220921092000 +0700" stop="20220921112000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ใยกัลยา (Rerun)</title>
+  </programme>
+  <programme start="20220921112000 +0700" stop="20220921120500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  </programme>
+  <programme start="20220921120500 +0700" stop="20220921122000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เที่ยงบันเทิง สด</title>
+  </programme>
+  <programme start="20220921122000 +0700" stop="20220921124000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">แบไต๋ 7 เอชดี ไอทีและยานยนต์</title>
+  </programme>
+  <programme start="20220921124000 +0700" stop="20220921124500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  </programme>
+  <programme start="20220921124500 +0700" stop="20220921130000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">7 สีช่วยชาวบ้าน</title>
+  </programme>
+  <programme start="20220921130000 +0700" stop="20220921134500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">รสชาติไทย</title>
+  </programme>
+  <programme start="20220921134500 +0700" stop="20220921135500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สดๆ บทไม่มี</title>
+  </programme>
+  <programme start="20220921135500 +0700" stop="20220921135700 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวเด็ด 7 สี</title>
+  </programme>
+  <programme start="20220921135700 +0700" stop="20220921154500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ดอกหญ้าในพายุ (Rerun)</title>
+  </programme>
+  <programme start="20220921154500 +0700" stop="20220921180000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  </programme>
+  <programme start="20220921180000 +0700" stop="20220921184500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">อกธรณี (Rerun)</title>
+  </programme>
+  <programme start="20220921184500 +0700" stop="20220921194500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สาวน้อยร้อยไมค์</title>
+  </programme>
+  <programme start="20220921194500 +0700" stop="20220921202000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวภาคค่ำ</title>
+  </programme>
+  <programme start="20220921202000 +0700" stop="20220921203000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เส้นทางบันเทิง</title>
+  </programme>
+  <programme start="20220921203000 +0700" stop="20220921222000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เข็มซ่อนปลาย</title>
+  </programme>
+  <programme start="20220921222000 +0700" stop="20220921222200 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ชิดจอ..รอดู</title>
+  </programme>
+  <programme start="20220921222200 +0700" stop="20220921224500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  </programme>
+  <programme start="20220921224500 +0700" stop="20220921231500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">MISSION 7</title>
+  </programme>
+  <programme start="20220921231500 +0700" stop="20220921234500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">MOTOR CHANNEL</title>
+  </programme>
+  <programme start="20220921234500 +0700" stop="20220922000000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สดๆ บทไม่มี (Rerun)</title>
+  </programme>
+  <programme start="20220922000000 +0700" stop="20220922001000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สดๆ บทไม่มี (Rerun)</title>
+  </programme>
+  <programme start="20220922001000 +0700" stop="20220922011000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สาวน้อยร้อยไมค์ (Rerun)</title>
+  </programme>
+  <programme start="20220922011000 +0700" stop="20220922024000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ชุมทางฮอตโชว์</title>
+  </programme>
+  <programme start="20220922024000 +0700" stop="20220922034000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ผักบุ้งกับกุ้งนาง (Rerun)</title>
+  </programme>
+  <programme start="20220922034000 +0700" stop="20220922043000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ใจดีสู้ฝัน</title>
+  </programme>
+  <programme start="20220922043000 +0700" stop="20220922060000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เช้า-ข่าว 7 สี</title>
+  </programme>
+  <programme start="20220922060000 +0700" stop="20220922073000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  </programme>
+  <programme start="20220922073000 +0700" stop="20220922090500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สนามข่าว 7 สี</title>
+  </programme>
+  <programme start="20220922090500 +0700" stop="20220922091500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เงินทองของจริง</title>
+  </programme>
+  <programme start="20220922091500 +0700" stop="20220922092000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ฆ่าโง่</title>
+  </programme>
+  <programme start="20220922092000 +0700" stop="20220922112000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ใยกัลยา (Rerun)</title>
+  </programme>
+  <programme start="20220922112000 +0700" stop="20220922120500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  </programme>
+  <programme start="20220922120500 +0700" stop="20220922122000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เที่ยงบันเทิง สด</title>
+  </programme>
+  <programme start="20220922122000 +0700" stop="20220922124000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">แบไต๋ 7 เอชดี ไอทีและยานยนต์</title>
+  </programme>
+  <programme start="20220922124000 +0700" stop="20220922124500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  </programme>
+  <programme start="20220922124500 +0700" stop="20220922134500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ชุมทางดาวทอง</title>
+  </programme>
+  <programme start="20220922134500 +0700" stop="20220922135500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สดๆ บทไม่มี</title>
+  </programme>
+  <programme start="20220922135500 +0700" stop="20220922135700 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวเด็ด 7 สี</title>
+  </programme>
+  <programme start="20220922135700 +0700" stop="20220922154500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ดอกหญ้าในพายุ (Rerun)</title>
+  </programme>
+  <programme start="20220922154500 +0700" stop="20220922180000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  </programme>
+  <programme start="20220922180000 +0700" stop="20220922184500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">อกธรณี (Rerun)</title>
+  </programme>
+  <programme start="20220922184500 +0700" stop="20220922194500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">สาวน้อยร้อยไมค์</title>
+  </programme>
+  <programme start="20220922194500 +0700" stop="20220922202000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ข่าวภาคค่ำ</title>
+  </programme>
+  <programme start="20220922202000 +0700" stop="20220922203000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เส้นทางบันเทิง</title>
+  </programme>
+  <programme start="20220922203000 +0700" stop="20220922222000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">เข็มซ่อนปลาย</title>
+  </programme>
+  <programme start="20220922222000 +0700" stop="20220922222200 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ชิดจอ..รอดู</title>
+  </programme>
+  <programme start="20220922222200 +0700" stop="20220922224500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  </programme>
+  <programme start="20220922224500 +0700" stop="20220922231500 +0700" channel="BBTVChannel7.th">
+    <title lang="th">5Q-5Questions</title>
+  </programme>
+  <programme start="20220922231500 +0700" stop="20220923000000 +0700" channel="BBTVChannel7.th">
+    <title lang="th">BID COIN CHEF สุดยอดเชฟหักเหลี่ยมโหด (Rerun)</title>
   </programme>
   <programme start="20220920000000 +0700" stop="20220920001500 +0700" channel="PPTVHD.th">
     <title lang="th">Highlights Bundesliga 2022-2023</title>
