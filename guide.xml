@@ -72,7 +72,7 @@
     <display-name lang="en">CH3 HD</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
-  <channel id="AmarinTVHD.th">
+  <channel id="Amarin34HD.th">
     <display-name lang="en">AMARIN TV HD</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
   </channel>
@@ -155,6 +155,10 @@
   <channel id="Boomerang.sg">
     <display-name lang="en">Boomerang(Asian)</display-name>
     <url>http://www.gigatv.3bb.co.th</url>
+  </channel>
+  <channel id="TOONEE.th">
+    <display-name lang="en">TOONEE</display-name>
+    <url>http://www.aisplay.ais.co.th</url>
   </channel>
   <channel id="Nickelodeon.th">
     <display-name lang="en">Nickelodeon</display-name>
@@ -3138,6 +3142,190 @@
   <programme start="20220928232000 +0700" stop="20220929000000 +0700" channel="NationTV.th">
     <title lang="th">จุดวัดดวงข่าว (L)</title>
   </programme>
+  <programme start="20220926001000 +0700" stop="20220926010000 +0700" channel="Workpoint23.th">
+    <title lang="en">งานประกาศรางวัล สุพรรณหงส์ช่วงที่ 2</title>
+    <desc lang="en">งานประกาศรางวัล.(n)</desc>
+  </programme>
+  <programme start="20220926010000 +0700" stop="20220926011000 +0700" channel="Workpoint23.th">
+    <title lang="en">Amado Shopping</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926011000 +0700" stop="20220926020000 +0700" channel="Workpoint23.th">
+    <title lang="en">ปัญญาปันสุข รีรัน</title>
+    <desc lang="en">รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการและผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม.(n)</desc>
+  </programme>
+  <programme start="20220926020000 +0700" stop="20220926021000 +0700" channel="Workpoint23.th">
+    <title lang="en">Amado Shopping</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926021000 +0700" stop="20220926030000 +0700" channel="Workpoint23.th">
+    <title lang="en">คุณพระช่วย รีรัน</title>
+    <desc lang="en">รายการที่นำเรื่องราวเกี่ยวกับประเพณี วัฒนธรรม ต่างๆ.(n)</desc>
+  </programme>
+  <programme start="20220926030000 +0700" stop="20220926040000 +0700" channel="Workpoint23.th">
+    <title lang="en">ปัญญาปันสุข</title>
+    <desc lang="en">รายการที่จะทำให้ทั้งผู้เข้าร่วมรายการและผู้ชมรายการได้รับกำลังใจและพลังของการปันสุขไปอย่างเต็มเปี่ยม.(n)</desc>
+  </programme>
+  <programme start="20220926040000 +0700" stop="20220926042700 +0700" channel="Workpoint23.th">
+    <title lang="en">คุยทะลุดราม่า รีรัน</title>
+    <desc lang="en">คุยทะลุดราม่า.(n)</desc>
+  </programme>
+  <programme start="20220926042700 +0700" stop="20220926043700 +0700" channel="Workpoint23.th">
+    <title lang="en">ตั้งเตาเมาท์บันเทิง รีรัน</title>
+    <desc lang="en">ตั้งเตาเมาท์บันเทิง.(n)</desc>
+  </programme>
+  <programme start="20220926043700 +0700" stop="20220926043900 +0700" channel="Workpoint23.th">
+    <title lang="en">ธรรมสวัสดี</title>
+    <desc lang="en">รายการธรรมสวัสดี.(n)</desc>
+  </programme>
+  <programme start="20220926043900 +0700" stop="20220926045000 +0700" channel="Workpoint23.th">
+    <title lang="en">การ์ตูน สัมมาทิฎฐิ ทะลุมิติมายา</title>
+    <desc lang="en">การ์ตูน สัมมาทิฎฐิ ทะลุมิติมายา.(n)</desc>
+  </programme>
+  <programme start="20220926045000 +0700" stop="20220926050000 +0700" channel="Workpoint23.th">
+    <title lang="en">Amado Shopping</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926050000 +0700" stop="20220926063000 +0700" channel="Workpoint23.th">
+    <title lang="en">ตลาดข่าวเวิร์คพอยท์</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926063000 +0700" stop="20220926080000 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวเช้าเวิร์คพอยท์</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926080000 +0700" stop="20220926080100 +0700" channel="Workpoint23.th">
+    <title lang="en">เคารพธงชาติ</title>
+    <desc lang="en">เคารพธงชาติ.(n)</desc>
+  </programme>
+  <programme start="20220926080100 +0700" stop="20220926084500 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวเช้าเวิร์คพอยท์</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926084500 +0700" stop="20220926092000 +0700" channel="Workpoint23.th">
+    <title lang="en">ห้องข่าวบันเทิง</title>
+    <desc lang="en">รายงานข่าวบันเทิง.(n)</desc>
+  </programme>
+  <programme start="20220926092000 +0700" stop="20220926102000 +0700" channel="Workpoint23.th">
+    <title lang="en">ไมค์หมดหนี้เสี่ยงโชค รีรัน</title>
+    <desc lang="en">รายการประกวดนักร้องเพลงลูกทุ่ง.(n)</desc>
+  </programme>
+  <programme start="20220926102000 +0700" stop="20220926103000 +0700" channel="Workpoint23.th">
+    <title lang="en">ของมันต้องมี Daily</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926103000 +0700" stop="20220926103300 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวใหม่ต้นชั่วโมง</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926103300 +0700" stop="20220926110000 +0700" channel="Workpoint23.th">
+    <title lang="en">ก่อนบ่ายคลายเครียด</title>
+    <desc lang="en">รายการตลก.(n)</desc>
+  </programme>
+  <programme start="20220926110000 +0700" stop="20220926111000 +0700" channel="Workpoint23.th">
+    <title lang="en">Amado Shopping</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926111000 +0700" stop="20220926114000 +0700" channel="Workpoint23.th">
+    <title lang="en">คุยทะลุดราม่า</title>
+    <desc lang="en">คุยทะลุดราม่า.(n)</desc>
+  </programme>
+  <programme start="20220926114000 +0700" stop="20220926124000 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวเที่ยง สดจากที่จริง</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926124000 +0700" stop="20220926132000 +0700" channel="Workpoint23.th">
+    <title lang="en">โต๊ะหนูแหม่ม</title>
+    <desc lang="en">รายการโต๊ะหนูแหม่ม.(n)</desc>
+  </programme>
+  <programme start="20220926132000 +0700" stop="20220926140000 +0700" channel="Workpoint23.th">
+    <title lang="en">ปัญญาตลาดแตก รีรัน</title>
+    <desc lang="en">รายการปัญญาตลาดแตก.(n)</desc>
+  </programme>
+  <programme start="20220926140000 +0700" stop="20220926140300 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวใหม่ต้นชั่วโมง</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926140300 +0700" stop="20220926142000 +0700" channel="Workpoint23.th">
+    <title lang="en">ปัญญาตลาดแตก รีรัน</title>
+    <desc lang="en">รายการปัญญาตลาดแตก.(n)</desc>
+  </programme>
+  <programme start="20220926142000 +0700" stop="20220926145000 +0700" channel="Workpoint23.th">
+    <title lang="en">ผู้หญิงทำมาหากิน</title>
+    <desc lang="en">รายการเกี่ยวกับอาชีพ.(n)</desc>
+  </programme>
+  <programme start="20220926145000 +0700" stop="20220926150000 +0700" channel="Workpoint23.th">
+    <title lang="en">ตลกหกฉาก รีรัน</title>
+    <desc lang="en">รายการตลก.(n)</desc>
+  </programme>
+  <programme start="20220926150000 +0700" stop="20220926153000 +0700" channel="Workpoint23.th">
+    <title lang="en">อดเปรี้ยวกินหวาน</title>
+    <desc lang="en">รายการสอนทำอาหาร.(n)</desc>
+  </programme>
+  <programme start="20220926153000 +0700" stop="20220926161500 +0700" channel="Workpoint23.th">
+    <title lang="en">ตั้งเตาเมาท์บันเทิง</title>
+    <desc lang="en">ตั้งเตาเมาท์บันเทิง.(n)</desc>
+  </programme>
+  <programme start="20220926161500 +0700" stop="20220926161800 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวใหม่ต้นชั่วโมง</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926161800 +0700" stop="20220926175500 +0700" channel="Workpoint23.th">
+    <title lang="en">บรรจงชงข่าว</title>
+    <desc lang="en">รายการวิเคราะห์ข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926175500 +0700" stop="20220926180000 +0700" channel="Workpoint23.th">
+    <title lang="en">ติ่งข่าว</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926180000 +0700" stop="20220926180100 +0700" channel="Workpoint23.th">
+    <title lang="en">เคารพธงชาติ</title>
+    <desc lang="en">เคารพธงชาติ.(n)</desc>
+  </programme>
+  <programme start="20220926180100 +0700" stop="20220926190000 +0700" channel="Workpoint23.th">
+    <title lang="en">ไมค์หมดหนี้เสี่ยงโชค</title>
+    <desc lang="en">รายการประกวดนักร้องเพลงลูกทุ่ง.(n)</desc>
+  </programme>
+  <programme start="20220926190000 +0700" stop="20220926195700 +0700" channel="Workpoint23.th">
+    <title lang="en">ปัญญาตลาดแตก</title>
+    <desc lang="en">รายการปัญญาตลาดแตก.(n)</desc>
+  </programme>
+  <programme start="20220926195700 +0700" stop="20220926200200 +0700" channel="Workpoint23.th">
+    <title lang="en">2 ข่าวใหญ่เวิร์คพอยท์</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926200200 +0700" stop="20220926201500 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวในพระราชสำนัก</title>
+    <desc lang="en">รายงานข่าวพระราชสำนัก.(n)</desc>
+  </programme>
+  <programme start="20220926201500 +0700" stop="20220926213000 +0700" channel="Workpoint23.th">
+    <title lang="en">หัวท้ายตายก่อน 3*3</title>
+    <desc lang="en">หัวท้ายตายก่อน.(n)</desc>
+  </programme>
+  <programme start="20220926213000 +0700" stop="20220926223000 +0700" channel="Workpoint23.th">
+    <title lang="en">ชิงร้อยชิงล้าน ว้าว ว้าว ว้าว รีรัน</title>
+    <desc lang="en">รายการตลก.(n)</desc>
+  </programme>
+  <programme start="20220926223000 +0700" stop="20220926223300 +0700" channel="Workpoint23.th">
+    <title lang="en">ข่าวใหม่ต้นชั่วโมง</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926223300 +0700" stop="20220926231500 +0700" channel="Workpoint23.th">
+    <title lang="en">ตั้งเตาเมาท์บันเทิง รีรัน</title>
+    <desc lang="en">ตั้งเตาเมาท์บันเทิง.(n)</desc>
+  </programme>
+  <programme start="20220926231500 +0700" stop="20220926232000 +0700" channel="Workpoint23.th">
+    <title lang="en">ติ่งข่าว รีรัน</title>
+    <desc lang="en">รายงานข่าว.(n)</desc>
+  </programme>
+  <programme start="20220926232000 +0700" stop="20220926233000 +0700" channel="Workpoint23.th">
+    <title lang="en">Amado Shopping</title>
+    <desc lang="en">รายการแนะนำสินค้า.(n)</desc>
+  </programme>
+  <programme start="20220926233000 +0700" stop="20220926235700 +0700" channel="Workpoint23.th">
+    <title lang="en">บางกอกลืมบอกแม่ รีรัน</title>
+    <desc lang="en">รายการตลก.(n)</desc>
+  </programme>
   <programme start="20220926000000 +0700" stop="20220926010000 +0700" channel="True4U.th">
     <title lang="th">ภาพยนตร์ ช็อคโกแลต</title>
   </programme>
@@ -3206,6 +3394,150 @@
   </programme>
   <programme start="20220926223000 +0700" stop="20220927000000 +0700" channel="True4U.th">
     <title lang="th">ภาพยนตร์ กะปิ ลิงจ๋อไม่หลอกจ้าว</title>
+  </programme>
+  <programme start="20220927000000 +0700" stop="20220927003000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ ฮาศาสตร์</title>
+  </programme>
+  <programme start="20220927003000 +0700" stop="20220927010000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220927010000 +0700" stop="20220927013000 +0700" channel="True4U.th">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220927013000 +0700" stop="20220927020000 +0700" channel="True4U.th">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220927020000 +0700" stop="20220927040000 +0700" channel="True4U.th">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220927040000 +0700" stop="20220927050000 +0700" channel="True4U.th">
+    <title lang="th">สามเณรปลูกปัญญาธรรม</title>
+  </programme>
+  <programme start="20220927050000 +0700" stop="20220927053000 +0700" channel="True4U.th">
+    <title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title>
+  </programme>
+  <programme start="20220927053000 +0700" stop="20220927060000 +0700" channel="True4U.th">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220927060000 +0700" stop="20220927080000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ หอแต๋วแตก</title>
+  </programme>
+  <programme start="20220927080000 +0700" stop="20220927080100 +0700" channel="True4U.th">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220927080100 +0700" stop="20220927083000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220927083000 +0700" stop="20220927103000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ มอ 6/5 ปากหมา ท้าแม่นาค</title>
+  </programme>
+  <programme start="20220927103000 +0700" stop="20220927110000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220927110000 +0700" stop="20220927113000 +0700" channel="True4U.th">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220927113000 +0700" stop="20220927123000 +0700" channel="True4U.th">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220927123000 +0700" stop="20220927143000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ เฮียคลั่ง! ดับเครื่องชน</title>
+  </programme>
+  <programme start="20220927143000 +0700" stop="20220927150000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220927150000 +0700" stop="20220927170000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ จอมใจบัลลังก์เลือด</title>
+  </programme>
+  <programme start="20220927170000 +0700" stop="20220927180000 +0700" channel="True4U.th">
+    <title lang="th">MATCH DAY</title>
+  </programme>
+  <programme start="20220927180000 +0700" stop="20220927180100 +0700" channel="True4U.th">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220927180100 +0700" stop="20220927200000 +0700" channel="True4U.th">
+    <title lang="th">มวยมันส์สนั่นเมือง 2022</title>
+  </programme>
+  <programme start="20220927200000 +0700" stop="20220927203000 +0700" channel="True4U.th">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220927203000 +0700" stop="20220927223000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ ขุนศึก</title>
+  </programme>
+  <programme start="20220927223000 +0700" stop="20220928000000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ หอแต๋วแตก</title>
+  </programme>
+  <programme start="20220928000000 +0700" stop="20220928003000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ หอแต๋วแตก</title>
+  </programme>
+  <programme start="20220928003000 +0700" stop="20220928010000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220928010000 +0700" stop="20220928013000 +0700" channel="True4U.th">
+    <title lang="th">TNN รู้ทันลงทุน</title>
+  </programme>
+  <programme start="20220928013000 +0700" stop="20220928020000 +0700" channel="True4U.th">
+    <title lang="th">TNN ประเด็นใหญ่</title>
+  </programme>
+  <programme start="20220928020000 +0700" stop="20220928040000 +0700" channel="True4U.th">
+    <title lang="th">TNN ข่าวค่ำ</title>
+  </programme>
+  <programme start="20220928040000 +0700" stop="20220928050000 +0700" channel="True4U.th">
+    <title lang="th">สามเณรปลูกปัญญาธรรม</title>
+  </programme>
+  <programme start="20220928050000 +0700" stop="20220928053000 +0700" channel="True4U.th">
+    <title lang="th">เครื่องเสวย ตามเสด็จไกลบ้าน</title>
+  </programme>
+  <programme start="20220928053000 +0700" stop="20220928060000 +0700" channel="True4U.th">
+    <title lang="th">ติดเขา</title>
+  </programme>
+  <programme start="20220928060000 +0700" stop="20220928080000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ มือปืน/โลก/พระ/จัน 2</title>
+  </programme>
+  <programme start="20220928080000 +0700" stop="20220928080100 +0700" channel="True4U.th">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220928080100 +0700" stop="20220928083000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220928083000 +0700" stop="20220928103000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ มอ 6/5 ปากหมา ท้าผี 3</title>
+  </programme>
+  <programme start="20220928103000 +0700" stop="20220928110000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220928110000 +0700" stop="20220928113000 +0700" channel="True4U.th">
+    <title lang="th">เรื่องดีดีทั่วไทย</title>
+  </programme>
+  <programme start="20220928113000 +0700" stop="20220928123000 +0700" channel="True4U.th">
+    <title lang="th">TNN ข่าวเที่ยง</title>
+  </programme>
+  <programme start="20220928123000 +0700" stop="20220928143000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ ปล้นมหากาฬ</title>
+  </programme>
+  <programme start="20220928143000 +0700" stop="20220928150000 +0700" channel="True4U.th">
+    <title lang="th">ทรูช้อปปิ้ง</title>
+  </programme>
+  <programme start="20220928150000 +0700" stop="20220928170000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ สามก๊ก เทพเจ้ากวนอู</title>
+  </programme>
+  <programme start="20220928170000 +0700" stop="20220928180000 +0700" channel="True4U.th">
+    <title lang="th">MATCH DAY</title>
+  </programme>
+  <programme start="20220928180000 +0700" stop="20220928180100 +0700" channel="True4U.th">
+    <title lang="th">เพลงชาติไทย</title>
+  </programme>
+  <programme start="20220928180100 +0700" stop="20220928200000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ ปืนใหญ่จอมสลัด</title>
+  </programme>
+  <programme start="20220928200000 +0700" stop="20220928203000 +0700" channel="True4U.th">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+  </programme>
+  <programme start="20220928203000 +0700" stop="20220928223000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ นางตะเคียน</title>
+  </programme>
+  <programme start="20220928223000 +0700" stop="20220929000000 +0700" channel="True4U.th">
+    <title lang="th">ภาพยนตร์ มือปืน/โลก/พระ/จัน 2</title>
   </programme>
   <programme start="20220926000000 +0700" stop="20220926005000 +0700" channel="GMM25.th">
     <title lang="th">เจาะข่าวค่ำ (Rerun)</title>
@@ -5133,340 +5465,340 @@
   <programme start="20220928230000 +0700" stop="20220929000000 +0700" channel="CH3.th">
     <title lang="th">แชนเนลทรี ซีรี่ส์ นกดู แม่หม้ายหนุ่ม หัวใจแกร่ง</title>
   </programme>
-  <programme start="20220926000000 +0700" stop="20220926003000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926000000 +0700" stop="20220926003000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926003000 +0700" stop="20220926010000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926003000 +0700" stop="20220926010000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220926010000 +0700" stop="20220926013000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926010000 +0700" stop="20220926013000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทรูช้อปปิ้ง</title>
   </programme>
-  <programme start="20220926013000 +0700" stop="20220926020000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926013000 +0700" stop="20220926020000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน</title>
   </programme>
-  <programme start="20220926020000 +0700" stop="20220926023000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926020000 +0700" stop="20220926023000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีพจรลงพุง</title>
   </programme>
-  <programme start="20220926023000 +0700" stop="20220926043000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926023000 +0700" stop="20220926043000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926043000 +0700" stop="20220926053000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926043000 +0700" stop="20220926053000 +0700" channel="Amarin34HD.th">
     <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
   </programme>
-  <programme start="20220926053000 +0700" stop="20220926063000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926053000 +0700" stop="20220926063000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
   </programme>
-  <programme start="20220926063000 +0700" stop="20220926080000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926063000 +0700" stop="20220926080000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220926080000 +0700" stop="20220926080100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926080000 +0700" stop="20220926080100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220926080100 +0700" stop="20220926084500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926080100 +0700" stop="20220926084500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220926084500 +0700" stop="20220926085500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926084500 +0700" stop="20220926085500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926085500 +0700" stop="20220926095000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926085500 +0700" stop="20220926095000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย</title>
   </programme>
-  <programme start="20220926095000 +0700" stop="20220926100000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926095000 +0700" stop="20220926100000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926100000 +0700" stop="20220926101000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926100000 +0700" stop="20220926101000 +0700" channel="Amarin34HD.th">
     <title lang="th">อมรินทร์ทีวี ออนไลน์</title>
   </programme>
-  <programme start="20220926101000 +0700" stop="20220926103000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926101000 +0700" stop="20220926103000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทันข่าว Today</title>
   </programme>
-  <programme start="20220926103000 +0700" stop="20220926110000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926103000 +0700" stop="20220926110000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน รีรัน</title>
   </programme>
-  <programme start="20220926110000 +0700" stop="20220926133000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926110000 +0700" stop="20220926133000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวเที่ยงอมรินทร์</title>
   </programme>
-  <programme start="20220926133000 +0700" stop="20220926140000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926133000 +0700" stop="20220926140000 +0700" channel="Amarin34HD.th">
     <title lang="th">APOP TODAY</title>
   </programme>
-  <programme start="20220926140000 +0700" stop="20220926141000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926140000 +0700" stop="20220926141000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926141000 +0700" stop="20220926151000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926141000 +0700" stop="20220926151000 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลิงนาง รีรัน</title>
   </programme>
-  <programme start="20220926151000 +0700" stop="20220926152000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926151000 +0700" stop="20220926152000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926152000 +0700" stop="20220926153500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926152000 +0700" stop="20220926153500 +0700" channel="Amarin34HD.th">
     <title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title>
   </programme>
-  <programme start="20220926153500 +0700" stop="20220926154500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926153500 +0700" stop="20220926154500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926154500 +0700" stop="20220926164500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926154500 +0700" stop="20220926164500 +0700" channel="Amarin34HD.th">
     <title lang="th">คู่ซ่าปลาไพ รีรัน</title>
   </programme>
-  <programme start="20220926164500 +0700" stop="20220926165500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926164500 +0700" stop="20220926165500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220926165500 +0700" stop="20220926172000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926165500 +0700" stop="20220926172000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220926172000 +0700" stop="20220926180000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926172000 +0700" stop="20220926180000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220926180000 +0700" stop="20220926180100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926180000 +0700" stop="20220926180100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220926180100 +0700" stop="20220926182000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926180100 +0700" stop="20220926182000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220926182000 +0700" stop="20220926185000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926182000 +0700" stop="20220926185000 +0700" channel="Amarin34HD.th">
     <title lang="th">เรื่องเด็ดเอ็ดตะโร</title>
   </programme>
-  <programme start="20220926185000 +0700" stop="20220926200000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926185000 +0700" stop="20220926200000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220926200000 +0700" stop="20220926201500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926200000 +0700" stop="20220926201500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme start="20220926201500 +0700" stop="20220926223000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926201500 +0700" stop="20220926223000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220926223000 +0700" stop="20220926233000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926223000 +0700" stop="20220926233000 +0700" channel="Amarin34HD.th">
     <title lang="th">The Eater ยุทธภูมิกระทะเหล็ก รีรัน</title>
   </programme>
-  <programme start="20220926233000 +0700" stop="20220926233500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926233000 +0700" stop="20220926233500 +0700" channel="Amarin34HD.th">
     <title lang="th">AMADO SHOPPING</title>
   </programme>
-  <programme start="20220926233500 +0700" stop="20220927000000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220926233500 +0700" stop="20220927000000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927000000 +0700" stop="20220927003000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927000000 +0700" stop="20220927003000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927003000 +0700" stop="20220927010000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927003000 +0700" stop="20220927010000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220927010000 +0700" stop="20220927013000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927010000 +0700" stop="20220927013000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทรูช้อปปิ้ง</title>
   </programme>
-  <programme start="20220927013000 +0700" stop="20220927020000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927013000 +0700" stop="20220927020000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน</title>
   </programme>
-  <programme start="20220927020000 +0700" stop="20220927023000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927020000 +0700" stop="20220927023000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีพจรลงพุง</title>
   </programme>
-  <programme start="20220927023000 +0700" stop="20220927043000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927023000 +0700" stop="20220927043000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927043000 +0700" stop="20220927053000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927043000 +0700" stop="20220927053000 +0700" channel="Amarin34HD.th">
     <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
   </programme>
-  <programme start="20220927053000 +0700" stop="20220927063000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927053000 +0700" stop="20220927063000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
   </programme>
-  <programme start="20220927063000 +0700" stop="20220927080000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927063000 +0700" stop="20220927080000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220927080000 +0700" stop="20220927080100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927080000 +0700" stop="20220927080100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220927080100 +0700" stop="20220927084500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927080100 +0700" stop="20220927084500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220927084500 +0700" stop="20220927085500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927084500 +0700" stop="20220927085500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927085500 +0700" stop="20220927095000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927085500 +0700" stop="20220927095000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย</title>
   </programme>
-  <programme start="20220927095000 +0700" stop="20220927100000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927095000 +0700" stop="20220927100000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927100000 +0700" stop="20220927103000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927100000 +0700" stop="20220927103000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีพจรลงพุง รีรัน</title>
   </programme>
-  <programme start="20220927103000 +0700" stop="20220927110000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927103000 +0700" stop="20220927110000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน รีรัน</title>
   </programme>
-  <programme start="20220927110000 +0700" stop="20220927133000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927110000 +0700" stop="20220927133000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวเที่ยงอมรินทร์</title>
   </programme>
-  <programme start="20220927133000 +0700" stop="20220927140000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927133000 +0700" stop="20220927140000 +0700" channel="Amarin34HD.th">
     <title lang="th">APOP TODAY</title>
   </programme>
-  <programme start="20220927140000 +0700" stop="20220927141000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927140000 +0700" stop="20220927141000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927141000 +0700" stop="20220927151000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927141000 +0700" stop="20220927151000 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลิงนาง รีรัน</title>
   </programme>
-  <programme start="20220927151000 +0700" stop="20220927152000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927151000 +0700" stop="20220927152000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927152000 +0700" stop="20220927153500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927152000 +0700" stop="20220927153500 +0700" channel="Amarin34HD.th">
     <title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title>
   </programme>
-  <programme start="20220927153500 +0700" stop="20220927154500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927153500 +0700" stop="20220927154500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927154500 +0700" stop="20220927164500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927154500 +0700" stop="20220927164500 +0700" channel="Amarin34HD.th">
     <title lang="th">ซุปตาร์ พาตะลุย รีรัน</title>
   </programme>
-  <programme start="20220927164500 +0700" stop="20220927165500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927164500 +0700" stop="20220927165500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220927165500 +0700" stop="20220927172000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927165500 +0700" stop="20220927172000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220927172000 +0700" stop="20220927180000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927172000 +0700" stop="20220927180000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220927180000 +0700" stop="20220927180100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927180000 +0700" stop="20220927180100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220927180100 +0700" stop="20220927182000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927180100 +0700" stop="20220927182000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220927182000 +0700" stop="20220927185000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927182000 +0700" stop="20220927185000 +0700" channel="Amarin34HD.th">
     <title lang="th">เรื่องเด็ดเอ็ดตะโร</title>
   </programme>
-  <programme start="20220927185000 +0700" stop="20220927200000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927185000 +0700" stop="20220927200000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220927200000 +0700" stop="20220927201500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927200000 +0700" stop="20220927201500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme start="20220927201500 +0700" stop="20220927223000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927201500 +0700" stop="20220927223000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220927223000 +0700" stop="20220927230000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927223000 +0700" stop="20220927230000 +0700" channel="Amarin34HD.th">
     <title lang="th">วัคซีนทีวี รีรัน</title>
   </programme>
-  <programme start="20220927230000 +0700" stop="20220927233000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927230000 +0700" stop="20220927233000 +0700" channel="Amarin34HD.th">
     <title lang="th">เรื่องเด็ดเอ็ดตะโร รีรัน</title>
   </programme>
-  <programme start="20220927233000 +0700" stop="20220927233500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927233000 +0700" stop="20220927233500 +0700" channel="Amarin34HD.th">
     <title lang="th">AMADO SHOPPING</title>
   </programme>
-  <programme start="20220927233500 +0700" stop="20220928000000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220927233500 +0700" stop="20220928000000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928000000 +0700" stop="20220928003000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928000000 +0700" stop="20220928003000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928003000 +0700" stop="20220928010000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928003000 +0700" stop="20220928010000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220928010000 +0700" stop="20220928013000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928010000 +0700" stop="20220928013000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทรูช้อปปิ้ง</title>
   </programme>
-  <programme start="20220928013000 +0700" stop="20220928020000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928013000 +0700" stop="20220928020000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน</title>
   </programme>
-  <programme start="20220928020000 +0700" stop="20220928023000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928020000 +0700" stop="20220928023000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีพจรลงพุง</title>
   </programme>
-  <programme start="20220928023000 +0700" stop="20220928043000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928023000 +0700" stop="20220928043000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928043000 +0700" stop="20220928053000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928043000 +0700" stop="20220928053000 +0700" channel="Amarin34HD.th">
     <title lang="th">สุขทุกวัน 7 วัน 7 กูรู</title>
   </programme>
-  <programme start="20220928053000 +0700" stop="20220928063000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928053000 +0700" stop="20220928063000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์ ทั่วไทย</title>
   </programme>
-  <programme start="20220928063000 +0700" stop="20220928080000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928063000 +0700" stop="20220928080000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220928080000 +0700" stop="20220928080100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928080000 +0700" stop="20220928080100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220928080100 +0700" stop="20220928084500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928080100 +0700" stop="20220928084500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวอรุณอมรินทร์</title>
   </programme>
-  <programme start="20220928084500 +0700" stop="20220928085500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928084500 +0700" stop="20220928085500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928085500 +0700" stop="20220928095000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928085500 +0700" stop="20220928095000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย</title>
   </programme>
-  <programme start="20220928095000 +0700" stop="20220928100000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928095000 +0700" stop="20220928100000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928100000 +0700" stop="20220928103000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928100000 +0700" stop="20220928103000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีพจรลงพุง รีรัน</title>
   </programme>
-  <programme start="20220928103000 +0700" stop="20220928110000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928103000 +0700" stop="20220928110000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน รีรัน</title>
   </programme>
-  <programme start="20220928110000 +0700" stop="20220928133000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928110000 +0700" stop="20220928133000 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวเที่ยงอมรินทร์</title>
   </programme>
-  <programme start="20220928133000 +0700" stop="20220928140000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928133000 +0700" stop="20220928140000 +0700" channel="Amarin34HD.th">
     <title lang="th">APOP TODAY</title>
   </programme>
-  <programme start="20220928140000 +0700" stop="20220928141000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928140000 +0700" stop="20220928141000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928141000 +0700" stop="20220928151000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928141000 +0700" stop="20220928151000 +0700" channel="Amarin34HD.th">
     <title lang="th">ปริศนาคดีเด็ด</title>
   </programme>
-  <programme start="20220928151000 +0700" stop="20220928152000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928151000 +0700" stop="20220928152000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928152000 +0700" stop="20220928153500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928152000 +0700" stop="20220928153500 +0700" channel="Amarin34HD.th">
     <title lang="th">การ์ตูนแอนิเมชัน สัมมาทิฏฐิ ทะลุมิติมายา</title>
   </programme>
-  <programme start="20220928153500 +0700" stop="20220928154500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928153500 +0700" stop="20220928154500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928154500 +0700" stop="20220928161500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928154500 +0700" stop="20220928161500 +0700" channel="Amarin34HD.th">
     <title lang="th">มันตรา ไดอารี่</title>
   </programme>
-  <programme start="20220928161500 +0700" stop="20220928164500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928161500 +0700" stop="20220928164500 +0700" channel="Amarin34HD.th">
     <title lang="th">นาทีระทึก</title>
   </programme>
-  <programme start="20220928164500 +0700" stop="20220928165500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928164500 +0700" stop="20220928165500 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
-  <programme start="20220928165500 +0700" stop="20220928172000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928165500 +0700" stop="20220928172000 +0700" channel="Amarin34HD.th">
     <title lang="th">ความลับแห่งเอเชีย ชุด ล่าเรื่องแปลก</title>
   </programme>
-  <programme start="20220928172000 +0700" stop="20220928180000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928172000 +0700" stop="20220928180000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220928180000 +0700" stop="20220928180100 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928180000 +0700" stop="20220928180100 +0700" channel="Amarin34HD.th">
     <title lang="th">เพลงชาติไทย</title>
   </programme>
-  <programme start="20220928180100 +0700" stop="20220928182000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928180100 +0700" stop="20220928182000 +0700" channel="Amarin34HD.th">
     <title lang="th">ฅ.คนขั้นเทพ</title>
   </programme>
-  <programme start="20220928182000 +0700" stop="20220928185000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928182000 +0700" stop="20220928185000 +0700" channel="Amarin34HD.th">
     <title lang="th">ตามอำเภอจาน รวมฮิต</title>
   </programme>
-  <programme start="20220928185000 +0700" stop="20220928200000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928185000 +0700" stop="20220928200000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220928200000 +0700" stop="20220928201500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928200000 +0700" stop="20220928201500 +0700" channel="Amarin34HD.th">
     <title lang="th">ข่าวในพระราชสำนัก</title>
   </programme>
-  <programme start="20220928201500 +0700" stop="20220928223000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928201500 +0700" stop="20220928223000 +0700" channel="Amarin34HD.th">
     <title lang="th">ทุบโต๊ะข่าว</title>
   </programme>
-  <programme start="20220928223000 +0700" stop="20220928230000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928223000 +0700" stop="20220928230000 +0700" channel="Amarin34HD.th">
     <title lang="th">The Unlock</title>
   </programme>
-  <programme start="20220928230000 +0700" stop="20220928233000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928230000 +0700" stop="20220928233000 +0700" channel="Amarin34HD.th">
     <title lang="th">ล้านเรื่องเล่า</title>
   </programme>
-  <programme start="20220928233000 +0700" stop="20220928233500 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928233000 +0700" stop="20220928233500 +0700" channel="Amarin34HD.th">
     <title lang="th">AMADO SHOPPING</title>
   </programme>
-  <programme start="20220928233500 +0700" stop="20220929000000 +0700" channel="AmarinTVHD.th">
+  <programme start="20220928233500 +0700" stop="20220929000000 +0700" channel="Amarin34HD.th">
     <title lang="th">ชีวิตดีดี มีได้ทุกวัน</title>
   </programme>
   <programme start="20220926000000 +0700" stop="20220926003000 +0700" channel="BBTVChannel7.th">
@@ -9800,6 +10132,510 @@
   </programme>
   <programme start="20220928230000 +0700" stop="20220929000000 +0700" channel="Boomerang.sg">
     <title lang="th">Chowder</title>
+  </programme>
+  <programme start="20220926000000 +0700" stop="20220926003000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.21+22+23+24</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.21+22+23+24.(n)</desc>
+  </programme>
+  <programme start="20220926003000 +0700" stop="20220926010000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.9+10</title>
+    <desc lang="en">SUPER WINGS S.3_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220926010000 +0700" stop="20220926013000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.27+28</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.27+28.(n)</desc>
+  </programme>
+  <programme start="20220926013000 +0700" stop="20220926020000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52.(n)</desc>
+  </programme>
+  <programme start="20220926020000 +0700" stop="20220926023000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.13+14</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220926023000 +0700" stop="20220926030000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.13+14+15+16</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.13+14+15+16.(n)</desc>
+  </programme>
+  <programme start="20220926030000 +0700" stop="20220926033000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.9+10</title>
+    <desc lang="en">SUPER WINGS S.3_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220926033000 +0700" stop="20220926040000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.25+26</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.25+26.(n)</desc>
+  </programme>
+  <programme start="20220926040000 +0700" stop="20220926043000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.13+14+15+16</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.13+14+15+16.(n)</desc>
+  </programme>
+  <programme start="20220926043000 +0700" stop="20220926050000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.47+48</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.47+48.(n)</desc>
+  </programme>
+  <programme start="20220926050000 +0700" stop="20220926053000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220926053000 +0700" stop="20220926060000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220926060000 +0700" stop="20220926070000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.9+10</title>
+    <desc lang="en">SUPER WINGS S.3_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220926070000 +0700" stop="20220926073000 +0700" channel="TOONEE.th">
+    <title lang="en">TOONEE CLUB 07.00 - 07.30 F1</title>
+    <desc lang="en">TOONEE CLUB 07.00 - 07.30 F1.(n)</desc>
+  </programme>
+  <programme start="20220926073000 +0700" stop="20220926083000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.19+20</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.19+20.(n)</desc>
+  </programme>
+  <programme start="20220926083000 +0700" stop="20220926090000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220926090000 +0700" stop="20220926093000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220926093000 +0700" stop="20220926103000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.47+48</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.47+48.(n)</desc>
+  </programme>
+  <programme start="20220926103000 +0700" stop="20220926110000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.21+22+23+24</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.21+22+23+24.(n)</desc>
+  </programme>
+  <programme start="20220926110000 +0700" stop="20220926120000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.17+18</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220926120000 +0700" stop="20220926123000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.37+38</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.37+38.(n)</desc>
+  </programme>
+  <programme start="20220926123000 +0700" stop="20220926133000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220926133000 +0700" stop="20220926140000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.37+38</title>
+    <desc lang="en">SUPER WINGS S.3_EP.37+38.(n)</desc>
+  </programme>
+  <programme start="20220926140000 +0700" stop="20220926143000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24.(n)</desc>
+  </programme>
+  <programme start="20220926143000 +0700" stop="20220926150000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.17+18+19+20</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.17+18+19+20.(n)</desc>
+  </programme>
+  <programme start="20220926150000 +0700" stop="20220926160000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.37+38</title>
+    <desc lang="en">SUPER WINGS S.3_EP.37+38.(n)</desc>
+  </programme>
+  <programme start="20220926160000 +0700" stop="20220926163000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.15+16</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220926163000 +0700" stop="20220926170000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.17+18+19+20</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.17+18+19+20.(n)</desc>
+  </programme>
+  <programme start="20220926170000 +0700" stop="20220926173000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.29+30</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.29+30.(n)</desc>
+  </programme>
+  <programme start="20220926173000 +0700" stop="20220926180000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.15+16</title>
+    <desc lang="en">SUPER WINGS S.3_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220926180000 +0700" stop="20220926183000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.17+18</title>
+    <desc lang="en">SUPER WINGS S.3_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220926183000 +0700" stop="20220926190000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220926190000 +0700" stop="20220926193000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.9+10</title>
+    <desc lang="en">SUPER WINGS S.3_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220926193000 +0700" stop="20220926200000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.11+12</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220926200000 +0700" stop="20220926203000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.3_EP.1+2+3+4</title>
+    <desc lang="en">MASHA AND THE BEAR S.3_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220926203000 +0700" stop="20220926210000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.51+52</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.51+52.(n)</desc>
+  </programme>
+  <programme start="20220926210000 +0700" stop="20220926213000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.7+8</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.7+8.(n)</desc>
+  </programme>
+  <programme start="20220926213000 +0700" stop="20220926220000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.9+10</title>
+    <desc lang="en">SUPER WINGS S.3_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220926220000 +0700" stop="20220926223000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220926223000 +0700" stop="20220926230000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52.(n)</desc>
+  </programme>
+  <programme start="20220926230000 +0700" stop="20220926233000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220926233000 +0700" stop="20220927000000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220927000000 +0700" stop="20220927003000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220927003000 +0700" stop="20220927010000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220927010000 +0700" stop="20220927013000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.29+30</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.29+30.(n)</desc>
+  </programme>
+  <programme start="20220927013000 +0700" stop="20220927020000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.1+2</title>
+    <desc lang="en">SUPER WINGS S.3_EP.1+2.(n)</desc>
+  </programme>
+  <programme start="20220927020000 +0700" stop="20220927023000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.15+16</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220927023000 +0700" stop="20220927030000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.17+18+19+20</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.17+18+19+20.(n)</desc>
+  </programme>
+  <programme start="20220927030000 +0700" stop="20220927033000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220927033000 +0700" stop="20220927040000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.27+28</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.27+28.(n)</desc>
+  </programme>
+  <programme start="20220927040000 +0700" stop="20220927043000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.17+18+19+20</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.17+18+19+20.(n)</desc>
+  </programme>
+  <programme start="20220927043000 +0700" stop="20220927050000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.49+50</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.49+50.(n)</desc>
+  </programme>
+  <programme start="20220927050000 +0700" stop="20220927053000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220927053000 +0700" stop="20220927060000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.15+16</title>
+    <desc lang="en">SUPER WINGS S.3_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220927060000 +0700" stop="20220927070000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220927070000 +0700" stop="20220927073000 +0700" channel="TOONEE.th">
+    <title lang="en">TOONEE CLUB 07.00 - 07.30 Re</title>
+    <desc lang="en">TOONEE CLUB 07.00 - 07.30 Re.(n)</desc>
+  </programme>
+  <programme start="20220927073000 +0700" stop="20220927083000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.21+22</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220927083000 +0700" stop="20220927090000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24.(n)</desc>
+  </programme>
+  <programme start="20220927090000 +0700" stop="20220927093000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220927093000 +0700" stop="20220927103000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.49+50</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.49+50.(n)</desc>
+  </programme>
+  <programme start="20220927103000 +0700" stop="20220927110000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220927110000 +0700" stop="20220927120000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.19+20</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.19+20.(n)</desc>
+  </programme>
+  <programme start="20220927120000 +0700" stop="20220927123000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.39+40</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.39+40.(n)</desc>
+  </programme>
+  <programme start="20220927123000 +0700" stop="20220927133000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220927133000 +0700" stop="20220927140000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.39+40</title>
+    <desc lang="en">SUPER WINGS S.3_EP.39+40.(n)</desc>
+  </programme>
+  <programme start="20220927140000 +0700" stop="20220927143000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26.(n)</desc>
+  </programme>
+  <programme start="20220927143000 +0700" stop="20220927150000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.21+22+23+24</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.21+22+23+24.(n)</desc>
+  </programme>
+  <programme start="20220927150000 +0700" stop="20220927160000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.39+40</title>
+    <desc lang="en">SUPER WINGS S.3_EP.39+40.(n)</desc>
+  </programme>
+  <programme start="20220927160000 +0700" stop="20220927163000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.17+18</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220927163000 +0700" stop="20220927170000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.21+22+23+24</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.21+22+23+24.(n)</desc>
+  </programme>
+  <programme start="20220927170000 +0700" stop="20220927173000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.31+32</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.31+32.(n)</desc>
+  </programme>
+  <programme start="20220927173000 +0700" stop="20220927180000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.17+18</title>
+    <desc lang="en">SUPER WINGS S.3_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220927180000 +0700" stop="20220927183000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.19+20</title>
+    <desc lang="en">SUPER WINGS S.3_EP.19+20.(n)</desc>
+  </programme>
+  <programme start="20220927183000 +0700" stop="20220927190000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220927190000 +0700" stop="20220927193000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220927193000 +0700" stop="20220927200000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.13+14</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220927200000 +0700" stop="20220927203000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.3_EP.5+6+7+8</title>
+    <desc lang="en">MASHA AND THE BEAR S.3_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220927203000 +0700" stop="20220927210000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220927210000 +0700" stop="20220927213000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.9+10</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.9+10.(n)</desc>
+  </programme>
+  <programme start="20220927213000 +0700" stop="20220927220000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.11+12</title>
+    <desc lang="en">SUPER WINGS S.3_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220927220000 +0700" stop="20220927223000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220927223000 +0700" stop="20220927230000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.1+2</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.1+2.(n)</desc>
+  </programme>
+  <programme start="20220927230000 +0700" stop="20220927233000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220927233000 +0700" stop="20220928000000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.23+24.(n)</desc>
+  </programme>
+  <programme start="20220928000000 +0700" stop="20220928003000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.2_EP.1+2+3+4</title>
+    <desc lang="en">MASHA AND THE BEAR S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220928003000 +0700" stop="20220928010000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220928010000 +0700" stop="20220928013000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.31+32</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.31+32.(n)</desc>
+  </programme>
+  <programme start="20220928013000 +0700" stop="20220928020000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.3+4</title>
+    <desc lang="en">SUPER WINGS S.3_EP.3+4.(n)</desc>
+  </programme>
+  <programme start="20220928020000 +0700" stop="20220928023000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.17+18</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220928023000 +0700" stop="20220928030000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.21+22+23+24</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.21+22+23+24.(n)</desc>
+  </programme>
+  <programme start="20220928030000 +0700" stop="20220928033000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220928033000 +0700" stop="20220928040000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.29+30</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.29+30.(n)</desc>
+  </programme>
+  <programme start="20220928040000 +0700" stop="20220928043000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26</title>
+    <desc lang="en">MASHA AND THE BEAR S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220928043000 +0700" stop="20220928050000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.51+52</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.51+52.(n)</desc>
+  </programme>
+  <programme start="20220928050000 +0700" stop="20220928053000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.15+16</title>
+    <desc lang="en">SUPER WINGS S.3_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220928053000 +0700" stop="20220928060000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.17+18</title>
+    <desc lang="en">SUPER WINGS S.3_EP.17+18.(n)</desc>
+  </programme>
+  <programme start="20220928060000 +0700" stop="20220928070000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220928070000 +0700" stop="20220928073000 +0700" channel="TOONEE.th">
+    <title lang="en">TOONEE CLUB 07.00 - 07.30 Re</title>
+    <desc lang="en">TOONEE CLUB 07.00 - 07.30 Re.(n)</desc>
+  </programme>
+  <programme start="20220928073000 +0700" stop="20220928083000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.21+22</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220928083000 +0700" stop="20220928090000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26.(n)</desc>
+  </programme>
+  <programme start="20220928090000 +0700" stop="20220928093000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.3_EP.9+10+11+12</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.3_EP.9+10+11+12.(n)</desc>
+  </programme>
+  <programme start="20220928093000 +0700" stop="20220928103000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.51+52.(n)</desc>
+  </programme>
+  <programme start="20220928103000 +0700" stop="20220928110000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.2_EP.1+2+3+4</title>
+    <desc lang="en">MASHA AND THE BEAR S.2_EP.1+2+3+4.(n)</desc>
+  </programme>
+  <programme start="20220928110000 +0700" stop="20220928120000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220928120000 +0700" stop="20220928123000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.41+42</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.41+42.(n)</desc>
+  </programme>
+  <programme start="20220928123000 +0700" stop="20220928133000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220928133000 +0700" stop="20220928140000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.1+2</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.1+2.(n)</desc>
+  </programme>
+  <programme start="20220928140000 +0700" stop="20220928143000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.27+28</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.27+28.(n)</desc>
+  </programme>
+  <programme start="20220928143000 +0700" stop="20220928150000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220928150000 +0700" stop="20220928160000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.1+2</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.1+2.(n)</desc>
+  </programme>
+  <programme start="20220928160000 +0700" stop="20220928163000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.19+20</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.19+20.(n)</desc>
+  </programme>
+  <programme start="20220928163000 +0700" stop="20220928170000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.23+24+25+26</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.23+24+25+26.(n)</desc>
+  </programme>
+  <programme start="20220928170000 +0700" stop="20220928173000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.33+34</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.33+34.(n)</desc>
+  </programme>
+  <programme start="20220928173000 +0700" stop="20220928180000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.19+20</title>
+    <desc lang="en">SUPER WINGS S.3_EP.19+20.(n)</desc>
+  </programme>
+  <programme start="20220928180000 +0700" stop="20220928183000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.21+22</title>
+    <desc lang="en">SUPER WINGS S.3_EP.21+22.(n)</desc>
+  </programme>
+  <programme start="20220928183000 +0700" stop="20220928190000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.9+10+11+12</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.9+10+11+12.(n)</desc>
+  </programme>
+  <programme start="20220928190000 +0700" stop="20220928193000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220928193000 +0700" stop="20220928200000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.15+16</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.15+16.(n)</desc>
+  </programme>
+  <programme start="20220928200000 +0700" stop="20220928203000 +0700" channel="TOONEE.th">
+    <title lang="en">MASHA AND THE BEAR S.3_EP.9+10+11+12</title>
+    <desc lang="en">MASHA AND THE BEAR S.3_EP.9+10+11+12.(n)</desc>
+  </programme>
+  <programme start="20220928203000 +0700" stop="20220928210000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.1_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.1_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220928210000 +0700" stop="20220928213000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.11+12</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.11+12.(n)</desc>
+  </programme>
+  <programme start="20220928213000 +0700" stop="20220928220000 +0700" channel="TOONEE.th">
+    <title lang="en">SUPER WINGS S.3_EP.13+14</title>
+    <desc lang="en">SUPER WINGS S.3_EP.13+14.(n)</desc>
+  </programme>
+  <programme start="20220928220000 +0700" stop="20220928223000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.5+6+7+8.(n)</desc>
+  </programme>
+  <programme start="20220928223000 +0700" stop="20220928230000 +0700" channel="TOONEE.th">
+    <title lang="en">LUCKY COMES WITH LION_EP.3+4</title>
+    <desc lang="en">LUCKY COMES WITH LION_EP.3+4.(n)</desc>
+  </programme>
+  <programme start="20220928230000 +0700" stop="20220928233000 +0700" channel="TOONEE.th">
+    <title lang="en">MIFFY &amp; FRIENDS S.2_EP.9+10+11+12</title>
+    <desc lang="en">MIFFY &amp; FRIENDS S.2_EP.9+10+11+12.(n)</desc>
+  </programme>
+  <programme start="20220928233000 +0700" stop="20220929000000 +0700" channel="TOONEE.th">
+    <title lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26</title>
+    <desc lang="en">TIME TRAVELLING DINOSAUR KNIGHTS_EP.25+26.(n)</desc>
   </programme>
   <programme start="20220926001500 +0700" stop="20220926003500 +0700" channel="Nickelodeon.th">
     <title lang="th">Rainbow Butterfly Unicorn Kitty</title>
