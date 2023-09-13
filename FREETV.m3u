@@ -3,12 +3,12 @@
 # Join Telegram Group: https://t.me/iptvth
 # =======================================================
 # Playlist Name: My Playlist by Akkradet
-# Last Update: 2023-09-13 10:55:02 UTC+07 ICT
+# Last Update: 2023-09-13 11:07:26 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-chno="1"  tvg-id="iptv.th" tvg-name="IPTV THAILAND" group-title="Digital TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",IPTV THAILAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/nosignal.m3u8
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
 
 #EXTINF:-1 tvg-chno="2"  tvg-id="NBT2.th" tvg-name="NBT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -24,7 +24,7 @@ https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
 
 #EXTINF:-1 tvg-chno="5"  tvg-id="ThaiTV5HD1.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://183.89.246.119:8010/play/a00u/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
 
 #EXTINF:-1 tvg-chno="7"  tvg-id="TSports7.th" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
