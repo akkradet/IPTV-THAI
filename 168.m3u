@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1, IPTV THAILAND
+https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
+
+#EXTINF:-1, NBT
+https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
+
+#EXTINF:-1, ThaiPBS
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
+
+#EXTINF:-1, ALTV
+https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
+
+#EXTINF:-1, TV5 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
+
+#EXTINF:-1, Boomerang Thai
+https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
+
+#EXTINF:-1, T Sports 7
+https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
+
+#EXTINF:-1, MOVIES WORLD 1
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+
+#EXTINF:-1, MOVIES WORLD 2
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+
+#EXTINF:-1, TPTV
+https://cdn6.goprimetime.info/feed/202306140918/TPTV3/index.m3u8
+
+#EXTINF:-1, Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1, Jomyut
+http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+
+#EXTINF:-1, 7Flix
+https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+
+#EXTINF:-1, ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+
+#EXTINF:-1, @TV
+http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+
+#EXTINF:-1, TNN16
+https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
+
+#EXTINF:-1, TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1, JKN 18
+https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
+
+#EXTINF:-1, MOVIES WORLD 3
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+
+#EXTINF:-1, RamaChannel
+https://cdn6.goprimetime.info/feed/202306140918/LC27/index.m3u8
+
+#EXTINF:-1, Channel 8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1, Nation TV
+https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
+
+#EXTINF:-1, Workpoint
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
+
+#EXTINF:-1, True4U
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
+
+#EXTINF:-1, GMM 25
+https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
+
+#EXTINF:-1, BOX FILM
+https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+
+#EXTINF:-1, CH8
+https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
+
+#EXTINF:-1, Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
+
+#EXTINF:-1, Mono 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
+
+#EXTINF:-1, MCOT HD
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
+
+#EXTINF:-1, ONE31 HD
+https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
+
+#EXTINF:-1, Thairath TV
+https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
+
+#EXTINF:-1, CH3 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
+
+#EXTINF:-1, Amarin TV
+https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
+
+#EXTINF:-1, CH7 HD
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
+
+#EXTINF:-1, PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+
