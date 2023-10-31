@@ -144,8 +144,24 @@
     <display-name lang="en">3BB Sport one</display-name>
     <url>http://www.gigatv.3bbtv.co.th</url>
   </channel>
-  <channel id="Global Trekker Channel">
-    <display-name lang="en">Global Trekker Channel</display-name>
+  <channel id="EDGE Sport">
+    <display-name lang="en">EDGE Sport</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
+  <channel id="Golf Channel Thailand HD Plus">
+    <display-name lang="en">Golf Channel Thailand HD Plus</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="en">BBC Lifestyle</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
+  <channel id="Global Trekker">
+    <display-name lang="en">Global Trekker</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
+  <channel id="BBC News">
+    <display-name lang="en">BBC News</display-name>
     <url>http://www.gigatv.3bbtv.co.th</url>
   </channel>
   <programme start="20231031000000 +0700" stop="20231031000500 +0700" channel="NBT">
@@ -9714,314 +9730,2071 @@
     <title lang="en">AGE OF TOMORROW ปฏิบัติการสงครามดับทัพอสูร</title>
     <desc lang="en">AGE OF TOMORROW ปฏิบัติการสงครามดับทัพอสูร.(n)</desc>
   </programme>
-  <programme start="20231031000000 +0700" stop="20231031004000 +0700" channel="3BB Sport one">
-    <title lang="th">คดีเด็ด  (Rerun)</title>
+  <programme start="20231031000000 +0700" stop="20231031010000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031004000 +0700" stop="20231031013000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
+  <programme start="20231031010000 +0700" stop="20231031020000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031013000 +0700" stop="20231031024000 +0700" channel="3BB Sport one">
-    <title lang="th">ชุมทางฮอตโชว์</title>
+  <programme start="20231031020000 +0700" stop="20231031040000 +0700" channel="3BB Sport one">
+    <title lang="th">MANCHESTER CITY TV 2022/2023 มหกรรมศึกฟุตบอล แมนเชสเตอร์ ซิตี้</title>
   </programme>
-  <programme start="20231031024000 +0700" stop="20231031034000 +0700" channel="3BB Sport one">
-    <title lang="th">รักสลับหน้า (Rerun)</title>
+  <programme start="20231031040000 +0700" stop="20231031060000 +0700" channel="3BB Sport one">
+    <title lang="th">BASKETBALL EUROLEAGUE 2022/2023 บาสเกตบอลยูโรลีก 2022/2023</title>
   </programme>
-  <programme start="20231031034000 +0700" stop="20231031043000 +0700" channel="3BB Sport one">
-    <title lang="th">สุขภาพกับเสียงเพลง</title>
+  <programme start="20231031060000 +0700" stop="20231031070000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
   </programme>
-  <programme start="20231031043000 +0700" stop="20231031060000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้า-ข่าว 7 สี</title>
+  <programme start="20231031070000 +0700" stop="20231031100000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW LIVE ถ่ายทอดสด มวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231031060000 +0700" stop="20231031073000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  <programme start="20231031100000 +0700" stop="20231031110000 +0700" channel="3BB Sport one">
+    <title lang="th">CAGE WARRIORS 2023 ศึกมวยกรงเหล็ก</title>
   </programme>
-  <programme start="20231031073000 +0700" stop="20231031090500 +0700" channel="3BB Sport one">
-    <title lang="th">สนามข่าว 7 สี</title>
+  <programme start="20231031110000 +0700" stop="20231031120000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
   </programme>
-  <programme start="20231031090500 +0700" stop="20231031091500 +0700" channel="3BB Sport one">
-    <title lang="th">เงินทองของจริง</title>
+  <programme start="20231031120000 +0700" stop="20231031140000 +0700" channel="3BB Sport one">
+    <title lang="th">MANCHESTER CITY TV 2022/2023 มหกรรมศึกฟุตบอล แมนเชสเตอร์ ซิตี้</title>
   </programme>
-  <programme start="20231031091500 +0700" stop="20231031111500 +0700" channel="3BB Sport one">
-    <title lang="th">นางร้าย (Rerun) (ตอนแรก)</title>
+  <programme start="20231031140000 +0700" stop="20231031160000 +0700" channel="3BB Sport one">
+    <title lang="th">BASKETBALL EUROLEAGUE 2022/2023 บาสเกตบอลยูโรลีก 2022/2023</title>
   </programme>
-  <programme start="20231031111500 +0700" stop="20231031122500 +0700" channel="3BB Sport one">
-    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  <programme start="20231031160000 +0700" stop="20231031170000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031122500 +0700" stop="20231031124000 +0700" channel="3BB Sport one">
-    <title lang="th">เที่ยงบันเทิง สด</title>
+  <programme start="20231031170000 +0700" stop="20231031180000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031124000 +0700" stop="20231031124500 +0700" channel="3BB Sport one">
-    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  <programme start="20231031180000 +0700" stop="20231031210000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW ศึกมวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231031124500 +0700" stop="20231031130000 +0700" channel="3BB Sport one">
-    <title lang="th">7 สีช่วยชาวบ้าน</title>
+  <programme start="20231031210000 +0700" stop="20231031220000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
   </programme>
-  <programme start="20231031130000 +0700" stop="20231031134500 +0700" channel="3BB Sport one">
-    <title lang="th">ดวลเพลงดัง พลังอาชีพ</title>
+  <programme start="20231031220000 +0700" stop="20231101000000 +0700" channel="3BB Sport one">
+    <title lang="th">MANCHESTER CITY TV 2022/2023 มหกรรมศึกฟุตบอล แมนเชสเตอร์ ซิตี้</title>
   </programme>
-  <programme start="20231031134500 +0700" stop="20231031135500 +0700" channel="3BB Sport one">
-    <title lang="th">สดๆ บทไม่มี</title>
+  <programme start="20231101000000 +0700" stop="20231101010000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031135500 +0700" stop="20231031140000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเด็ด 7 สี</title>
+  <programme start="20231101010000 +0700" stop="20231101020000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031140000 +0700" stop="20231031154500 +0700" channel="3BB Sport one">
-    <title lang="th">สายโลหิต (Rerun)</title>
+  <programme start="20231101020000 +0700" stop="20231101030000 +0700" channel="3BB Sport one">
+    <title lang="th">IAAF DIAMOND LEAGUE 2023 กรีฑาขั้นเทพ</title>
   </programme>
-  <programme start="20231031154500 +0700" stop="20231031173000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  <programme start="20231101030000 +0700" stop="20231101040000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW HIGHLIGHT ช็อตเด็ด มวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231031173000 +0700" stop="20231031181500 +0700" channel="3BB Sport one">
-    <title lang="th">ถกไม่เถียง</title>
+  <programme start="20231101040000 +0700" stop="20231101060000 +0700" channel="3BB Sport one">
+    <title lang="th">MANCHESTER CITY TV 2022/2023 มหกรรมศึกฟุตบอล แมนเชสเตอร์ ซิตี้</title>
   </programme>
-  <programme start="20231031181500 +0700" stop="20231031190000 +0700" channel="3BB Sport one">
-    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  <programme start="20231101060000 +0700" stop="20231101070000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031190000 +0700" stop="20231031200000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว</title>
+  <programme start="20231101070000 +0700" stop="20231101080000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031200000 +0700" stop="20231031203000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวภาคค่ำ</title>
+  <programme start="20231101080000 +0700" stop="20231101100000 +0700" channel="3BB Sport one">
+    <title lang="th">BASKETBALL EUROLEAGUE 2022/2023 บาสเกตบอลยูโรลีก 2022/2023</title>
   </programme>
-  <programme start="20231031203000 +0700" stop="20231031204000 +0700" channel="3BB Sport one">
-    <title lang="th">เส้นทางบันเทิง</title>
+  <programme start="20231101100000 +0700" stop="20231101130000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW ศึกมวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231031204000 +0700" stop="20231031214000 +0700" channel="3BB Sport one">
-    <title lang="th">ลมพัดผ่านดาว</title>
+  <programme start="20231101130000 +0700" stop="20231101140000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031214000 +0700" stop="20231031223000 +0700" channel="3BB Sport one">
-    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  <programme start="20231101140000 +0700" stop="20231101150000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031223000 +0700" stop="20231031223500 +0700" channel="3BB Sport one">
-    <title lang="th">ชิดจอ..รอดู</title>
+  <programme start="20231101150000 +0700" stop="20231101160000 +0700" channel="3BB Sport one">
+    <title lang="th">IAAF DIAMOND LEAGUE 2023 กรีฑาขั้นเทพ</title>
   </programme>
-  <programme start="20231031223500 +0700" stop="20231031225500 +0700" channel="3BB Sport one">
-    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  <programme start="20231101160000 +0700" stop="20231101170000 +0700" channel="3BB Sport one">
+    <title lang="th">PRO BULL RIDING 2022/2023 ขี่วัวกระทิงพยศ</title>
   </programme>
-  <programme start="20231031225500 +0700" stop="20231031232500 +0700" channel="3BB Sport one">
-    <title lang="th">SPORTS LIFE</title>
+  <programme start="20231101170000 +0700" stop="20231101180000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231031232500 +0700" stop="20231031235500 +0700" channel="3BB Sport one">
-    <title lang="th">ONE LUMPINEE HEROES</title>
-  </programme>
-  <programme start="20231031235500 +0700" stop="20231101000000 +0700" channel="3BB Sport one">
-    <title lang="th">ดวลเพลงดัง พลังอาชีพ (Rerun)</title>
-  </programme>
-  <programme start="20231101000000 +0700" stop="20231101004000 +0700" channel="3BB Sport one">
-    <title lang="th">ดวลเพลงดัง พลังอาชีพ (Rerun)</title>
-  </programme>
-  <programme start="20231101004000 +0700" stop="20231101013000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
-  </programme>
-  <programme start="20231101013000 +0700" stop="20231101024000 +0700" channel="3BB Sport one">
-    <title lang="th">ชุมทางฮอตโชว์</title>
-  </programme>
-  <programme start="20231101024000 +0700" stop="20231101034000 +0700" channel="3BB Sport one">
-    <title lang="th">รักสลับหน้า (Rerun)</title>
-  </programme>
-  <programme start="20231101034000 +0700" stop="20231101043000 +0700" channel="3BB Sport one">
-    <title lang="th">สุขภาพกับเสียงเพลง</title>
-  </programme>
-  <programme start="20231101043000 +0700" stop="20231101060000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้า-ข่าว 7 สี</title>
-  </programme>
-  <programme start="20231101060000 +0700" stop="20231101073000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้านี้...ที่หมอชิต</title>
-  </programme>
-  <programme start="20231101073000 +0700" stop="20231101090500 +0700" channel="3BB Sport one">
-    <title lang="th">สนามข่าว 7 สี</title>
-  </programme>
-  <programme start="20231101090500 +0700" stop="20231101091500 +0700" channel="3BB Sport one">
-    <title lang="th">เงินทองของจริง</title>
-  </programme>
-  <programme start="20231101091500 +0700" stop="20231101111500 +0700" channel="3BB Sport one">
-    <title lang="th">นางร้าย (Rerun)</title>
-  </programme>
-  <programme start="20231101111500 +0700" stop="20231101122500 +0700" channel="3BB Sport one">
-    <title lang="th">ห้องข่าวภาคเที่ยง</title>
-  </programme>
-  <programme start="20231101122500 +0700" stop="20231101124000 +0700" channel="3BB Sport one">
-    <title lang="th">เที่ยงบันเทิง สด</title>
-  </programme>
-  <programme start="20231101124000 +0700" stop="20231101124500 +0700" channel="3BB Sport one">
-    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
-  </programme>
-  <programme start="20231101124500 +0700" stop="20231101130000 +0700" channel="3BB Sport one">
-    <title lang="th">กระจกหกด้าน</title>
-  </programme>
-  <programme start="20231101130000 +0700" stop="20231101134500 +0700" channel="3BB Sport one">
-    <title lang="th">ดวลเพลงดัง แชมป์ชนแชมป์</title>
-  </programme>
-  <programme start="20231101134500 +0700" stop="20231101135500 +0700" channel="3BB Sport one">
-    <title lang="th">สดๆ บทไม่มี</title>
-  </programme>
-  <programme start="20231101135500 +0700" stop="20231101140000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเด็ด 7 สี</title>
-  </programme>
-  <programme start="20231101140000 +0700" stop="20231101154500 +0700" channel="3BB Sport one">
-    <title lang="th">สายโลหิต (Rerun)</title>
-  </programme>
-  <programme start="20231101154500 +0700" stop="20231101173000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
-  </programme>
-  <programme start="20231101173000 +0700" stop="20231101181500 +0700" channel="3BB Sport one">
-    <title lang="th">ถกไม่เถียง</title>
-  </programme>
-  <programme start="20231101181500 +0700" stop="20231101190000 +0700" channel="3BB Sport one">
-    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  <programme start="20231101180000 +0700" stop="20231101190000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE SMACKDOWN HIGHLIGHT ช็อตเด็ด มวยปล้ำ สแมคดาวน์</title>
   </programme>
   <programme start="20231101190000 +0700" stop="20231101200000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว</title>
+    <title lang="th">SUPERCAR CHAMPIONSHIP 2023 รถหรูซิ่งสะท้านฟ้า</title>
   </programme>
-  <programme start="20231101200000 +0700" stop="20231101203000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวภาคค่ำ</title>
+  <programme start="20231101200000 +0700" stop="20231101210000 +0700" channel="3BB Sport one">
+    <title lang="th">NASCAR CRAFTSMAN TRUCK SERIES 2023 จ้าวสนามกระบะซิ่ง</title>
   </programme>
-  <programme start="20231101203000 +0700" stop="20231101204000 +0700" channel="3BB Sport one">
-    <title lang="th">เส้นทางบันเทิง</title>
+  <programme start="20231101210000 +0700" stop="20231101220000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
   </programme>
-  <programme start="20231101204000 +0700" stop="20231101214000 +0700" channel="3BB Sport one">
-    <title lang="th">ลมพัดผ่านดาว</title>
+  <programme start="20231101220000 +0700" stop="20231101230000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231101214000 +0700" stop="20231101223000 +0700" channel="3BB Sport one">
-    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  <programme start="20231101230000 +0700" stop="20231102000000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231101223000 +0700" stop="20231101225000 +0700" channel="3BB Sport one">
-    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  <programme start="20231102000000 +0700" stop="20231102010000 +0700" channel="3BB Sport one">
+    <title lang="th">PRO BULL RIDING 2022/2023 ขี่วัวกระทิงพยศ</title>
   </programme>
-  <programme start="20231101225000 +0700" stop="20231101232000 +0700" channel="3BB Sport one">
-    <title lang="th">MOTOR CHANNEL</title>
+  <programme start="20231102010000 +0700" stop="20231102020000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231101232000 +0700" stop="20231101235000 +0700" channel="3BB Sport one">
-    <title lang="th">ONE LUMPINEE HEROES</title>
+  <programme start="20231102020000 +0700" stop="20231102030000 +0700" channel="3BB Sport one">
+    <title lang="th">SUPERCAR CHAMPIONSHIP 2023 รถหรูซิ่งสะท้านฟ้า</title>
   </programme>
-  <programme start="20231101235000 +0700" stop="20231102000000 +0700" channel="3BB Sport one">
-    <title lang="th">สดๆ บทมาเต็ม</title>
+  <programme start="20231102030000 +0700" stop="20231102040000 +0700" channel="3BB Sport one">
+    <title lang="th">CAGE WARRIORS 2023 ศึกมวยกรงเหล็ก</title>
   </programme>
-  <programme start="20231102000000 +0700" stop="20231102002000 +0700" channel="3BB Sport one">
-    <title lang="th">สดๆ บทมาเต็ม</title>
+  <programme start="20231102040000 +0700" stop="20231102050000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
   </programme>
-  <programme start="20231102002000 +0700" stop="20231102011000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
+  <programme start="20231102050000 +0700" stop="20231102060000 +0700" channel="3BB Sport one">
+    <title lang="th">IAAF DIAMOND LEAGUE 2023 กรีฑาขั้นเทพ</title>
   </programme>
-  <programme start="20231102011000 +0700" stop="20231102024000 +0700" channel="3BB Sport one">
-    <title lang="th">ชุมทางฮอตโชว์</title>
+  <programme start="20231102060000 +0700" stop="20231102070000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231102024000 +0700" stop="20231102034000 +0700" channel="3BB Sport one">
-    <title lang="th">รักสลับหน้า (Rerun)</title>
+  <programme start="20231102070000 +0700" stop="20231102080000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231102034000 +0700" stop="20231102043000 +0700" channel="3BB Sport one">
-    <title lang="th">สุขภาพกับเสียงเพลง</title>
+  <programme start="20231102080000 +0700" stop="20231102090000 +0700" channel="3BB Sport one">
+    <title lang="th">SUPERCAR CHAMPIONSHIP 2023 รถหรูซิ่งสะท้านฟ้า</title>
   </programme>
-  <programme start="20231102043000 +0700" stop="20231102060000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้า-ข่าว 7 สี</title>
+  <programme start="20231102090000 +0700" stop="20231102100000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE SMACKDOWN HIGHLIGHT ช็อตเด็ด มวยปล้ำ สแมคดาวน์</title>
   </programme>
-  <programme start="20231102060000 +0700" stop="20231102073000 +0700" channel="3BB Sport one">
-    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  <programme start="20231102100000 +0700" stop="20231102110000 +0700" channel="3BB Sport one">
+    <title lang="th">TEQBALL 2023 เทคบอลชิงแชมป์โลก 2023</title>
   </programme>
-  <programme start="20231102073000 +0700" stop="20231102090500 +0700" channel="3BB Sport one">
-    <title lang="th">สนามข่าว 7 สี</title>
+  <programme start="20231102110000 +0700" stop="20231102120000 +0700" channel="3BB Sport one">
+    <title lang="th">NASCAR CRAFTSMAN TRUCK SERIES 2023 จ้าวสนามกระบะซิ่ง</title>
   </programme>
-  <programme start="20231102090500 +0700" stop="20231102091500 +0700" channel="3BB Sport one">
-    <title lang="th">เงินทองของจริง</title>
+  <programme start="20231102120000 +0700" stop="20231102130000 +0700" channel="3BB Sport one">
+    <title lang="th">PRO BULL RIDING 2022/2023 ขี่วัวกระทิงพยศ</title>
   </programme>
-  <programme start="20231102091500 +0700" stop="20231102111500 +0700" channel="3BB Sport one">
-    <title lang="th">นางร้าย (Rerun)</title>
+  <programme start="20231102130000 +0700" stop="20231102140000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231102111500 +0700" stop="20231102122500 +0700" channel="3BB Sport one">
-    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  <programme start="20231102140000 +0700" stop="20231102150000 +0700" channel="3BB Sport one">
+    <title lang="th">SAIL GP 2022/2023 เรือใบชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231102122500 +0700" stop="20231102124000 +0700" channel="3BB Sport one">
-    <title lang="th">เที่ยงบันเทิง สด</title>
+  <programme start="20231102150000 +0700" stop="20231102160000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW HIGHLIGHT ช็อตเด็ด มวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231102124000 +0700" stop="20231102124500 +0700" channel="3BB Sport one">
-    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  <programme start="20231102160000 +0700" stop="20231102170000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231102124500 +0700" stop="20231102134500 +0700" channel="3BB Sport one">
-    <title lang="th">ชุมทางดาวทอง</title>
+  <programme start="20231102170000 +0700" stop="20231102180000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231102134500 +0700" stop="20231102135500 +0700" channel="3BB Sport one">
-    <title lang="th">สดๆ บทไม่มี 2 พ.ย. 66</title>
+  <programme start="20231102180000 +0700" stop="20231102200000 +0700" channel="3BB Sport one">
+    <title lang="th">CONCACAF GOLD CUP 2023 ศึกฟุตบอลชิงแชมป์อเมริกากลาง 2023</title>
   </programme>
-  <programme start="20231102135500 +0700" stop="20231102140000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเด็ด 7 สี</title>
+  <programme start="20231102200000 +0700" stop="20231102220000 +0700" channel="3BB Sport one">
+    <title lang="th">MUBADALA WORLD TENNIS CHAMPIONSHIP 2022 พิชิตแชมป์เทนนิส</title>
   </programme>
-  <programme start="20231102140000 +0700" stop="20231102154500 +0700" channel="3BB Sport one">
-    <title lang="th">สายโลหิต (Rerun)</title>
+  <programme start="20231102220000 +0700" stop="20231102230000 +0700" channel="3BB Sport one">
+    <title lang="th">SUPERCAR CHAMPIONSHIP 2023 รถหรูซิ่งสะท้านฟ้า</title>
   </programme>
-  <programme start="20231102154500 +0700" stop="20231102173000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  <programme start="20231102230000 +0700" stop="20231103000000 +0700" channel="3BB Sport one">
+    <title lang="th">TEQBALL 2023 เทคบอลชิงแชมป์โลก 2023</title>
   </programme>
-  <programme start="20231102173000 +0700" stop="20231102181500 +0700" channel="3BB Sport one">
-    <title lang="th">ถกไม่เถียง</title>
+  <programme start="20231103000000 +0700" stop="20231103010000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231102181500 +0700" stop="20231102190000 +0700" channel="3BB Sport one">
-    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  <programme start="20231103010000 +0700" stop="20231103020000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231102190000 +0700" stop="20231102200000 +0700" channel="3BB Sport one">
-    <title lang="th">มนตราตะเกียงแก้ว</title>
+  <programme start="20231103020000 +0700" stop="20231103030000 +0700" channel="3BB Sport one">
+    <title lang="th">NASCAR CRAFTSMAN TRUCK SERIES 2023 จ้าวสนามกระบะซิ่ง</title>
   </programme>
-  <programme start="20231102200000 +0700" stop="20231102203000 +0700" channel="3BB Sport one">
-    <title lang="th">ข่าวภาคค่ำ</title>
+  <programme start="20231103030000 +0700" stop="20231103040000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE SMACKDOWN HIGHLIGHT ช็อตเด็ด มวยปล้ำ สแมคดาวน์</title>
   </programme>
-  <programme start="20231102203000 +0700" stop="20231102204000 +0700" channel="3BB Sport one">
-    <title lang="th">เส้นทางบันเทิง</title>
+  <programme start="20231103040000 +0700" stop="20231103060000 +0700" channel="3BB Sport one">
+    <title lang="th">CONCACAF GOLD CUP 2023 ศึกฟุตบอลชิงแชมป์อเมริกากลาง 2023</title>
   </programme>
-  <programme start="20231102204000 +0700" stop="20231102214000 +0700" channel="3BB Sport one">
-    <title lang="th">ลมพัดผ่านดาว (ตอนจบ)</title>
+  <programme start="20231103060000 +0700" stop="20231103070000 +0700" channel="3BB Sport one">
+    <title lang="th">PRO BULL RIDING 2022/2023 ขี่วัวกระทิงพยศ</title>
   </programme>
-  <programme start="20231102214000 +0700" stop="20231102223000 +0700" channel="3BB Sport one">
-    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  <programme start="20231103070000 +0700" stop="20231103080000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
   </programme>
-  <programme start="20231102223000 +0700" stop="20231102223500 +0700" channel="3BB Sport one">
-    <title lang="th">ชิดจอ..รอดู</title>
+  <programme start="20231103080000 +0700" stop="20231103090000 +0700" channel="3BB Sport one">
+    <title lang="th">NASCAR CRAFTSMAN TRUCK SERIES 2023 จ้าวสนามกระบะซิ่ง</title>
   </programme>
-  <programme start="20231102223500 +0700" stop="20231102225500 +0700" channel="3BB Sport one">
-    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  <programme start="20231103090000 +0700" stop="20231103100000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW HIGHLIGHT ช็อตเด็ด มวยปล้ำ รอว์</title>
   </programme>
-  <programme start="20231102225500 +0700" stop="20231102231500 +0700" channel="3BB Sport one">
-    <title lang="th">กินไหน ไปด้วยกัน (Rerun)</title>
+  <programme start="20231103100000 +0700" stop="20231103120000 +0700" channel="3BB Sport one">
+    <title lang="th">MUBADALA WORLD TENNIS CHAMPIONSHIP 2022 พิชิตแชมป์เทนนิส</title>
   </programme>
-  <programme start="20231102231500 +0700" stop="20231103000000 +0700" channel="3BB Sport one">
-    <title lang="th">BID COIN CHEF Season 2 สุดยอดเชฟหักเหลี่ยมโหด ซีซั่น 2 (Rerun)</title>
+  <programme start="20231103120000 +0700" stop="20231103130000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
   </programme>
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
-  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231103130000 +0700" stop="20231103140000 +0700" channel="3BB Sport one">
+    <title lang="th">BADMINTON ASIA INDIVIDUAL CHAMPIONSHIPS 2023 แบดมินตันชิงแชมป์เอเชีย</title>
+  </programme>
+  <programme start="20231103140000 +0700" stop="20231103150000 +0700" channel="3BB Sport one">
+    <title lang="th">ACTION SPORTS กีฬาผาดโผน</title>
+  </programme>
+  <programme start="20231103150000 +0700" stop="20231103160000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE SMACKDOWN HIGHLIGHT ช็อตเด็ด มวยปล้ำ สแมคดาวน์</title>
+  </programme>
+  <programme start="20231103160000 +0700" stop="20231103170000 +0700" channel="3BB Sport one">
+    <title lang="th">WORLD CHASE TAG วิ่งไล่จับผาดโผนชิงแชมป์โลก</title>
+  </programme>
+  <programme start="20231103170000 +0700" stop="20231103180000 +0700" channel="3BB Sport one">
+    <title lang="th">DUTCH LEAGUE FULL SEASON REVIEW 2022/2023 เจาะสนามฟุตบอลดัตช์</title>
+  </programme>
+  <programme start="20231103180000 +0700" stop="20231103200000 +0700" channel="3BB Sport one">
+    <title lang="th">CONCACAF GOLD CUP 2023 ศึกฟุตบอลชิงแชมป์อเมริกากลาง 2023</title>
+  </programme>
+  <programme start="20231103200000 +0700" stop="20231103220000 +0700" channel="3BB Sport one">
+    <title lang="th">MUBADALA WORLD TENNIS CHAMPIONSHIP 2022 พิชิตแชมป์เทนนิส</title>
+  </programme>
+  <programme start="20231103220000 +0700" stop="20231104000000 +0700" channel="3BB Sport one">
+    <title lang="th">WWE RAW ศึกมวยปล้ำ รอว์</title>
+  </programme>
+  <programme start="20231031000000 +0700" stop="20231031011000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Northern Talent Cup</title>
+  </programme>
+  <programme start="20231031011000 +0700" stop="20231031015000 +0700" channel="EDGE Sport">
+    <title lang="th">F1H20 U.I.M World Championships</title>
+  </programme>
+  <programme start="20231031015000 +0700" stop="20231031022500 +0700" channel="EDGE Sport">
+    <title lang="th">Racing The World</title>
+  </programme>
+  <programme start="20231031022500 +0700" stop="20231031043000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Madrid Urban Series</title>
+  </programme>
+  <programme start="20231031043000 +0700" stop="20231031050500 +0700" channel="EDGE Sport">
+    <title lang="th">World Downhill Skate Championships</title>
+  </programme>
+  <programme start="20231031050500 +0700" stop="20231031060500 +0700" channel="EDGE Sport">
+    <title lang="th">FIM X-Trial World Championship</title>
+  </programme>
+  <programme start="20231031060500 +0700" stop="20231031070000 +0700" channel="EDGE Sport">
+    <title lang="th">Tour of Turkey</title>
+  </programme>
+  <programme start="20231031070000 +0700" stop="20231031080500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Red Bull Moto GP Rookies Cup</title>
+  </programme>
+  <programme start="20231031080500 +0700" stop="20231031084000 +0700" channel="EDGE Sport">
+    <title lang="th">F1H20 U.I.M World Championships</title>
+  </programme>
+  <programme start="20231031084000 +0700" stop="20231031091500 +0700" channel="EDGE Sport">
+    <title lang="th">Kite Masters</title>
+  </programme>
+  <programme start="20231031091500 +0700" stop="20231031095000 +0700" channel="EDGE Sport">
+    <title lang="th">Aqua X</title>
+  </programme>
+  <programme start="20231031095000 +0700" stop="20231031102500 +0700" channel="EDGE Sport">
+    <title lang="th">Jet Ski World Series</title>
+  </programme>
+  <programme start="20231031102500 +0700" stop="20231031110000 +0700" channel="EDGE Sport">
+    <title lang="th">F1H20 U.I.M World Championships</title>
+  </programme>
+  <programme start="20231031110000 +0700" stop="20231031113500 +0700" channel="EDGE Sport">
+    <title lang="th">Gearing Up</title>
+  </programme>
+  <programme start="20231031113500 +0700" stop="20231031124000 +0700" channel="EDGE Sport">
+    <title lang="th">FIA Truck Racing Championship</title>
+  </programme>
+  <programme start="20231031124000 +0700" stop="20231031134500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Madrid Urban Series</title>
+  </programme>
+  <programme start="20231031134500 +0700" stop="20231031142000 +0700" channel="EDGE Sport">
+    <title lang="th">Destination Polaris</title>
+  </programme>
+  <programme start="20231031142000 +0700" stop="20231031150000 +0700" channel="EDGE Sport">
+    <title lang="th">World Of Freesport</title>
+  </programme>
+  <programme start="20231031150000 +0700" stop="20231031153500 +0700" channel="EDGE Sport">
+    <title lang="th">Class 1 World Powerboat Championship Highlights</title>
+  </programme>
+  <programme start="20231031153500 +0700" stop="20231031161000 +0700" channel="EDGE Sport">
+    <title lang="th">Inside Sailing</title>
+  </programme>
+  <programme start="20231031161000 +0700" stop="20231031171000 +0700" channel="EDGE Sport">
+    <title lang="th">Tour of Turkey</title>
+  </programme>
+  <programme start="20231031171000 +0700" stop="20231031174500 +0700" channel="EDGE Sport">
+    <title lang="th">World Skateboarding Tour</title>
+  </programme>
+  <programme start="20231031174500 +0700" stop="20231031184500 +0700" channel="EDGE Sport">
+    <title lang="th">HYROX</title>
+  </programme>
+  <programme start="20231031184500 +0700" stop="20231031192000 +0700" channel="EDGE Sport">
+    <title lang="th">Destination Polaris</title>
+  </programme>
+  <programme start="20231031192000 +0700" stop="20231031202500 +0700" channel="EDGE Sport">
+    <title lang="th">FIA Truck Racing Championship</title>
+  </programme>
+  <programme start="20231031202500 +0700" stop="20231031212500 +0700" channel="EDGE Sport">
+    <title lang="th">Class 1 World Powerboat Championship Highlights</title>
+  </programme>
+  <programme start="20231031212500 +0700" stop="20231031221000 +0700" channel="EDGE Sport">
+    <title lang="th">Titan</title>
+  </programme>
+  <programme start="20231031221000 +0700" stop="20231031235000 +0700" channel="EDGE Sport">
+    <title lang="th">World Championship of Skateboarding</title>
+  </programme>
+  <programme start="20231031235000 +0700" stop="20231101011000 +0700" channel="EDGE Sport">
+    <title lang="th">World Championship of Skateboarding</title>
+  </programme>
+  <programme start="20231101011000 +0700" stop="20231101014500 +0700" channel="EDGE Sport">
+    <title lang="th">FIM Enduro GP World Championship 2023</title>
+  </programme>
+  <programme start="20231101014500 +0700" stop="20231101022000 +0700" channel="EDGE Sport">
+    <title lang="th">World Downhill Skate Championships</title>
+  </programme>
+  <programme start="20231101022000 +0700" stop="20231101032000 +0700" channel="EDGE Sport">
+    <title lang="th">Class 1 World Powerboat Championship Highlights</title>
+  </programme>
+  <programme start="20231101032000 +0700" stop="20231101035500 +0700" channel="EDGE Sport">
+    <title lang="th">Roc d'Azur</title>
+  </programme>
+  <programme start="20231101035500 +0700" stop="20231101050000 +0700" channel="EDGE Sport">
+    <title lang="th">FIM X-Trial World Championship</title>
+  </programme>
+  <programme start="20231101050000 +0700" stop="20231101053500 +0700" channel="EDGE Sport">
+    <title lang="th">Sailing to The Games</title>
+  </programme>
+  <programme start="20231101053500 +0700" stop="20231101070000 +0700" channel="EDGE Sport">
+    <title lang="th">Custom</title>
+  </programme>
+  <programme start="20231101070000 +0700" stop="20231101083000 +0700" channel="EDGE Sport">
+    <title lang="th">FIA Truck Racing Championship</title>
+  </programme>
+  <programme start="20231101083000 +0700" stop="20231101100000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap UCI MBT Eliminator World Cup</title>
+  </programme>
+  <programme start="20231101100000 +0700" stop="20231101111500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap XTERRA Short Track World Cup</title>
+  </programme>
+  <programme start="20231101111500 +0700" stop="20231101115000 +0700" channel="EDGE Sport">
+    <title lang="th">Aqua X</title>
+  </programme>
+  <programme start="20231101115000 +0700" stop="20231101141500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap F1H2O World Championships</title>
+  </programme>
+  <programme start="20231101141500 +0700" stop="20231101155000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap F1H2O World Championships</title>
+  </programme>
+  <programme start="20231101155000 +0700" stop="20231101162000 +0700" channel="EDGE Sport">
+    <title lang="th">Aqua X</title>
+  </programme>
+  <programme start="20231101162000 +0700" stop="20231101184000 +0700" channel="EDGE Sport">
+    <title lang="th">Live recap Tour of Qinghai Lake Bilingual</title>
+  </programme>
+  <programme start="20231101184000 +0700" stop="20231101191000 +0700" channel="EDGE Sport">
+    <title lang="th">GKA Kite World Tour</title>
+  </programme>
+  <programme start="20231101191000 +0700" stop="20231101195000 +0700" channel="EDGE Sport">
+    <title lang="th">UCI BMX Racing World Cup</title>
+  </programme>
+  <programme start="20231101195000 +0700" stop="20231101203500 +0700" channel="EDGE Sport">
+    <title lang="th">Titan</title>
+  </programme>
+  <programme start="20231101203500 +0700" stop="20231101214500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Northern Talent Cup</title>
+  </programme>
+  <programme start="20231101214500 +0700" stop="20231101221500 +0700" channel="EDGE Sport">
+    <title lang="th">World Downhill Skate Championships</title>
+  </programme>
+  <programme start="20231101221500 +0700" stop="20231101234500 +0700" channel="EDGE Sport">
+    <title lang="th">FIA Truck Racing Championship</title>
+  </programme>
+  <programme start="20231101234500 +0700" stop="20231102001500 +0700" channel="EDGE Sport">
+    <title lang="th">FIM SuperMoto</title>
+  </programme>
+  <programme start="20231102001500 +0700" stop="20231102022000 +0700" channel="EDGE Sport">
+    <title lang="th">World Championship of Skateboarding</title>
+  </programme>
+  <programme start="20231102022000 +0700" stop="20231102032000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Golden Trials</title>
+  </programme>
+  <programme start="20231102032000 +0700" stop="20231102035500 +0700" channel="EDGE Sport">
+    <title lang="th">Kite Masters</title>
+  </programme>
+  <programme start="20231102035500 +0700" stop="20231102043500 +0700" channel="EDGE Sport">
+    <title lang="th">APBA P1 Powerboat Offshore Highlights</title>
+  </programme>
+  <programme start="20231102043500 +0700" stop="20231102052500 +0700" channel="EDGE Sport">
+    <title lang="th">EDGEsport Stories</title>
+  </programme>
+  <programme start="20231102052500 +0700" stop="20231102060000 +0700" channel="EDGE Sport">
+    <title lang="th">Racing The World</title>
+  </programme>
+  <programme start="20231102060000 +0700" stop="20231102070000 +0700" channel="EDGE Sport">
+    <title lang="th">British Talent Cup</title>
+  </programme>
+  <programme start="20231102070000 +0700" stop="20231102081000 +0700" channel="EDGE Sport">
+    <title lang="th">Jet Ski World Series</title>
+  </programme>
+  <programme start="20231102081000 +0700" stop="20231102085000 +0700" channel="EDGE Sport">
+    <title lang="th">FIM Enduro GP World Championship 2023</title>
+  </programme>
+  <programme start="20231102085000 +0700" stop="20231102101500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Madrid Urban Series</title>
+  </programme>
+  <programme start="20231102101500 +0700" stop="20231102105000 +0700" channel="EDGE Sport">
+    <title lang="th">Ascend</title>
+  </programme>
+  <programme start="20231102105000 +0700" stop="20231102113000 +0700" channel="EDGE Sport">
+    <title lang="th">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20231102113000 +0700" stop="20231102121000 +0700" channel="EDGE Sport">
+    <title lang="th">Inside Sailing</title>
+  </programme>
+  <programme start="20231102121000 +0700" stop="20231102122000 +0700" channel="EDGE Sport">
+    <title lang="th">Patagonian Expedition Race</title>
+  </programme>
+  <programme start="20231102122000 +0700" stop="20231102144000 +0700" channel="EDGE Sport">
+    <title lang="th">Live recap Tour of Qinghai Lake Bilingual</title>
+  </programme>
+  <programme start="20231102144000 +0700" stop="20231102153000 +0700" channel="EDGE Sport">
+    <title lang="th">APBA P1 Powerboat Offshore Highlights</title>
+  </programme>
+  <programme start="20231102153000 +0700" stop="20231102165500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap UCI MBT Eliminator World Cup</title>
+  </programme>
+  <programme start="20231102165500 +0700" stop="20231102171500 +0700" channel="EDGE Sport">
+    <title lang="th">Custom</title>
+  </programme>
+  <programme start="20231102171500 +0700" stop="20231102174500 +0700" channel="EDGE Sport">
+    <title lang="th">Epic Trails</title>
+  </programme>
+  <programme start="20231102174500 +0700" stop="20231102190000 +0700" channel="EDGE Sport">
+    <title lang="th">FIM X-Trial World Championship</title>
+  </programme>
+  <programme start="20231102190000 +0700" stop="20231102193500 +0700" channel="EDGE Sport">
+    <title lang="th">Sailing to The Games</title>
+  </programme>
+  <programme start="20231102193500 +0700" stop="20231102214000 +0700" channel="EDGE Sport">
+    <title lang="th">Freeride World Tour</title>
+  </programme>
+  <programme start="20231102214000 +0700" stop="20231102222000 +0700" channel="EDGE Sport">
+    <title lang="th">Kite Masters</title>
+  </programme>
+  <programme start="20231102222000 +0700" stop="20231102225000 +0700" channel="EDGE Sport">
+    <title lang="th">FIM SuperMoto</title>
+  </programme>
+  <programme start="20231102225000 +0700" stop="20231102232500 +0700" channel="EDGE Sport">
+    <title lang="th">Epic Trails</title>
+  </programme>
+  <programme start="20231102232500 +0700" stop="20231103000000 +0700" channel="EDGE Sport">
+    <title lang="th">UCI BMX Racing World Cup</title>
+  </programme>
+  <programme start="20231103000000 +0700" stop="20231103020000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap UCI MTB Eliminator World Cup</title>
+  </programme>
+  <programme start="20231103020000 +0700" stop="20231103070000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Golden Trials</title>
+  </programme>
+  <programme start="20231103070000 +0700" stop="20231103074000 +0700" channel="EDGE Sport">
+    <title lang="th">Family Routes</title>
+  </programme>
+  <programme start="20231103074000 +0700" stop="20231103084000 +0700" channel="EDGE Sport">
+    <title lang="th">Route Du Rhum</title>
+  </programme>
+  <programme start="20231103084000 +0700" stop="20231103091500 +0700" channel="EDGE Sport">
+    <title lang="th">U.I.M-APB Aqua Bike World Championship</title>
+  </programme>
+  <programme start="20231103091500 +0700" stop="20231103104000 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap Madrid Urban Series</title>
+  </programme>
+  <programme start="20231103104000 +0700" stop="20231103114000 +0700" channel="EDGE Sport">
+    <title lang="th">World Championship of Skateboarding</title>
+  </programme>
+  <programme start="20231103114000 +0700" stop="20231103134500 +0700" channel="EDGE Sport">
+    <title lang="th">Live Recap FIM X-Trial</title>
+  </programme>
+  <programme start="20231103134500 +0700" stop="20231103143000 +0700" channel="EDGE Sport">
+    <title lang="th">Titan</title>
+  </programme>
+  <programme start="20231103143000 +0700" stop="20231103151000 +0700" channel="EDGE Sport">
+    <title lang="th">G Series Ice Race</title>
+  </programme>
+  <programme start="20231103151000 +0700" stop="20231103201000 +0700" channel="EDGE Sport">
+    <title lang="th">Asia Talent Cup</title>
+  </programme>
+  <programme start="20231103201000 +0700" stop="20231103204500 +0700" channel="EDGE Sport">
+    <title lang="th">Sailing to The Games</title>
+  </programme>
+  <programme start="20231103204500 +0700" stop="20231103214500 +0700" channel="EDGE Sport">
+    <title lang="th">British Talent Cup</title>
+  </programme>
+  <programme start="20231103214500 +0700" stop="20231103222500 +0700" channel="EDGE Sport">
+    <title lang="th">Abu Dhabi Desert Challenge</title>
+  </programme>
+  <programme start="20231103222500 +0700" stop="20231103231500 +0700" channel="EDGE Sport">
+    <title lang="th">Class 1 World Powerboat Championship Highlights</title>
+  </programme>
+  <programme start="20231103231500 +0700" stop="20231103235000 +0700" channel="EDGE Sport">
+    <title lang="th">Destination Polaris</title>
+  </programme>
+  <programme start="20231103235000 +0700" stop="20231104002500 +0700" channel="EDGE Sport">
+    <title lang="th">E-Bike World Tour</title>
+  </programme>
+  <programme start="20231031000000 +0700" stop="20231031003000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231031003000 +0700" stop="20231031053000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour Maybank Championship</title>
+  </programme>
+  <programme start="20231031053000 +0700" stop="20231031060000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231031060000 +0700" stop="20231031070000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 HIGHLIGHT Champions Tour Dominion Energy Charity Classic</title>
+  </programme>
+  <programme start="20231031070000 +0700" stop="20231031073000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Swing Factor</title>
+  </programme>
+  <programme start="20231031073000 +0700" stop="20231031113000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231031113000 +0700" stop="20231031120000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Channel Academy</title>
+  </programme>
+  <programme start="20231031120000 +0700" stop="20231031170000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 PGA Tour RBC Heritage</title>
+  </programme>
+  <programme start="20231031170000 +0700" stop="20231031183000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Today</title>
+  </programme>
+  <programme start="20231031183000 +0700" stop="20231031190000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Breaking Golf's Greatest Myths</title>
+  </programme>
+  <programme start="20231031190000 +0700" stop="20231031200000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231031200000 +0700" stop="20231031203000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Fix</title>
+  </programme>
+  <programme start="20231031203000 +0700" stop="20231101000000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231101000000 +0700" stop="20231101003000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231101003000 +0700" stop="20231101010000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Channel Academy</title>
+  </programme>
+  <programme start="20231101010000 +0700" stop="20231101020000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231101020000 +0700" stop="20231101040000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 Champions Tour Timbertech Championship</title>
+  </programme>
+  <programme start="20231101040000 +0700" stop="20231101063000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Special Events 2023 Blessings Collegiate Invitational</title>
+  </programme>
+  <programme start="20231101063000 +0700" stop="20231101070000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Fix</title>
+  </programme>
+  <programme start="20231101070000 +0700" stop="20231101110000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231101110000 +0700" stop="20231101170000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 PGA Tour RBC Heritage</title>
+  </programme>
+  <programme start="20231101170000 +0700" stop="20231101183000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Today</title>
+  </programme>
+  <programme start="20231101183000 +0700" stop="20231101190000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Swing Expedition</title>
+  </programme>
+  <programme start="20231101190000 +0700" stop="20231101200000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Club House</title>
+  </programme>
+  <programme start="20231101200000 +0700" stop="20231101203000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">The Next Shot</title>
+  </programme>
+  <programme start="20231101203000 +0700" stop="20231101213000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231101213000 +0700" stop="20231102000000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231102000000 +0700" stop="20231102013000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231102013000 +0700" stop="20231102023000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231102023000 +0700" stop="20231102043000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 Champions Tour Timbertech Championship</title>
+  </programme>
+  <programme start="20231102043000 +0700" stop="20231102064500 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Special Events 2023 Blessings Collegiate Invitational</title>
+  </programme>
+  <programme start="20231102064500 +0700" stop="20231102070000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Shop Dee Dee</title>
+  </programme>
+  <programme start="20231102070000 +0700" stop="20231102073000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">The Next Shot</title>
+  </programme>
+  <programme start="20231102073000 +0700" stop="20231102083000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 HIGHLIGHT Champions Tour CONSTELLATION FURYK &amp; FRIENDS</title>
+  </programme>
+  <programme start="20231102083000 +0700" stop="20231102093000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Club House</title>
+  </programme>
+  <programme start="20231102093000 +0700" stop="20231102100000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Ask Nathalie</title>
+  </programme>
+  <programme start="20231102100000 +0700" stop="20231102130000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231102130000 +0700" stop="20231102153000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Special Events 2023 World Long Drive Championship Final 8 Open - &amp; Women's</title>
+  </programme>
+  <programme start="20231102153000 +0700" stop="20231102170000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Today</title>
+  </programme>
+  <programme start="20231102170000 +0700" stop="20231102200000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231102200000 +0700" stop="20231102210000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231102210000 +0700" stop="20231103000000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231103000000 +0700" stop="20231103003000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Breaking Golf's Greatest Myths</title>
+  </programme>
+  <programme start="20231103003000 +0700" stop="20231103013000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 HIGHLIGHT Champions Tour SAS CHAMPIONSHIP</title>
+  </programme>
+  <programme start="20231103013000 +0700" stop="20231103023000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231103023000 +0700" stop="20231103043000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">FLASH BACK 2022 Champions Tour Timbertech Championship</title>
+  </programme>
+  <programme start="20231103043000 +0700" stop="20231103064500 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Special Events 2023 Blessings Collegiate Invitational</title>
+  </programme>
+  <programme start="20231103064500 +0700" stop="20231103070000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Shop Dee Dee</title>
+  </programme>
+  <programme start="20231103070000 +0700" stop="20231103100000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231103100000 +0700" stop="20231103130000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231103130000 +0700" stop="20231103133000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Fitness For Everyone</title>
+  </programme>
+  <programme start="20231103133000 +0700" stop="20231103163000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023  PGA Tour World Wide Technology Championship</title>
+  </programme>
+  <programme start="20231103163000 +0700" stop="20231103170000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Fix</title>
+  </programme>
+  <programme start="20231103170000 +0700" stop="20231103200000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231103200000 +0700" stop="20231103210000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">Golf Central</title>
+  </programme>
+  <programme start="20231103210000 +0700" stop="20231104000000 +0700" channel="Golf Channel Thailand HD Plus">
+    <title lang="th">2023 LPGA Tour TOTO Japan Classic</title>
+  </programme>
+  <programme start="20231031002000 +0700" stop="20231031011500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gordon Ramsay's Future Food Stars 2</title>
+  </programme>
+  <programme start="20231031011500 +0700" stop="20231031021500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 9</title>
+  </programme>
+  <programme start="20231031021500 +0700" stop="20231031030500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031030500 +0700" stop="20231031040000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein: From Venice to Istanbul 1</title>
+  </programme>
+  <programme start="20231031040000 +0700" stop="20231031050000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 9</title>
+  </programme>
+  <programme start="20231031050000 +0700" stop="20231031055000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231031055000 +0700" stop="20231031064000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031064000 +0700" stop="20231031071000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Nigella's Cook, Eat, Repeat 1</title>
+  </programme>
+  <programme start="20231031071000 +0700" stop="20231031080500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 7</title>
+  </programme>
+  <programme start="20231031080500 +0700" stop="20231031090000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein: From Venice to Istanbul 1</title>
+  </programme>
+  <programme start="20231031090000 +0700" stop="20231031094500 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231031094500 +0700" stop="20231031103500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031103500 +0700" stop="20231031110500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Nigella's Cook, Eat, Repeat 1</title>
+  </programme>
+  <programme start="20231031110500 +0700" stop="20231031120000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 7</title>
+  </programme>
+  <programme start="20231031120000 +0700" stop="20231031124500 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231031124500 +0700" stop="20231031134000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231031134000 +0700" stop="20231031143500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein: From Venice to Istanbul 1</title>
+  </programme>
+  <programme start="20231031143500 +0700" stop="20231031152500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031152500 +0700" stop="20231031162000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 7</title>
+  </programme>
+  <programme start="20231031162000 +0700" stop="20231031171500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein: From Venice to Istanbul 1</title>
+  </programme>
+  <programme start="20231031171500 +0700" stop="20231031180500 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231031180500 +0700" stop="20231031183000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gino's Italy: Like Mamma Used To Make 1</title>
+  </programme>
+  <programme start="20231031183000 +0700" stop="20231031192500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Hungry For It 1</title>
+  </programme>
+  <programme start="20231031192500 +0700" stop="20231031201500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031201500 +0700" stop="20231031210500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231031210500 +0700" stop="20231031213000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gino's Italy: Like Mamma Used To Make 1</title>
+  </programme>
+  <programme start="20231031213000 +0700" stop="20231031222500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gordon Ramsay's Future Food Stars 2</title>
+  </programme>
+  <programme start="20231031222500 +0700" stop="20231031233000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 9</title>
+  </programme>
+  <programme start="20231031233000 +0700" stop="20231101001000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101001000 +0700" stop="20231101010500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gordon Ramsay's Future Food Stars 2</title>
+  </programme>
+  <programme start="20231101010500 +0700" stop="20231101015500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231101015500 +0700" stop="20231101022500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Kitchen Notebook: Melbourne 1</title>
+  </programme>
+  <programme start="20231101022500 +0700" stop="20231101031500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101031500 +0700" stop="20231101041000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Hungry For It 1</title>
+  </programme>
+  <programme start="20231101041000 +0700" stop="20231101050000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231101050000 +0700" stop="20231101055000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231101055000 +0700" stop="20231101064000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101064000 +0700" stop="20231101070500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gino's Italy: Like Mamma Used To Make 1</title>
+  </programme>
+  <programme start="20231101070500 +0700" stop="20231101075500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231101075500 +0700" stop="20231101082000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein's Cornwall 2</title>
+  </programme>
+  <programme start="20231101082000 +0700" stop="20231101091500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Hungry For It 1</title>
+  </programme>
+  <programme start="20231101091500 +0700" stop="20231101100000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231101100000 +0700" stop="20231101105000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101105000 +0700" stop="20231101111500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gino's Italy: Like Mamma Used To Make 1</title>
+  </programme>
+  <programme start="20231101111500 +0700" stop="20231101120500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231101120500 +0700" stop="20231101125000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231101125000 +0700" stop="20231101134500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Your Home, Made Perfect 2</title>
+  </programme>
+  <programme start="20231101134500 +0700" stop="20231101143500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Hungry For It 1</title>
+  </programme>
+  <programme start="20231101143500 +0700" stop="20231101152500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101152500 +0700" stop="20231101161500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Grand Designs 20</title>
+  </programme>
+  <programme start="20231101161500 +0700" stop="20231101171000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Hungry For It 1</title>
+  </programme>
+  <programme start="20231101171000 +0700" stop="20231101180000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231101180000 +0700" stop="20231101183000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Kitchen Notebook: Melbourne 1</title>
+  </programme>
+  <programme start="20231101183000 +0700" stop="20231101192500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231101192500 +0700" stop="20231101201500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231101201500 +0700" stop="20231101210500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231101210500 +0700" stop="20231101213500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Kitchen Notebook: Melbourne 1</title>
+  </programme>
+  <programme start="20231101213500 +0700" stop="20231101223500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231101223500 +0700" stop="20231101233000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gordon Ramsay's Future Food Stars 2</title>
+  </programme>
+  <programme start="20231101233000 +0700" stop="20231102002000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102002000 +0700" stop="20231102012000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231102012000 +0700" stop="20231102021500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231102021500 +0700" stop="20231102030500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102030500 +0700" stop="20231102040500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231102040500 +0700" stop="20231102050000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231102050000 +0700" stop="20231102055000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231102055000 +0700" stop="20231102064000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102064000 +0700" stop="20231102071000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Kitchen Notebook: Melbourne 1</title>
+  </programme>
+  <programme start="20231102071000 +0700" stop="20231102080500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231102080500 +0700" stop="20231102090000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231102090000 +0700" stop="20231102095000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231102095000 +0700" stop="20231102104000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102104000 +0700" stop="20231102111000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Kitchen Notebook: Melbourne 1</title>
+  </programme>
+  <programme start="20231102111000 +0700" stop="20231102120000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231102120000 +0700" stop="20231102124500 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231102124500 +0700" stop="20231102134000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great British Sewing Bee 7</title>
+  </programme>
+  <programme start="20231102134000 +0700" stop="20231102143500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231102143500 +0700" stop="20231102152500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102152500 +0700" stop="20231102162000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Your Home, Made Perfect 2</title>
+  </programme>
+  <programme start="20231102162000 +0700" stop="20231102171500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231102171500 +0700" stop="20231102180000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231102180000 +0700" stop="20231102183000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein's Cornwall 2</title>
+  </programme>
+  <programme start="20231102183000 +0700" stop="20231102192500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231102192500 +0700" stop="20231102201500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231102201500 +0700" stop="20231102211000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231102211000 +0700" stop="20231102213500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein's Cornwall 2</title>
+  </programme>
+  <programme start="20231102213500 +0700" stop="20231102223500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231102223500 +0700" stop="20231102233000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Gordon Ramsay's Future Food Stars 2</title>
+  </programme>
+  <programme start="20231102233000 +0700" stop="20231103002000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103002000 +0700" stop="20231103012000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231103012000 +0700" stop="20231103021500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231103021500 +0700" stop="20231103030500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103030500 +0700" stop="20231103040500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 6</title>
+  </programme>
+  <programme start="20231103040500 +0700" stop="20231103050000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231103050000 +0700" stop="20231103055000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231103055000 +0700" stop="20231103064000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103064000 +0700" stop="20231103071000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein's Cornwall 2</title>
+  </programme>
+  <programme start="20231103071000 +0700" stop="20231103080500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231103080500 +0700" stop="20231103090000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231103090000 +0700" stop="20231103095000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231103095000 +0700" stop="20231103104000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103104000 +0700" stop="20231103110500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rick Stein's Cornwall 2</title>
+  </programme>
+  <programme start="20231103110500 +0700" stop="20231103120000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231103120000 +0700" stop="20231103124500 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231103124500 +0700" stop="20231103134000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231103134000 +0700" stop="20231103143500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231103143500 +0700" stop="20231103152500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103152500 +0700" stop="20231103162000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Sort Your Life Out 2</title>
+  </programme>
+  <programme start="20231103162000 +0700" stop="20231103172000 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Great Australian Bake Off 4</title>
+  </programme>
+  <programme start="20231103172000 +0700" stop="20231103181000 +0700" channel="BBC Lifestyle">
+    <title lang="th">My Unique B&amp;B 1</title>
+  </programme>
+  <programme start="20231103181000 +0700" stop="20231103183500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Simply Italian 1</title>
+  </programme>
+  <programme start="20231103183500 +0700" stop="20231103192500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Chocolat 1</title>
+  </programme>
+  <programme start="20231103192500 +0700" stop="20231103201500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231103201500 +0700" stop="20231103211000 +0700" channel="BBC Lifestyle">
+    <title lang="th">Your Home, Made Perfect 3</title>
+  </programme>
+  <programme start="20231103211000 +0700" stop="20231103213500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Simply Italian 1</title>
+  </programme>
+  <programme start="20231103213500 +0700" stop="20231103222500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Rachel Khoo's Chocolat 1</title>
+  </programme>
+  <programme start="20231103222500 +0700" stop="20231103231500 +0700" channel="BBC Lifestyle">
+    <title lang="th">The Graham Norton Show 29</title>
+  </programme>
+  <programme start="20231103231500 +0700" stop="20231104000500 +0700" channel="BBC Lifestyle">
+    <title lang="th">Junior Bake Off 8</title>
+  </programme>
+  <programme start="20231031002000 +0700" stop="20231031004500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031004500 +0700" stop="20231031011500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031011500 +0700" stop="20231031014500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031014500 +0700" stop="20231031021500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031021500 +0700" stop="20231031031000 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031031000 +0700" stop="20231031040500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031040500 +0700" stop="20231031050000 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031050000 +0700" stop="20231031055500 +0700" channel="Global Trekker">
+    <title lang="th">Carrier At War: The USS Enterprise</title>
+  </programme>
+  <programme start="20231031055500 +0700" stop="20231031065500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231031065500 +0700" stop="20231031072500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031072500 +0700" stop="20231031075500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031075500 +0700" stop="20231031082500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031082500 +0700" stop="20231031085500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031085500 +0700" stop="20231031095000 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031095000 +0700" stop="20231031104500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031104500 +0700" stop="20231031113500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031113500 +0700" stop="20231031122500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031122500 +0700" stop="20231031125000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031125000 +0700" stop="20231031131500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031131500 +0700" stop="20231031134000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031134000 +0700" stop="20231031140500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031140500 +0700" stop="20231031145500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031145500 +0700" stop="20231031154500 +0700" channel="Global Trekker">
+    <title lang="th">Canada: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031154500 +0700" stop="20231031164000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231031164000 +0700" stop="20231031173500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231031173500 +0700" stop="20231031182500 +0700" channel="Global Trekker">
+    <title lang="th">SEAL Dog</title>
+  </programme>
+  <programme start="20231031182500 +0700" stop="20231031191500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031191500 +0700" stop="20231031200500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031200500 +0700" stop="20231031203000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031203000 +0700" stop="20231031205500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031205500 +0700" stop="20231031212000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031212000 +0700" stop="20231031214500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231031214500 +0700" stop="20231031223500 +0700" channel="Global Trekker">
+    <title lang="th">Yorkshire: A Year In The Wild</title>
+  </programme>
+  <programme start="20231031223500 +0700" stop="20231031233000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231031233000 +0700" stop="20231101002500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101002500 +0700" stop="20231101011500 +0700" channel="Global Trekker">
+    <title lang="th">SEAL Dog</title>
+  </programme>
+  <programme start="20231101011500 +0700" stop="20231101020500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101020500 +0700" stop="20231101030000 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101030000 +0700" stop="20231101033000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101033000 +0700" stop="20231101040000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101040000 +0700" stop="20231101043000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101043000 +0700" stop="20231101050000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101050000 +0700" stop="20231101060000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101060000 +0700" stop="20231101065500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101065500 +0700" stop="20231101074500 +0700" channel="Global Trekker">
+    <title lang="th">SEAL Dog</title>
+  </programme>
+  <programme start="20231101074500 +0700" stop="20231101083500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101083500 +0700" stop="20231101092500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101092500 +0700" stop="20231101095000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101095000 +0700" stop="20231101101500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101101500 +0700" stop="20231101104000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101104000 +0700" stop="20231101110500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101110500 +0700" stop="20231101115500 +0700" channel="Global Trekker">
+    <title lang="th">Yorkshire: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101115500 +0700" stop="20231101124500 +0700" channel="Global Trekker">
+    <title lang="th">SEAL Dog</title>
+  </programme>
+  <programme start="20231101124500 +0700" stop="20231101133500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101133500 +0700" stop="20231101142500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska: A Year In The Wild</title>
+  </programme>
+  <programme start="20231101142500 +0700" stop="20231101145000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101145000 +0700" stop="20231101151500 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101151500 +0700" stop="20231101154000 +0700" channel="Global Trekker">
+    <title lang="th">Extraordinary Dogs</title>
+  </programme>
+  <programme start="20231101154000 +0700" stop="20231101163500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101163500 +0700" stop="20231101173000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101173000 +0700" stop="20231101182500 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Jeff Bezos</title>
+  </programme>
+  <programme start="20231101182500 +0700" stop="20231101191000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Mark Zuckerberg</title>
+  </programme>
+  <programme start="20231101191000 +0700" stop="20231101200500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231101200500 +0700" stop="20231101205500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231101205500 +0700" stop="20231101214500 +0700" channel="Global Trekker">
+    <title lang="th">First Ladies Revealed</title>
+  </programme>
+  <programme start="20231101214500 +0700" stop="20231101223500 +0700" channel="Global Trekker">
+    <title lang="th">First Ladies Revealed</title>
+  </programme>
+  <programme start="20231101223500 +0700" stop="20231101233000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231101233000 +0700" stop="20231102002500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231102002500 +0700" stop="20231102012000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Jeff Bezos</title>
+  </programme>
+  <programme start="20231102012000 +0700" stop="20231102021000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Mark Zuckerberg</title>
+  </programme>
+  <programme start="20231102021000 +0700" stop="20231102031000 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102031000 +0700" stop="20231102040500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102040500 +0700" stop="20231102050000 +0700" channel="Global Trekker">
+    <title lang="th">First Ladies Revealed</title>
+  </programme>
+  <programme start="20231102050000 +0700" stop="20231102060000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231102060000 +0700" stop="20231102070000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231102070000 +0700" stop="20231102080000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Jeff Bezos</title>
+  </programme>
+  <programme start="20231102080000 +0700" stop="20231102085000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Mark Zuckerberg</title>
+  </programme>
+  <programme start="20231102085000 +0700" stop="20231102095000 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102095000 +0700" stop="20231102104500 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102104500 +0700" stop="20231102113500 +0700" channel="Global Trekker">
+    <title lang="th">First Ladies Revealed</title>
+  </programme>
+  <programme start="20231102113500 +0700" stop="20231102122500 +0700" channel="Global Trekker">
+    <title lang="th">First Ladies Revealed</title>
+  </programme>
+  <programme start="20231102122500 +0700" stop="20231102132000 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Jeff Bezos</title>
+  </programme>
+  <programme start="20231102132000 +0700" stop="20231102140500 +0700" channel="Global Trekker">
+    <title lang="th">Tech Billionaires: Mark Zuckerberg</title>
+  </programme>
+  <programme start="20231102140500 +0700" stop="20231102150000 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102150000 +0700" stop="20231102155000 +0700" channel="Global Trekker">
+    <title lang="th">Alaska Aircrash Investigations</title>
+  </programme>
+  <programme start="20231102155000 +0700" stop="20231102164500 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231102164500 +0700" stop="20231102173500 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231102173500 +0700" stop="20231102182500 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231102182500 +0700" stop="20231102191500 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231102191500 +0700" stop="20231102200500 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231102200500 +0700" stop="20231102205500 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231102205500 +0700" stop="20231102214000 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231102214000 +0700" stop="20231102222500 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231102222500 +0700" stop="20231102232000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231102232000 +0700" stop="20231103001000 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231103001000 +0700" stop="20231103010000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103010000 +0700" stop="20231103015000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103015000 +0700" stop="20231103024000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103024000 +0700" stop="20231103033000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103033000 +0700" stop="20231103041500 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231103041500 +0700" stop="20231103050000 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231103050000 +0700" stop="20231103060000 +0700" channel="Global Trekker">
+    <title lang="th">Air Warriors</title>
+  </programme>
+  <programme start="20231103060000 +0700" stop="20231103065000 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231103065000 +0700" stop="20231103074000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103074000 +0700" stop="20231103083000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103083000 +0700" stop="20231103092000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103092000 +0700" stop="20231103101000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103101000 +0700" stop="20231103105500 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231103105500 +0700" stop="20231103114000 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231103114000 +0700" stop="20231103123000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103123000 +0700" stop="20231103132000 +0700" channel="Global Trekker">
+    <title lang="th">Seriously Amazing Objects</title>
+  </programme>
+  <programme start="20231103132000 +0700" stop="20231103141000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103141000 +0700" stop="20231103150000 +0700" channel="Global Trekker">
+    <title lang="th">The Curious Life And Death Of...</title>
+  </programme>
+  <programme start="20231103150000 +0700" stop="20231103154500 +0700" channel="Global Trekker">
+    <title lang="th">Deadline Day: Football's Transfer Window</title>
+  </programme>
+  <programme start="20231103154500 +0700" stop="20231103163500 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231103163500 +0700" stop="20231103172500 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231103172500 +0700" stop="20231103181000 +0700" channel="Global Trekker">
+    <title lang="th">The Wine Show S2</title>
+  </programme>
+  <programme start="20231103181000 +0700" stop="20231103183500 +0700" channel="Global Trekker">
+    <title lang="th">Essence Of India</title>
+  </programme>
+  <programme start="20231103183500 +0700" stop="20231103190000 +0700" channel="Global Trekker">
+    <title lang="th">Essence Of India</title>
+  </programme>
+  <programme start="20231103190000 +0700" stop="20231103192500 +0700" channel="Global Trekker">
+    <title lang="th">Essence Of India</title>
+  </programme>
+  <programme start="20231103192500 +0700" stop="20231103195000 +0700" channel="Global Trekker">
+    <title lang="th">Essence Of India</title>
+  </programme>
+  <programme start="20231103195000 +0700" stop="20231103202000 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103202000 +0700" stop="20231103205500 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103205500 +0700" stop="20231103212500 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103212500 +0700" stop="20231103220000 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103220000 +0700" stop="20231103223500 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103223500 +0700" stop="20231103230500 +0700" channel="Global Trekker">
+    <title lang="th">United Plates Of America</title>
+  </programme>
+  <programme start="20231103230500 +0700" stop="20231103235500 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231103235500 +0700" stop="20231104004500 +0700" channel="Global Trekker">
+    <title lang="th">History In HD</title>
+  </programme>
+  <programme start="20231031000000 +0700" stop="20231031003000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231031003000 +0700" stop="20231031010000 +0700" channel="BBC News">
+    <title lang="th">Focus on Africa</title>
+  </programme>
+  <programme start="20231031010000 +0700" stop="20231031013000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231031013000 +0700" stop="20231031020000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231031020000 +0700" stop="20231031023000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231031023000 +0700" stop="20231031030000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231031030000 +0700" stop="20231031033000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231031033000 +0700" stop="20231031040000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231031040000 +0700" stop="20231031043000 +0700" channel="BBC News">
+    <title lang="th">BBC World News America</title>
+  </programme>
+  <programme start="20231031043000 +0700" stop="20231031050000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231031050000 +0700" stop="20231031053000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231031053000 +0700" stop="20231031054500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231031054500 +0700" stop="20231031060000 +0700" channel="BBC News">
+    <title lang="th">Sportsday</title>
+  </programme>
+  <programme start="20231031060000 +0700" stop="20231031063000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231031063000 +0700" stop="20231031064500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231031064500 +0700" stop="20231031070000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231031070000 +0700" stop="20231031073000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231031073000 +0700" stop="20231031074500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231031074500 +0700" stop="20231031080000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231031080000 +0700" stop="20231031083000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031083000 +0700" stop="20231031084500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231031084500 +0700" stop="20231031090000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231031090000 +0700" stop="20231031093000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031093000 +0700" stop="20231031100000 +0700" channel="BBC News">
+    <title lang="th">TBA (r)</title>
+  </programme>
+  <programme start="20231031100000 +0700" stop="20231031103000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031103000 +0700" stop="20231031110000 +0700" channel="BBC News">
+    <title lang="th">TBA (r)</title>
+  </programme>
+  <programme start="20231031110000 +0700" stop="20231031113000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031113000 +0700" stop="20231031120000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk</title>
+  </programme>
+  <programme start="20231031120000 +0700" stop="20231031123000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031123000 +0700" stop="20231031130000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231031130000 +0700" stop="20231031133000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031133000 +0700" stop="20231031140000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231031140000 +0700" stop="20231031143000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031143000 +0700" stop="20231031150000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231031150000 +0700" stop="20231031153000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031153000 +0700" stop="20231031160000 +0700" channel="BBC News">
+    <title lang="th">The Travel Show (r)</title>
+  </programme>
+  <programme start="20231031160000 +0700" stop="20231031163000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031163000 +0700" stop="20231031170000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031170000 +0700" stop="20231031173000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031173000 +0700" stop="20231031180000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231031180000 +0700" stop="20231031183000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031183000 +0700" stop="20231031184500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231031184500 +0700" stop="20231031190000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231031190000 +0700" stop="20231031193000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031193000 +0700" stop="20231031200000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031200000 +0700" stop="20231031203000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031203000 +0700" stop="20231031210000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031210000 +0700" stop="20231031213000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031213000 +0700" stop="20231031214500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231031214500 +0700" stop="20231031220000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231031220000 +0700" stop="20231031223000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231031223000 +0700" stop="20231031230000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231031230000 +0700" stop="20231031233000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231031233000 +0700" stop="20231101000000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231101000000 +0700" stop="20231101003000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231101003000 +0700" stop="20231101010000 +0700" channel="BBC News">
+    <title lang="th">Focus on Africa</title>
+  </programme>
+  <programme start="20231101010000 +0700" stop="20231101013000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231101013000 +0700" stop="20231101020000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231101020000 +0700" stop="20231101023000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231101023000 +0700" stop="20231101030000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231101030000 +0700" stop="20231101033000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231101033000 +0700" stop="20231101040000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231101040000 +0700" stop="20231101043000 +0700" channel="BBC News">
+    <title lang="th">BBC World News America</title>
+  </programme>
+  <programme start="20231101043000 +0700" stop="20231101050000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231101050000 +0700" stop="20231101053000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231101053000 +0700" stop="20231101054500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231101054500 +0700" stop="20231101060000 +0700" channel="BBC News">
+    <title lang="th">Sportsday</title>
+  </programme>
+  <programme start="20231101060000 +0700" stop="20231101063000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231101063000 +0700" stop="20231101064500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231101064500 +0700" stop="20231101070000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231101070000 +0700" stop="20231101073000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231101073000 +0700" stop="20231101074500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231101074500 +0700" stop="20231101080000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231101080000 +0700" stop="20231101083000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231101083000 +0700" stop="20231101084500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231101084500 +0700" stop="20231101090000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231101090000 +0700" stop="20231101093000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101093000 +0700" stop="20231101100000 +0700" channel="BBC News">
+    <title lang="th">The Trap: India's Deadliest Scam (r)</title>
+  </programme>
+  <programme start="20231101100000 +0700" stop="20231101103000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101103000 +0700" stop="20231101110000 +0700" channel="BBC News">
+    <title lang="th">The Media Show (r)</title>
+  </programme>
+  <programme start="20231101110000 +0700" stop="20231101113000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101113000 +0700" stop="20231101120000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk</title>
+  </programme>
+  <programme start="20231101120000 +0700" stop="20231101123000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101123000 +0700" stop="20231101130000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231101130000 +0700" stop="20231101133000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101133000 +0700" stop="20231101140000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231101140000 +0700" stop="20231101143000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101143000 +0700" stop="20231101150000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231101150000 +0700" stop="20231101153000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101153000 +0700" stop="20231101160000 +0700" channel="BBC News">
+    <title lang="th">Talking Business (r)</title>
+  </programme>
+  <programme start="20231101160000 +0700" stop="20231101163000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101163000 +0700" stop="20231101170000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101170000 +0700" stop="20231101173000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101173000 +0700" stop="20231101180000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231101180000 +0700" stop="20231101183000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101183000 +0700" stop="20231101184500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231101184500 +0700" stop="20231101190000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231101190000 +0700" stop="20231101193000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101193000 +0700" stop="20231101200000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101200000 +0700" stop="20231101203000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101203000 +0700" stop="20231101210000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101210000 +0700" stop="20231101213000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101213000 +0700" stop="20231101214500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231101214500 +0700" stop="20231101220000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231101220000 +0700" stop="20231101223000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231101223000 +0700" stop="20231101230000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231101230000 +0700" stop="20231101233000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231101233000 +0700" stop="20231102000000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231102000000 +0700" stop="20231102003000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231102003000 +0700" stop="20231102010000 +0700" channel="BBC News">
+    <title lang="th">Focus on Africa</title>
+  </programme>
+  <programme start="20231102010000 +0700" stop="20231102013000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231102013000 +0700" stop="20231102020000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231102020000 +0700" stop="20231102023000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231102023000 +0700" stop="20231102030000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231102030000 +0700" stop="20231102033000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231102033000 +0700" stop="20231102040000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231102040000 +0700" stop="20231102043000 +0700" channel="BBC News">
+    <title lang="th">BBC World News America</title>
+  </programme>
+  <programme start="20231102043000 +0700" stop="20231102050000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231102050000 +0700" stop="20231102053000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231102053000 +0700" stop="20231102054500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231102054500 +0700" stop="20231102060000 +0700" channel="BBC News">
+    <title lang="th">Sportsday</title>
+  </programme>
+  <programme start="20231102060000 +0700" stop="20231102063000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231102063000 +0700" stop="20231102064500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231102064500 +0700" stop="20231102070000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231102070000 +0700" stop="20231102073000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231102073000 +0700" stop="20231102074500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231102074500 +0700" stop="20231102080000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231102080000 +0700" stop="20231102083000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231102083000 +0700" stop="20231102084500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231102084500 +0700" stop="20231102090000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231102090000 +0700" stop="20231102093000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102093000 +0700" stop="20231102100000 +0700" channel="BBC News">
+    <title lang="th">The Media Show (r)</title>
+  </programme>
+  <programme start="20231102100000 +0700" stop="20231102103000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102103000 +0700" stop="20231102110000 +0700" channel="BBC News">
+    <title lang="th">Our World (r)</title>
+  </programme>
+  <programme start="20231102110000 +0700" stop="20231102113000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102113000 +0700" stop="20231102120000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk</title>
+  </programme>
+  <programme start="20231102120000 +0700" stop="20231102123000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102123000 +0700" stop="20231102130000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231102130000 +0700" stop="20231102133000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102133000 +0700" stop="20231102140000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231102140000 +0700" stop="20231102143000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102143000 +0700" stop="20231102150000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231102150000 +0700" stop="20231102153000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102153000 +0700" stop="20231102160000 +0700" channel="BBC News">
+    <title lang="th">Click (r)</title>
+  </programme>
+  <programme start="20231102160000 +0700" stop="20231102163000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102163000 +0700" stop="20231102170000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102170000 +0700" stop="20231102173000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102173000 +0700" stop="20231102180000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231102180000 +0700" stop="20231102183000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102183000 +0700" stop="20231102184500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231102184500 +0700" stop="20231102190000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231102190000 +0700" stop="20231102193000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102193000 +0700" stop="20231102200000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102200000 +0700" stop="20231102203000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102203000 +0700" stop="20231102210000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102210000 +0700" stop="20231102213000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102213000 +0700" stop="20231102214500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231102214500 +0700" stop="20231102220000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231102220000 +0700" stop="20231102223000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231102223000 +0700" stop="20231102230000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231102230000 +0700" stop="20231102233000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231102233000 +0700" stop="20231103000000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231103000000 +0700" stop="20231103003000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231103003000 +0700" stop="20231103010000 +0700" channel="BBC News">
+    <title lang="th">Focus on Africa</title>
+  </programme>
+  <programme start="20231103010000 +0700" stop="20231103013000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231103013000 +0700" stop="20231103020000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231103020000 +0700" stop="20231103023000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231103023000 +0700" stop="20231103030000 +0700" channel="BBC News">
+    <title lang="th">The Daily Global</title>
+  </programme>
+  <programme start="20231103030000 +0700" stop="20231103033000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231103033000 +0700" stop="20231103040000 +0700" channel="BBC News">
+    <title lang="th">The Context</title>
+  </programme>
+  <programme start="20231103040000 +0700" stop="20231103043000 +0700" channel="BBC News">
+    <title lang="th">BBC World News America</title>
+  </programme>
+  <programme start="20231103043000 +0700" stop="20231103050000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231103050000 +0700" stop="20231103053000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231103053000 +0700" stop="20231103054500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231103054500 +0700" stop="20231103060000 +0700" channel="BBC News">
+    <title lang="th">Sportsday</title>
+  </programme>
+  <programme start="20231103060000 +0700" stop="20231103063000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231103063000 +0700" stop="20231103064500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231103064500 +0700" stop="20231103070000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231103070000 +0700" stop="20231103073000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231103073000 +0700" stop="20231103074500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231103074500 +0700" stop="20231103080000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231103080000 +0700" stop="20231103083000 +0700" channel="BBC News">
+    <title lang="th">Newsday</title>
+  </programme>
+  <programme start="20231103083000 +0700" stop="20231103084500 +0700" channel="BBC News">
+    <title lang="th">Asia Business Report</title>
+  </programme>
+  <programme start="20231103084500 +0700" stop="20231103090000 +0700" channel="BBC News">
+    <title lang="th">Sportsday (r)</title>
+  </programme>
+  <programme start="20231103090000 +0700" stop="20231103093000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103093000 +0700" stop="20231103100000 +0700" channel="BBC News">
+    <title lang="th">Our World (r)</title>
+  </programme>
+  <programme start="20231103100000 +0700" stop="20231103103000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103103000 +0700" stop="20231103110000 +0700" channel="BBC News">
+    <title lang="th">Click (r)</title>
+  </programme>
+  <programme start="20231103110000 +0700" stop="20231103113000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103113000 +0700" stop="20231103120000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231103120000 +0700" stop="20231103123000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103123000 +0700" stop="20231103130000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231103130000 +0700" stop="20231103133000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103133000 +0700" stop="20231103140000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231103140000 +0700" stop="20231103143000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103143000 +0700" stop="20231103150000 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231103150000 +0700" stop="20231103153000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103153000 +0700" stop="20231103160000 +0700" channel="BBC News">
+    <title lang="th">The Travel Show (r)</title>
+  </programme>
+  <programme start="20231103160000 +0700" stop="20231103163000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103163000 +0700" stop="20231103170000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103170000 +0700" stop="20231103173000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103173000 +0700" stop="20231103180000 +0700" channel="BBC News">
+    <title lang="th">HARDtalk (r)</title>
+  </programme>
+  <programme start="20231103180000 +0700" stop="20231103183000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103183000 +0700" stop="20231103184500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231103184500 +0700" stop="20231103190000 +0700" channel="BBC News">
+    <title lang="th">BBC News</title>
+  </programme>
+  <programme start="20231103190000 +0700" stop="20231103193000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103193000 +0700" stop="20231103200000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103200000 +0700" stop="20231103203000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103203000 +0700" stop="20231103210000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103210000 +0700" stop="20231103213000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103213000 +0700" stop="20231103214500 +0700" channel="BBC News">
+    <title lang="th">World Business Report</title>
+  </programme>
+  <programme start="20231103214500 +0700" stop="20231103220000 +0700" channel="BBC News">
+    <title lang="th">BBC News Now</title>
+  </programme>
+  <programme start="20231103220000 +0700" stop="20231103223000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231103223000 +0700" stop="20231103230000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231103230000 +0700" stop="20231103233000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
+  <programme start="20231103233000 +0700" stop="20231104000000 +0700" channel="BBC News">
+    <title lang="th">Verified Live</title>
+  </programme>
 </tv>
