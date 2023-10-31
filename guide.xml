@@ -140,6 +140,14 @@
     <display-name lang="en">@TV</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
+  <channel id="3BB Sport one">
+    <display-name lang="en">3BB Sport one</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
+  <channel id="Global Trekker Channel">
+    <display-name lang="en">Global Trekker Channel</display-name>
+    <url>http://www.gigatv.3bbtv.co.th</url>
+  </channel>
   <programme start="20231031000000 +0700" stop="20231031000500 +0700" channel="NBT">
     <title lang="th">ลีลาชีวิต</title>
   </programme>
@@ -9706,4 +9714,314 @@
     <title lang="en">AGE OF TOMORROW ปฏิบัติการสงครามดับทัพอสูร</title>
     <desc lang="en">AGE OF TOMORROW ปฏิบัติการสงครามดับทัพอสูร.(n)</desc>
   </programme>
+  <programme start="20231031000000 +0700" stop="20231031004000 +0700" channel="3BB Sport one">
+    <title lang="th">คดีเด็ด  (Rerun)</title>
+  </programme>
+  <programme start="20231031004000 +0700" stop="20231031013000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
+  </programme>
+  <programme start="20231031013000 +0700" stop="20231031024000 +0700" channel="3BB Sport one">
+    <title lang="th">ชุมทางฮอตโชว์</title>
+  </programme>
+  <programme start="20231031024000 +0700" stop="20231031034000 +0700" channel="3BB Sport one">
+    <title lang="th">รักสลับหน้า (Rerun)</title>
+  </programme>
+  <programme start="20231031034000 +0700" stop="20231031043000 +0700" channel="3BB Sport one">
+    <title lang="th">สุขภาพกับเสียงเพลง</title>
+  </programme>
+  <programme start="20231031043000 +0700" stop="20231031060000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้า-ข่าว 7 สี</title>
+  </programme>
+  <programme start="20231031060000 +0700" stop="20231031073000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  </programme>
+  <programme start="20231031073000 +0700" stop="20231031090500 +0700" channel="3BB Sport one">
+    <title lang="th">สนามข่าว 7 สี</title>
+  </programme>
+  <programme start="20231031090500 +0700" stop="20231031091500 +0700" channel="3BB Sport one">
+    <title lang="th">เงินทองของจริง</title>
+  </programme>
+  <programme start="20231031091500 +0700" stop="20231031111500 +0700" channel="3BB Sport one">
+    <title lang="th">นางร้าย (Rerun) (ตอนแรก)</title>
+  </programme>
+  <programme start="20231031111500 +0700" stop="20231031122500 +0700" channel="3BB Sport one">
+    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  </programme>
+  <programme start="20231031122500 +0700" stop="20231031124000 +0700" channel="3BB Sport one">
+    <title lang="th">เที่ยงบันเทิง สด</title>
+  </programme>
+  <programme start="20231031124000 +0700" stop="20231031124500 +0700" channel="3BB Sport one">
+    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  </programme>
+  <programme start="20231031124500 +0700" stop="20231031130000 +0700" channel="3BB Sport one">
+    <title lang="th">7 สีช่วยชาวบ้าน</title>
+  </programme>
+  <programme start="20231031130000 +0700" stop="20231031134500 +0700" channel="3BB Sport one">
+    <title lang="th">ดวลเพลงดัง พลังอาชีพ</title>
+  </programme>
+  <programme start="20231031134500 +0700" stop="20231031135500 +0700" channel="3BB Sport one">
+    <title lang="th">สดๆ บทไม่มี</title>
+  </programme>
+  <programme start="20231031135500 +0700" stop="20231031140000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231031140000 +0700" stop="20231031154500 +0700" channel="3BB Sport one">
+    <title lang="th">สายโลหิต (Rerun)</title>
+  </programme>
+  <programme start="20231031154500 +0700" stop="20231031173000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  </programme>
+  <programme start="20231031173000 +0700" stop="20231031181500 +0700" channel="3BB Sport one">
+    <title lang="th">ถกไม่เถียง</title>
+  </programme>
+  <programme start="20231031181500 +0700" stop="20231031190000 +0700" channel="3BB Sport one">
+    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  </programme>
+  <programme start="20231031190000 +0700" stop="20231031200000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว</title>
+  </programme>
+  <programme start="20231031200000 +0700" stop="20231031203000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวภาคค่ำ</title>
+  </programme>
+  <programme start="20231031203000 +0700" stop="20231031204000 +0700" channel="3BB Sport one">
+    <title lang="th">เส้นทางบันเทิง</title>
+  </programme>
+  <programme start="20231031204000 +0700" stop="20231031214000 +0700" channel="3BB Sport one">
+    <title lang="th">ลมพัดผ่านดาว</title>
+  </programme>
+  <programme start="20231031214000 +0700" stop="20231031223000 +0700" channel="3BB Sport one">
+    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  </programme>
+  <programme start="20231031223000 +0700" stop="20231031223500 +0700" channel="3BB Sport one">
+    <title lang="th">ชิดจอ..รอดู</title>
+  </programme>
+  <programme start="20231031223500 +0700" stop="20231031225500 +0700" channel="3BB Sport one">
+    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231031225500 +0700" stop="20231031232500 +0700" channel="3BB Sport one">
+    <title lang="th">SPORTS LIFE</title>
+  </programme>
+  <programme start="20231031232500 +0700" stop="20231031235500 +0700" channel="3BB Sport one">
+    <title lang="th">ONE LUMPINEE HEROES</title>
+  </programme>
+  <programme start="20231031235500 +0700" stop="20231101000000 +0700" channel="3BB Sport one">
+    <title lang="th">ดวลเพลงดัง พลังอาชีพ (Rerun)</title>
+  </programme>
+  <programme start="20231101000000 +0700" stop="20231101004000 +0700" channel="3BB Sport one">
+    <title lang="th">ดวลเพลงดัง พลังอาชีพ (Rerun)</title>
+  </programme>
+  <programme start="20231101004000 +0700" stop="20231101013000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
+  </programme>
+  <programme start="20231101013000 +0700" stop="20231101024000 +0700" channel="3BB Sport one">
+    <title lang="th">ชุมทางฮอตโชว์</title>
+  </programme>
+  <programme start="20231101024000 +0700" stop="20231101034000 +0700" channel="3BB Sport one">
+    <title lang="th">รักสลับหน้า (Rerun)</title>
+  </programme>
+  <programme start="20231101034000 +0700" stop="20231101043000 +0700" channel="3BB Sport one">
+    <title lang="th">สุขภาพกับเสียงเพลง</title>
+  </programme>
+  <programme start="20231101043000 +0700" stop="20231101060000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้า-ข่าว 7 สี</title>
+  </programme>
+  <programme start="20231101060000 +0700" stop="20231101073000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  </programme>
+  <programme start="20231101073000 +0700" stop="20231101090500 +0700" channel="3BB Sport one">
+    <title lang="th">สนามข่าว 7 สี</title>
+  </programme>
+  <programme start="20231101090500 +0700" stop="20231101091500 +0700" channel="3BB Sport one">
+    <title lang="th">เงินทองของจริง</title>
+  </programme>
+  <programme start="20231101091500 +0700" stop="20231101111500 +0700" channel="3BB Sport one">
+    <title lang="th">นางร้าย (Rerun)</title>
+  </programme>
+  <programme start="20231101111500 +0700" stop="20231101122500 +0700" channel="3BB Sport one">
+    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  </programme>
+  <programme start="20231101122500 +0700" stop="20231101124000 +0700" channel="3BB Sport one">
+    <title lang="th">เที่ยงบันเทิง สด</title>
+  </programme>
+  <programme start="20231101124000 +0700" stop="20231101124500 +0700" channel="3BB Sport one">
+    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  </programme>
+  <programme start="20231101124500 +0700" stop="20231101130000 +0700" channel="3BB Sport one">
+    <title lang="th">กระจกหกด้าน</title>
+  </programme>
+  <programme start="20231101130000 +0700" stop="20231101134500 +0700" channel="3BB Sport one">
+    <title lang="th">ดวลเพลงดัง แชมป์ชนแชมป์</title>
+  </programme>
+  <programme start="20231101134500 +0700" stop="20231101135500 +0700" channel="3BB Sport one">
+    <title lang="th">สดๆ บทไม่มี</title>
+  </programme>
+  <programme start="20231101135500 +0700" stop="20231101140000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231101140000 +0700" stop="20231101154500 +0700" channel="3BB Sport one">
+    <title lang="th">สายโลหิต (Rerun)</title>
+  </programme>
+  <programme start="20231101154500 +0700" stop="20231101173000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  </programme>
+  <programme start="20231101173000 +0700" stop="20231101181500 +0700" channel="3BB Sport one">
+    <title lang="th">ถกไม่เถียง</title>
+  </programme>
+  <programme start="20231101181500 +0700" stop="20231101190000 +0700" channel="3BB Sport one">
+    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  </programme>
+  <programme start="20231101190000 +0700" stop="20231101200000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว</title>
+  </programme>
+  <programme start="20231101200000 +0700" stop="20231101203000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวภาคค่ำ</title>
+  </programme>
+  <programme start="20231101203000 +0700" stop="20231101204000 +0700" channel="3BB Sport one">
+    <title lang="th">เส้นทางบันเทิง</title>
+  </programme>
+  <programme start="20231101204000 +0700" stop="20231101214000 +0700" channel="3BB Sport one">
+    <title lang="th">ลมพัดผ่านดาว</title>
+  </programme>
+  <programme start="20231101214000 +0700" stop="20231101223000 +0700" channel="3BB Sport one">
+    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  </programme>
+  <programme start="20231101223000 +0700" stop="20231101225000 +0700" channel="3BB Sport one">
+    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231101225000 +0700" stop="20231101232000 +0700" channel="3BB Sport one">
+    <title lang="th">MOTOR CHANNEL</title>
+  </programme>
+  <programme start="20231101232000 +0700" stop="20231101235000 +0700" channel="3BB Sport one">
+    <title lang="th">ONE LUMPINEE HEROES</title>
+  </programme>
+  <programme start="20231101235000 +0700" stop="20231102000000 +0700" channel="3BB Sport one">
+    <title lang="th">สดๆ บทมาเต็ม</title>
+  </programme>
+  <programme start="20231102000000 +0700" stop="20231102002000 +0700" channel="3BB Sport one">
+    <title lang="th">สดๆ บทมาเต็ม</title>
+  </programme>
+  <programme start="20231102002000 +0700" stop="20231102011000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว (Rerun)</title>
+  </programme>
+  <programme start="20231102011000 +0700" stop="20231102024000 +0700" channel="3BB Sport one">
+    <title lang="th">ชุมทางฮอตโชว์</title>
+  </programme>
+  <programme start="20231102024000 +0700" stop="20231102034000 +0700" channel="3BB Sport one">
+    <title lang="th">รักสลับหน้า (Rerun)</title>
+  </programme>
+  <programme start="20231102034000 +0700" stop="20231102043000 +0700" channel="3BB Sport one">
+    <title lang="th">สุขภาพกับเสียงเพลง</title>
+  </programme>
+  <programme start="20231102043000 +0700" stop="20231102060000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้า-ข่าว 7 สี</title>
+  </programme>
+  <programme start="20231102060000 +0700" stop="20231102073000 +0700" channel="3BB Sport one">
+    <title lang="th">เช้านี้...ที่หมอชิต</title>
+  </programme>
+  <programme start="20231102073000 +0700" stop="20231102090500 +0700" channel="3BB Sport one">
+    <title lang="th">สนามข่าว 7 สี</title>
+  </programme>
+  <programme start="20231102090500 +0700" stop="20231102091500 +0700" channel="3BB Sport one">
+    <title lang="th">เงินทองของจริง</title>
+  </programme>
+  <programme start="20231102091500 +0700" stop="20231102111500 +0700" channel="3BB Sport one">
+    <title lang="th">นางร้าย (Rerun)</title>
+  </programme>
+  <programme start="20231102111500 +0700" stop="20231102122500 +0700" channel="3BB Sport one">
+    <title lang="th">ห้องข่าวภาคเที่ยง</title>
+  </programme>
+  <programme start="20231102122500 +0700" stop="20231102124000 +0700" channel="3BB Sport one">
+    <title lang="th">เที่ยงบันเทิง สด</title>
+  </programme>
+  <programme start="20231102124000 +0700" stop="20231102124500 +0700" channel="3BB Sport one">
+    <title lang="th">ช็อตเด็ดแม่ไม้มวยไทย 7 สี</title>
+  </programme>
+  <programme start="20231102124500 +0700" stop="20231102134500 +0700" channel="3BB Sport one">
+    <title lang="th">ชุมทางดาวทอง</title>
+  </programme>
+  <programme start="20231102134500 +0700" stop="20231102135500 +0700" channel="3BB Sport one">
+    <title lang="th">สดๆ บทไม่มี 2 พ.ย. 66</title>
+  </programme>
+  <programme start="20231102135500 +0700" stop="20231102140000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231102140000 +0700" stop="20231102154500 +0700" channel="3BB Sport one">
+    <title lang="th">สายโลหิต (Rerun)</title>
+  </programme>
+  <programme start="20231102154500 +0700" stop="20231102173000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวเย็นประเด็นร้อน</title>
+  </programme>
+  <programme start="20231102173000 +0700" stop="20231102181500 +0700" channel="3BB Sport one">
+    <title lang="th">ถกไม่เถียง</title>
+  </programme>
+  <programme start="20231102181500 +0700" stop="20231102190000 +0700" channel="3BB Sport one">
+    <title lang="th">ซีรีส์ ภารกิจรัก เหนี่ยวหัวใจสุดไกปืน (Rerun)</title>
+  </programme>
+  <programme start="20231102190000 +0700" stop="20231102200000 +0700" channel="3BB Sport one">
+    <title lang="th">มนตราตะเกียงแก้ว</title>
+  </programme>
+  <programme start="20231102200000 +0700" stop="20231102203000 +0700" channel="3BB Sport one">
+    <title lang="th">ข่าวภาคค่ำ</title>
+  </programme>
+  <programme start="20231102203000 +0700" stop="20231102204000 +0700" channel="3BB Sport one">
+    <title lang="th">เส้นทางบันเทิง</title>
+  </programme>
+  <programme start="20231102204000 +0700" stop="20231102214000 +0700" channel="3BB Sport one">
+    <title lang="th">ลมพัดผ่านดาว (ตอนจบ)</title>
+  </programme>
+  <programme start="20231102214000 +0700" stop="20231102223000 +0700" channel="3BB Sport one">
+    <title lang="th">สารวัตรใหญ่ (Rerun)</title>
+  </programme>
+  <programme start="20231102223000 +0700" stop="20231102223500 +0700" channel="3BB Sport one">
+    <title lang="th">ชิดจอ..รอดู</title>
+  </programme>
+  <programme start="20231102223500 +0700" stop="20231102225500 +0700" channel="3BB Sport one">
+    <title lang="th">ประเด็นเด็ด 7 สี</title>
+  </programme>
+  <programme start="20231102225500 +0700" stop="20231102231500 +0700" channel="3BB Sport one">
+    <title lang="th">กินไหน ไปด้วยกัน (Rerun)</title>
+  </programme>
+  <programme start="20231102231500 +0700" stop="20231103000000 +0700" channel="3BB Sport one">
+    <title lang="th">BID COIN CHEF Season 2 สุดยอดเชฟหักเหลี่ยมโหด ซีซั่น 2 (Rerun)</title>
+  </programme>
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
+  <programme start="20231031000000 +0700" stop="20231031000000 +0700" channel="Global Trekker Channel" />
 </tv>
