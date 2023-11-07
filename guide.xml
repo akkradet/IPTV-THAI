@@ -180,6 +180,38 @@
     <display-name lang="en">ROCK ENTERTAINMENT</display-name>
     <url>http://www.aisplay.ais.co.th</url>
   </channel>
+  <channel id="EN - TR PF HD1">
+    <display-name lang="en">EN - TR PF HD1</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TR PF HD2">
+    <display-name lang="en">EN - TR PF HD2</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TR SPORT HD">
+    <display-name lang="en">EN - TR SPORT HD</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TR SPORT HD2">
+    <display-name lang="en">EN - TR SPORT HD2</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TR SPORT HD3">
+    <display-name lang="en">EN - TR SPORT HD3</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TR SPORT HD4">
+    <display-name lang="en">EN - TR SPORT HD4</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TRSP5">
+    <display-name lang="en">EN - TRSP5</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="EN - TRSP7">
+    <display-name lang="en">EN - TRSP7</display-name>
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
   <programme start="20231107000000 +0700" stop="20231107000500 +0700" channel="NBT">
     <title lang="th">ลีลาชีวิต</title>
   </programme>
