@@ -38,9 +38,9 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Jomyut" tvg-name="Jomyut" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/x240.png",Jomyut
+#EXTINF:-1 tvg-chno="9" tvg-id="Thai Chaiyo.th" tvg-name="Thai Chaiyo" group-title="Digital TV" tvg-logo="https://i.imgur.com/uOfb3y1.png",Thai Chaiyo
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
+https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Parliament.th" tvg-name="Parliament" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0048.png",Parliament
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
