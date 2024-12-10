@@ -8,7 +8,7 @@ on:
       - master
   pull_request:
     branches:
-      - main
+      - master
 
 env:
   TZ: Asia/Bangkok # ตั้ง Time Zone เป็น Asia/Bangkok
