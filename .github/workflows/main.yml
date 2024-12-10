@@ -5,7 +5,7 @@ on:
     - cron: "0 1 * * *" # รันทุกวันตอนตี 1
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
       - main
