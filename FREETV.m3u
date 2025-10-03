@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600"
 
 # =======================================================
-# Last Update: 2025-10-03 07:42:36 UTC+07 ICT
+# Last Update: 2025-10-03 13:14:19 UTC+07 ICT
 # =======================================================
 
 #EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
@@ -147,10 +147,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 #EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-
-#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD.th" tvg-name="NHK WORLD" tvg-logo="https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg" group-title="Digital TV", NHK WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
 #EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV4.th" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV", CCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
