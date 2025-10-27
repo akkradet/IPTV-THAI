@@ -30,7 +30,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Digital TV", T SPORT
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/live/tsport.m3u8
+https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" tvg-logo="https://media-mvtv2.imgix.net/channel/89_y_l7aeSDC2FoVrMXdqQ93vutZisHmhxykL.jpg" group-title="Digital TV", MVMall Trend
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
@@ -42,7 +42,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
 
 #EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Digital TV", TPTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/live/tptv.m3u8
+https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy (58).th" tvg-name="MVMall Healthy (58)" tvg-logo="https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png" group-title="Digital TV", MVMall Healthy (58)
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
