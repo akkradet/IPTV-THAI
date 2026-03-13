@@ -1,0 +1,31 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/guide/th.xml" refresh="3600"
+#EXTINF:-1 tvg-id="ch3.th" tvg-logo="https://api.bananabatman.org/images/png/hd-ch3.png" group-title="ทีวีออนไลน์",Ch3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://ch3plus.com/
+https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1770684902&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=4asoTlI5ZqOBji2_h2lkdg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1tvg-id="Thairath TV" tvg-logo="https://api.bananacake.org/images/png/hd-thairath.png" group-title="ทีวีออนไลน์",Thairath TV
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8
+#EXTINF:-1 tvg-id="mono29.th" tvg-logo="https://api.bananabatman.org/images/png/hd-mono.png" group-title="ทีวีออนไลน์",Mono29
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="ch5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="ทีวีออนไลน์",ch5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1197956940.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://api.bananabatman.org/images/png/sd-gmmchannel.png" group-title="ทีวีออนไลน์",GMM25
+https://bit.ly/4krIFhk|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="ch8.th" tvg-logo="https://api.bananabatman.org/images/png/hd-ch8.png" group-title="ทีวีออนไลน์",Ch8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="workpiont.th" tvg-logo="https://api.bananabatman.org/images/png/hd-workpoint.png" group-title="ทีวีออนไลน์",Workpiont
+https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.uUyBm9qD6r-8C1u9qpDjxwRqIhHbkdjwc4-1nFHzwWQC-NkoJB79V4XpldmTJElLljlDGAqP4n349ZIm4YJWHxhH8LZhIQbt4XWJNjjMrO16JUHVpbkxU3FyV2xRDYK2oluf8SlvpjAATnf1CrhP0WUV2qJ3qn2IGqod1eJ62f3x8I_OdOtbbcEfkusEwUIZrItolu5vJFMV9hucC2Ntqg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1tvg-id="workpiont.th"tvg-logo="https://api.bananabatman.org/images/png/hd-workpoint.png" group-title="ทีวีออนไลน์",Workpiont(Backup)
+https://live-global-cdn-v02.sooplive.co.kr/live-stm-05/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.uUyBm9qD6r-8C1u9qpDjx4Ow-N0GiYQgEMFhFfRssac-bKKHuTKcGzdVMjkDxEqR4lKbMnwSmgC8wm8EUqWR7GBFJxWNvw0CnZq3ATwbhepuiQGSkDf3mlmQBRe4t-M8B7bUpunuDQnyPObIndYXDpuiwpk4EHYp1FfJp1d0leKvv96RM6UUHA_AY5FD3d4E|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="ThaiPBS"tvg-logo="https://api.bananacake.org/images/png/hd-tpbs.png" group-title="ทีวีออนไลน์",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="ch8"tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="ทีวีออนไลน์",ch8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="MCOT"tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="ทีวีออนไลน์",MCOT
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+
+
+
