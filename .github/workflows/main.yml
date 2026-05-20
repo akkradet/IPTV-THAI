@@ -34,7 +34,7 @@ jobs:
       run: git clone git@github.com:akkradet/epg-grabber.git epg-grabber
 
     - name: Setup PHP
-      uses: shivammathur/setup-php@2.31.1
+      uses: shivammathur/setup-php@2.37.1
       with:
         php-version: 8.3
         extensions: xml, imagick, zip, curl
